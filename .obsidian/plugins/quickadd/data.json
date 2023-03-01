@@ -1,0 +1,155 @@
+{
+  "choices": [
+    {
+      "id": "63181008-3b58-421c-bbc8-c2358c182601",
+      "name": "New Quest",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00 - Life Management System/00 - Templates/Daily Note Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Append to the top of the file",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "d7802917-2e8b-4012-808c-b5b266fb1b92",
+      "name": "New Mission",
+      "type": "Template",
+      "command": true,
+      "templatePath": "00 - Life Management System/00 - Templates/New Mission Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Append to the top of the file",
+      "setFileExistsBehavior": true
+    }
+  ],
+  "macros": [
+    {
+      "name": "New Quest",
+      "id": "6d2a7a17-b12b-4a92-bbce-8f2c1ce33a1f",
+      "commands": [
+        {
+          "name": "New Quest Template",
+          "type": "NestedChoice",
+          "id": "1b47a029-4226-4aaf-b3f2-1152e94135d9",
+          "choice": {
+            "id": "65a8f537-9e39-4b75-8172-536773b69e55",
+            "name": "New Quest Template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "00 - Life Management System/00 - Templates/New Quest Template.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "00 - Life Management System/02 - Quests"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Append to the bottom of the file",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "New Mission",
+      "id": "1746b1fa-a73d-40c9-8fcf-6e46cce10e23",
+      "commands": [
+        {
+          "name": "New Mission Template",
+          "type": "NestedChoice",
+          "id": "5bb1c2cc-ec83-4a05-867a-e86ad4d08438",
+          "choice": {
+            "id": "004460e8-5e08-466a-981b-c1a698d6d0ea",
+            "name": "New Mission Template",
+            "type": "Template",
+            "command": false,
+            "templatePath": "00 - Life Management System/00 - Templates/New Mission Template.md",
+            "fileNameFormat": {
+              "enabled": false,
+              "format": ""
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "00 - Life Management System/02 - Quests"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": true,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "00 - Life Management System/00 - Templates",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true
+  }
+}

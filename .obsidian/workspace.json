@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a6792aa0cf4e3f1",
+        "id": "1a5c6f12e00c45ee",
         "type": "tabs",
         "children": [
           {
-            "id": "4f871a091130e07a",
+            "id": "0c132bc6cd4c8c8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "358a2c5a31840e01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "111410501a2d9c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading List.md",
+                "file": "Use The System.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,15 +31,20 @@
       {
         "id": "118dff8f88c007f5",
         "type": "tabs",
+        "dimension": 23.586744639376217,
         "children": [
           {
-            "id": "c58140f8b6040595",
+            "id": "dcd368359a38afb6",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "file": "00 - Life Management System/04 - Tools/Quick Links.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
@@ -72,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#note-systems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +69,76 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "0308e6202cba7477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Use The System.md"
+              }
+            }
+          },
+          {
+            "id": "d56b4098dfa3870c",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ]
+      },
+      {
+        "id": "1cd1d7f2fd54f62e",
+        "type": "tabs",
+        "dimension": 76.41325536062378,
+        "children": [
+          {
+            "id": "ddbd4837fd302977",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Life Management System/04 - Tools/Obsidian Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3a9087cbfc7f3992",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Life Management System/03 - Workflow/Workflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c58140f8b6040595",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "right": {
     "id": "d87936e143ff0fdc",
@@ -102,15 +147,30 @@
       {
         "id": "04b2c928427373e2",
         "type": "tabs",
+        "dimension": 62.57309941520468,
         "children": [
+          {
+            "id": "6c1d6fc2d299114c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Life Management System/04 - Tools/Quest Tracker.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
           {
             "id": "9e575d04611b5b41",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "file": "Use The System.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -126,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Use The System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,36 +204,97 @@
             }
           },
           {
-            "id": "0308e6202cba7477",
+            "id": "2800f646b139a164",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "3c6883d0f1c60855",
+        "type": "tabs",
+        "dimension": 37.42690058479532,
+        "children": [
+          {
+            "id": "40bd0667a653677f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "README.md"
-              }
+                "file": "00 - Life Management System/02 - Quests/Campaigns.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5408fa1b24c9fd50",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4f871a091130e07a",
+  "active": "0c132bc6cd4c8c8a",
   "lastOpenFiles": [
-    "Reading List.md",
+    "Use The System.md",
+    "00 - Life Management System/04 - Tools/Quick Links.md",
+    "00 - Life Management System/03 - Workflow/Workflow.md",
+    "00 - Life Management System/01 - Daily Notes/2023-02-28.md",
+    "00 - Life Management System/02 - Quests/Campaigns.md",
+    "Cannabis.md",
+    "Set Up Obsidian.md",
+    "00 - Life Management System/04 - Tools/Obsidian Cheat Sheet.md",
+    "00 - Life Management System/00 - Templates/Daily Note Template.md",
+    "00 - Life Management System/04 - Tools/Quest Tracker.md",
+    "Make Quests.md",
+    "README.md",
     "Systems.md",
-    "README.md"
+    "Tools.md",
+    "00 - Life Management System/00 - Templates/Templates.md",
+    "00 - Life Management System/00 - Templates/New Quest Template.md",
+    "Create Maintenance views.md",
+    "Investigate Google Calendar Import.md",
+    "Untitled.md",
+    "00 - Life Management System/02 - Quests/Get Adderall.md",
+    "00 - Life Management System/01 - Daily Notes/2023-02-27.md",
+    "00 - Life Management System/Life Management System.md",
+    "00 - Life Management System/02 - Quests/Quest.md",
+    "00 - Life Management System/05 - Documentation",
+    "Untitled",
+    "00 - Life Management System/02 - Quests/Quests.md",
+    "00 - Life Management System/04 - Tools",
+    "00 - Life Management System/03 - Workflow",
+    "00 - Life Management System/05 - Documentation/Obsidian.md",
+    "00 - Life Management System/05 - Documentation/Meld Encrypt.md",
+    "01 - Personal Wellness",
+    "00 - Life Management System/02 - Quests",
+    "00 - Life Management System/01 - Daily Notes",
+    "00 - Life Management System/00 - Templates",
+    "00 - Life Management System"
   ]
 }

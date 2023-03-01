@@ -1,0 +1,23 @@
+#knowledge 
+- ### Quests
+	- New Quest - Ctrl+Q
+	- New Mission - Ctrl+M
+- ### Open
+	- Daily Note - Ctrl+D
+	- Follow Link - Ctrl+Enter
+	- Quick Switcher - Ctrl+O
+	- Context Menu - Alt+Enter
+- ### Insert
+	- Date stamp - Ctrl+N
+	- Time stamp - Alt+N
+	- Date & Time Stamp - Ctrl+Alt+N
+	- Link ``[]()`` - Ctrl+K
+- ### Navigate
+	- Back - Ctrl+Alt+⬅
+	- Forward - Ctrl+Alt+➡
+	- Cycle Tabs - Ctrl+Tab
+	- Close Tab - Ctrl+W
+- ### View
+	- All Commands - Ctrl+P
+	- Toggle Edit Mode - Ctrl+E
+	- Toggle Source Mode - Alt+E
