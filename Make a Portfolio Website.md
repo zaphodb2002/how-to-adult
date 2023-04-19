@@ -1,0 +1,33 @@
+---
+share: true
+type: "quest"
+sub-type: "major"
+status: "available"
+campaign: "Financial Stability"
+aspect: "Digital Footprint"
+created: <%+ tp.file.creation_date() %> 
+modified: <%+ tp.file.last_modified_date() %>
+---
+ 
+#available 
+# Things to Do
+
+
+# Summary
+## Campaign: [Financial Stability](Financial%20Stability.md)
+
+## Complete Criteria:
+1. Own JoshuaLindhardt.com or similar
+2. The website is hosted and available on the internet
+3. The website shows 4 coding projects, completed
+4. The website has my github stats embedded in it
+5. Links to my socials (Itch.io and github at least)
+
+## Why is this important?:
+Need to be able to prove to people that I can make things.
+
+# Missions
+1. [Create a simple project on github](./Create%20a%20simple%20project%20on%20github.md)
+
+# Things I've Done
+- [x] Create the first mission for this quest 🛫 2023-03-20 ✅ 2023-03-20

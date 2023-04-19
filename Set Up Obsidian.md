@@ -1,20 +1,55 @@
 ---
-created: 2023-02-28 10:15 
-modified: 2023-02-28 10:15
+share: true
+type: "quest"
+sub-type: "minor"
+status: "available"
+
+created: <%+ tp.file.creation_date() %> 
+modified: <%+ tp.file.last_modified_date() %>
 ---
-#quest 
+ 
+#available 
+
+campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+aspect:: [02 - Tools](./02%20-%20Tools.md)
+# Things to Do
+- [ ] New Mission: Make the colors match in the big graph and the little graph in Obsidian 🥄1 ⏫ ➕ 2023-04-11 
+- [ ] New Mission: Implement a tool to auto-populate metadata from content 🥄1 ⏫ ➕ 2023-03-30
+- [ ] New Mission: Implement a Timer in Obsidian 🥄1 ⏫ ➕ 2023-03-30
+- [x] Create the first mission for this quest ➕ 2023-03-22 ✅ 2023-03-29
+- [ ] New Mission: Obsidian Plugins Research 🥄1 ⏫
+	- https://github.com/lynchjames/obsidian-day-planner
+	- https://vinzent03.github.io/obsidian-advanced-uri/
+	- https://github.com/shabegom/buttons
+	- https://github.com/uphy/obsidian-reminder
+	- https://davish.github.io/obsidian-full-calendar/
+	- https://github.com/pyrochlore/obsidian-tracker
+	- https://github.com/marcusolsson/obsidian-projects
+	- https://github.com/ryanjamurphy/review-obsidian
+	- https://github.com/Richardsl/heatmap-calendar-obsidian
+	- https://github.com/anpigon/obsidian-book-search-plugin
+	- https://coddingtonbear.github.io/obsidian-local-rest-api/
+	- https://github.com/YukiGasai/obsidian-google-calendar
+	- https://github.com/TfTHacker/obsidian42-text-transporter
+	- https://github.com/abcjs-music/obsidian-plugin-abcjs
+	- https://github.com/Johnson0907/obsidian-file-cleaner
+	- https://github.com/duoani/obsidian-habit-tracker
+	- https://github.com/bramses/bramses-highly-opinionated-vault-2023
+	- https://stenography.dev/
+	- https://github.com/jon-heard/obsidian-inline-scripts
+	- https://github.com/carlonicora/obsidian-rpg-manager
+	- https://github.com/caronchen/obsidian-calibre-plugin
 # Summary
-## Campaign: [Life Management System](Life%20Management%20System.md)
+## Campaign:  [Life Management System](./00%20-%20Life%20Management%20System.md)
 
-## What is the intended product or question to be answered?
-Will produce a usable Obsidian to work on "The System"
-
+## Complete Criteria:
+1. 
 ## Why is this important?:
 The easier it is to use the more I'll use it
 
 # Missions
-1. [Investigate Google Calendar Import](Investigate%20Google%20Calendar%20Import.md)
-2. [Create Maintenance views](Create%20Maintenance%20views.md)
+1. [Investigate Google Calendar Import](./Investigate%20Google%20Calendar%20Import.md#)
+2. [Create Maintenance views](./Create%20Maintenance%20views.md#)
 3. Flesh out the Most Important Task
 4. Set up time tracking
 5. Figure out inline template inserting (timestamps and whatnot)
@@ -24,3 +59,6 @@ The easier it is to use the more I'll use it
 9. Investigate dv.view() for the Quest Tracker
 10. Add folding to Quest Tracker
 11. Hide quests or missions if they're complete or before the cutoff date
+
+
+# Things I've Done

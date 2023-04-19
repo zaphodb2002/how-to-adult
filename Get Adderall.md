@@ -1,0 +1,35 @@
+---
+share: true
+type: "quest"
+sub-type: "minor"
+status: "active"
+
+created: <%+ tp.file.creation_date() %> 
+modified: <%+ tp.file.last_modified_date() %>
+---
+ 
+#active  
+# Things to Do
+- [x] New Mission: Should this be a routine instead? 🥄1 ⏫ ➕ 2023-03-31 ⏳ 2023-04-17 ✅ 2023-04-17
+# Summary
+campaign:: [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
+aspect:: [02 - ADHD](./02%20-%20ADHD.md)
+## Complete Criteria:
+1. Fill my med containers with Adderall.
+
+## Why is this important?:
+
+# Missions
+1. [Get The Renewal](./Get%20The%20Renewal.md)
+2. [Acquire the Drugs](./Acquire%20the%20Drugs.md)
+3. [Convert to a Monthly Routine](./Convert%20to%20a%20Monthly%20Routine.md)
+
+# Notes
+https://www.cvs.com/pharmacy/v1/#/rxcenter
+
+
+# Things I've Done
+
+
+
+
