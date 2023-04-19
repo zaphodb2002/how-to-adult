@@ -1,66 +1,65 @@
+---
+share: true
+type: tool
+status: active
+---
 # How To Adult
 
-What are the goals?
-- Foster Mindfulness
-- Complete Goals On Time
-- Create Structure
-- Invest in Myself
-- Document EVERYTHING
+`= "[Today's Note ("+ dateformat(date(today),"yyyy-MM-dd") +")](" + dateformat(date(today), "yyyy-MM-dd") + ")"`
+This LMS is `= date(today) - date("2023-02-27")` old.
 
+## Campaigns
+### [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Life Management System")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Life Management System")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Life Management System")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Life Management System")).file.link`
+	
+### [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Personal Wellness")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Personal Wellness")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Personal Wellness")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Personal Wellness")).file.link`
+### [02 - Financial Stability](./02%20-%20Financial%20Stability.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Financial Stability")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Financial Stability")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Financial Stability")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Financial Stability")).file.link`
+### [03 - Video Games](./03%20-%20Video%20Games.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Video Games")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Video Games")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Video Games")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Video Games")).file.link`
 
-What are the challenges?
-- ADHD
-	- Boredom
-	- Overwhelmed
-- Depression
-- Decision Paralysis
+### [04 - Psychonautics](./04%20-%20Psychonautics.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Psychonautics")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Psychonautics")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Psychonautics")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Psychonautics")).file.link`
+### [05 - Music](./05%20-%20Music.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Music")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Music")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Music")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Music")).file.link`
+### [06 - Literature](./06%20-%20Literature.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Literature")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Literature")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Literature")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Literature")).file.link`
+### [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Self Sufficiency")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Self Sufficiency")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Self Sufficiency")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Self Sufficiency")).file.link`
+### [08 - Animation](./08%20-%20Animation.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Animation")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Animation")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Animation")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Animation")).file.link`
+### [09 - Cinema](./09%20-%20Cinema.md)
+Main Quest: `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "main" && page["status"] == "active" && page.file.folder.includes("Cinema")).file.link`
+Active Major Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "major" && page["status"] == "active" && page.file.folder.includes("Cinema")).file.link`
+Active Minor Quests:  `$= dv.pages().where(page => page["type"] == "quest" && page["sub-type"] == "minor" && page["status"] == "active" && page.file.folder.includes("Cinema")).file.link`
+Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page["status"] == "active" && page.file.folder.includes("Cinema")).file.link`
 
-What has worked?
-- ADDERALL
-- CAFFEINE
-- Priority Lists with Prompts
-- Short (timed) work periods
-- Minimizing distraction (working alone, with headphones, silenced phone)
-- linking work to the length of an album, chapter of audiobook, or podcast
-- Time Estimates and Tracking
-- Designated places for things, preferably easy to see and near where the thing is used
-- Breaking down tasks to reasonable size (time estimating helps with this as I'm bad at assessing )
-- associating tasks with the Why of them.
-- Meditation
-- Taking at least one day off a week
-- 
-- Gamification (Though I struggle with withholding things for reward, need external reward)
-- Pleasant Morning Routines (though I often lose them with Depression)
-- making things I don't like as easy as possible
-
-What has not worked?
-- Phone Apps (I don't really use my phone that much)
-- Habitica (I did all possible things but it worked until then)
-- Calendar Events
-- Alarms (though they help to mark time)
-- Boxes or drawers, anything I can't see into
-
-What haven't I tried?
-- Having an accountability partner
-- Keeping a clean workspace
-- Positive affirmations
-- Managing Expectations (lol)
-
-What do I like?
-- Flow State
-- Rules
-- Being Clever
-- Discovery
-- Mastery
-
-What do I not like?
-- Arbitrarily made decisions (use dice rolls!)
-- Cleaning
-- Wearing pants
-
-What am I trying to accomplish with this document?
-- Journal, to record data
-- Research, and build knowledge bases
-- Document instructions and protocols for managing life for consistency.
-- 
 
