@@ -4,13 +4,15 @@ type: "aspect"
 created: NaN 
 modified: NaN
 ---
-
+ 
 # Things to Do
-
+ 
 # Summary
-campaign:: [09 - Cinema](./09%20-%20Cinema.md)
+campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
+[Plant Record Hub](./Plant%20Record%20Hub.md)
 
 # Quests
+
 
 # Things I've Done
 
