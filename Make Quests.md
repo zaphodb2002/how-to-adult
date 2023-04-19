@@ -1,8 +1,18 @@
 ---
-created: 2023-02-28 12:10 
-modified: 2023-02-28 12:10
----
-#mission 
+share: true
+type: "mission"
+quest: "Use The System"
+status: "available"
 
-- [ ] 📅 2023-02-28 Review Yesterday's notes and make any quests needed
-- [ ] 📅 2023-02-28 Review Campaigns and make any quests needed
+created: <%+ tp.file.creation_date() %> 
+modified: <%+ tp.file.last_modified_date() %>
+---
+#available 
+# Summary
+
+# Tasks
+- [ ] Create the first task for this mission 🥄1 ⏫ ➕ 2023-03-24
+
+# Notes
+
+# Things I've Done
