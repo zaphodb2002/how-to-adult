@@ -1,7 +1,10 @@
-#knowledge 
-
-
-
+---
+share: true
+type: "knowledge"
+created: <%+ tp.file.creation_date() %> 
+modified: <%+ tp.file.last_modified_date() %>
+---
+ 
 https://mattgiaro.com/obsidian-zettelkasten/
 
 Zettelkasten is German for "slip box".
