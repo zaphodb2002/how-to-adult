@@ -1,0 +1,31 @@
+---
+share: true
+type: "quest"
+sub-type: "minor"
+status: "active"
+
+created: NaN 
+modified: NaN
+---
+ 
+#active  
+# Things to Do
+
+# Summary
+campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+aspect:: [03 - Workflow](./03%20-%20Workflow.md)
+started:: [2023-04-10](./2023-04-10.md)
+completed::
+## Complete Criteria:
+1. 
+
+## Why is this important?:
+
+# Missions
+1. [Document Task Entry](./Document%20Task%20Entry.md)
+2. [Document New LMS Setup](./Document%20New%20LMS%20Setup.md)
+
+# Notes
+
+# Things I've Done
+- [x] New Mission: Document New LMS Setup 🥄1 ➕ 2023-04-10 ⏳ 2023-04-17 ✅ 2023-04-17
