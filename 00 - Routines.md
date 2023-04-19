@@ -1,15 +1,15 @@
 ---
 share: true
 type: "aspect"
-created: NaN 
-modified: NaN
+created: <%+ tp.file.creation_date() %> 
+modified: <%+ tp.file.last_modified_date() %>
 ---
 
 # Things to Do
 
 # Summary
-campaign:: [09 - Cinema](./09%20-%20Cinema.md)
+campaign:: [08 - Animation](./08%20-%20Animation.md)
+
 # Quests
 
 # Things I've Done
-
