@@ -3,13 +3,12 @@ share: true
 type: "quest"
 sub-type: "main"
 status: "available"
-campaign: "Personal Wellness"
-aspect: "Ethics"
+
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
   
-#available 
+ 
 
 # Things to Do
 - [ ] This quest needs to be fleshed out. 🥄1 ⏫ ➕ 2023-03-13
@@ -20,7 +19,8 @@ modified: <%+ tp.file.last_modified_date() %>
 	- Really need to internalize a philosophy of patience, attention to detail, and simplicity.  These are things I value, but I need to walk the walk.
 
 # Summary
-## Campaign: [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
+campaign:: [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
+aspect:: [03 - Ethics](./03%20-%20Ethics.md)
 
 ## Complete Criteria:
 1. 
