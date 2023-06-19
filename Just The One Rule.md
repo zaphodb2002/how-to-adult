@@ -3,13 +3,12 @@ share: true
 type: "quest"
 sub-type: "major"
 status: "available"
-campaign: "Personal Wellness"
-aspect: "Ethics"
+
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] Create the first mission for this quest  🥄1 ➕ 2023-03-16
 
@@ -20,7 +19,8 @@ modified: <%+ tp.file.last_modified_date() %>
 	- Really listen to people you respect
 
 # Summary
-## Campaign: 
+campaign:: [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
+aspect:: [03 - Ethics](./03%20-%20Ethics.md)
 
 ## Complete Criteria:
 1. 
