@@ -6,7 +6,7 @@ sub-type: "plant"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#record #plant 
+ #plant 
 # Data
 Lifecycle:: Perennial
 Sow:: 
