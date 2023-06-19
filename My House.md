@@ -5,7 +5,7 @@ created: NaN
 modified: NaN
 ---
  
-
+#place #myHouse 
 Exterior Wall Thickness: 9" or 22.86 cm
 Interior Wall Thickness: 5" or 12.7 cm
 

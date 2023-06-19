@@ -1,16 +1,16 @@
 ---
 share: true
 type: "mission"
-quest: "Create Rock Paper Scissors Game"
 status: "completed"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#completed 
+ 
 # Summary
 quest:: [Create Rock Paper Scissors game](./Create%20Rock%20Paper%20Scissors%20game.md)
-completed:: [2023-W14](./2023-W14.md)
+started:: [2023-03-24](./2023-03-24.md)
+completed:: [2023-03-30](./2023-03-30.md)
 Need to know who won.
 # Tasks
 

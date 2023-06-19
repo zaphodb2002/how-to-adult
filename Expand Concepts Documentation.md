@@ -3,20 +3,18 @@ share: true
 type: "quest"
 sub-type: "minor"
 status: "available"
-campaign: "Life Management System"
-aspect: "Workflow"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
 
-#available
+
 
 # Things to Do
-- [ ] New Mission: Define Mastery in regards to [00 - Life Management System](./00%20-%20Life%20Management%20System.md) 🥄1 ⏫ ➕ 2023-03-03 
+- [ ] New Mission: Define Mastery in regards to [00 - Life Management System](./00%20-%20Life%20Management%20System.md) #bureaucracy 🥄+1 ⏫ ➕ 2023-03-03 
 
 # Summary
-## Campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
-
+campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+aspect:: [03 - Workflow](./03%20-%20Workflow.md)
 ## Aspect::
 
 ## Complete Criteria:

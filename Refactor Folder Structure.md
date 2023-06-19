@@ -7,7 +7,7 @@ status: "available"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#available 
+ 
 # Summary
 Needs a cleanup.
 # Tasks

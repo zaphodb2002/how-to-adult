@@ -7,10 +7,10 @@ created: NaN
 modified: NaN
 ---
  
-#available #audit 
+ #audit 
 # Things to Do
-- [ ] New Mission: Install the bigger hard drive in my Deck 🥄1 ⏫  ➕ 2023-03-16 
-- [ ] New Mission: Figure out how to stream (remote play, not Twitch) non-Steam games 🥄1 ⏫ ➕ 2023-03-18 ⏳ 2023-04-24
+- [ ] New Mission: Install the bigger hard drive in my Deck #bureaucracy 🥄+1 ⏫  ➕ 2023-03-16 
+- [ ] New Mission: Figure out how to stream (remote play, not Twitch) non-Steam games #bureaucracy 🥄+1 ⏫ ➕ 2023-03-18
 
 # Summary
 campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)

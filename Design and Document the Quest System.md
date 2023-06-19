@@ -8,9 +8,9 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
-- [ ] New Quest: Think more about how to link daily, weekly, and monthly notes in missions and quests 🥄1 ⏫ ➕ 2023-04-06
+- [ ] New Quest: Think more about how to link daily, weekly, and monthly notes in missions and quests  #bureaucracy 🥄+1 ⏫ ➕ 2023-04-06
 	- My perception of time is bad, a hallmark of ADHD.  This could help with that.
 	- Monthly and weekly notes are supposed to show zoomed out perspective.  However, dataviews don't make links.  Need some hard links in there.
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-03-31

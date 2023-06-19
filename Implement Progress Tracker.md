@@ -8,7 +8,7 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] What do I need this to do? ➕ 2023-04-07 
 - [x] Create the first mission for this quest ➕ 2023-04-07 ⏳ 2023-04-10 ✅ 2023-04-07

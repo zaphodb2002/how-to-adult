@@ -3,18 +3,18 @@ share: true
 type: "quest"
 sub-type: "major"
 status: "available"
-campaign: "Financial Stability"
-aspect: "Digital Footprint"
+
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#available 
+ 
 # Things to Do
 
 
 # Summary
-## Campaign: [Financial Stability](Financial%20Stability.md)
+campaign:: [02 - Financial Stability](./02%20-%20Financial%20Stability.md)
+aspect:: [03 - Digital Footprint](./03%20-%20Digital%20Footprint.md)
 
 ## Complete Criteria:
 1. Own JoshuaLindhardt.com or similar

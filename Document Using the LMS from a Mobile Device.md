@@ -7,11 +7,11 @@ status: "available"
 created: NaN 
 modified: NaN
 ---
-#available 
+ 
 # Summary
 
 # Tasks
-- [ ] Create the first task for this mission 🥄1 ⏫ ➕ 2023-03-27
+- [ ] Create the first task for this mission #bureaucracy 🥄+1 ⏫ ➕ 2023-03-27
 
 # Notes
 

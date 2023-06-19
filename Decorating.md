@@ -3,18 +3,18 @@ share: true
 type: "quest"
 sub-type: "minor"
 status: "available"
-campaign: "Personal Wellness"
-aspect: "Environment"
+
 created: NaN 
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-03-24
-- [ ] New Mission: lighting for the house 🥄1 ⏫ ➕ 2023-03-08
+- [ ] New Mission: lighting for the house #bureaucracy 🥄+1 ⏫ ➕ 2023-03-08
 # Summary
-## Campaign: 
+campaign:: [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
+aspect:: [01 - Environment](./01%20-%20Environment.md)
 
 ## Complete Criteria:
 1. 

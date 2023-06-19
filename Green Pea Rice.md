@@ -7,7 +7,7 @@ created: NaN
 modified: NaN
 ---
 
-#record #recipe #japanese
+ #recipe #japanese
 Source: https://www.justonecookbook.com/mame-gohan-green-pea-rice/
 ## Ingredients
 -   ⅔ cup green peas (if peas come in pods, 1 ⅓ cup or 200 g)

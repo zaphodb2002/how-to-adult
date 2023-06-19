@@ -2,20 +2,21 @@
 share: true
 type: "quest"
 sub-type": "major"
-status: "active"
+status: "incomplete"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#active 
+ #incomplete 
 # Things to Do
 
 
 
 
 # Summary
-## Campaign: [03 - Video Games](./03%20-%20Video%20Games.md)
+campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
+aspect:: [00 - Game Development](./00%20-%20Game%20Development.md)
 
 ## Complete Criteria:
 1. Screens
@@ -52,20 +53,20 @@ Need simple projects because they're fast and complete.  Also I can slowly build
 - 2023-03-14 15:12 created new repo on github at https://github.com/zaphodb2002/monogame-beginner-tutorial
 
 # Things I've Done
-- [x] New Mission: Publish to Itch.io 🥄1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-24 ✅ 2023-04-17
-- [x] New Mission: Document any useful snippets or approaches from this project 🥄1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-24 ✅ 2023-04-17
-- [x] New Mission: Post Mortem 🥄1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-24 ✅ 2023-04-17
-- [x] New Mission: Implement Credits Screen ⏫ ➕ 2023-03-29 ⏳ 2023-04-06 ✅ 2023-04-06
-- [x] New Mission: Implement Game Over Screen ⏫ ➕ 2023-03-29 ⏳ 2023-04-06 ✅ 2023-04-06
-- [x] New Mission: Implement Object Shake ⏫ ➕ 2023-03-29 ⏳ 2023-04-06 ✅ 2023-04-06
-- [x] New Mission: Implement Camera ⏫ ➕ 2023-03-29 ⏳ 2023-04-06 ✅ 2023-04-06
-- [x] New Mission:  Implement Sprite Flash ⏫ ➕ 2023-03-29 ⏳ 2023-04-07 ✅ 2023-04-07
-- [x] New Mission: Implement Music ⏫ ➕ 2023-03-29 ⏳ 2023-04-07 ✅ 2023-04-07
-- [x] New Mission:  Implement Tweening and Animate ⏫ ➕ 2023-03-29 ⏳ 2023-04-07 ✅ 2023-04-07
-- [x] New Mission: Juice it up ⏳ 2023-03-27 📅 2023-03-31 ✅ 2023-03-24
-- [x] Implement player input 📅 2023-03-17 ✅ 2023-03-17
+- [x] New Mission: Publish to Itch.io #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-24 ✅ 2023-04-17
+- [x] New Mission: Document any useful snippets or approaches from this project #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-24 ✅ 2023-04-17
+- [x] New Mission: Post Mortem #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-24 ✅ 2023-04-17
+- [x] New Mission: Implement Credits Screen #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-06 ✅ 2023-04-06
+- [x] New Mission: Implement Game Over Screen #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-06 ✅ 2023-04-06
+- [x] New Mission: Implement Object Shake #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-06 ✅ 2023-04-06
+- [x] New Mission: Implement Camera #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-06 ✅ 2023-04-06
+- [x] New Mission:  Implement Sprite Flash #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-07 ✅ 2023-04-07
+- [x] New Mission: Implement Music #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-07 ✅ 2023-04-07
+- [x] New Mission:  Implement Tweening and Animate #bureaucracy 🥄+1 ⏫ ➕ 2023-03-29 ⏳ 2023-04-07 ✅ 2023-04-07
+- [x] New Mission: Juice it up #bureaucracy 🥄+1 ⏳ 2023-03-27 📅 2023-03-31 ✅ 2023-03-24
+- [x] Implement player input  📅 2023-03-17 ✅ 2023-03-17
 - [x] Create basic assets ✅ 2023-03-14
 - [x] Implement random opponent selection 📅 2023-03-17 ✅ 2023-03-16
-- [x] New Mission: Implement countdown to shoot ⏳ 2023-03-20 📅 2023-03-24 ✅ 2023-03-24
-- [x] New Mission: Implement scoring system ⏳ 2023-03-20 📅 2023-03-24 ✅ 2023-03-24
-- [x] Create the first mission for this quest ➕ 2023-03-23 ✅ 2023-03-29
+- [x] New Mission: Implement countdown to shoot #bureaucracy 🥄+1 ⏳ 2023-03-20 📅 2023-03-24 ✅ 2023-03-24
+- [x] New Mission: Implement scoring system #bureaucracy 🥄+1⏳ 2023-03-20 📅 2023-03-24 ✅ 2023-03-24
+- [x] Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-03-23 ✅ 2023-03-29

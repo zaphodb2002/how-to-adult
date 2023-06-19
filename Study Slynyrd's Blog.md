@@ -7,7 +7,7 @@ created: NaN
 modified: NaN
 ---
  
-#available #art
+ #art
 # Things to Do
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-04-11
 # Summary

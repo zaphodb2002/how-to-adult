@@ -25,4 +25,4 @@ modified: NaN
 ## Description
 Praised throughout the cartoon industry by such luminaries as Art Spiegelman, Matt Groening, and Will Eisner, this innovative comic book provides a detailed look at the history, meaning, and art of comics and cartooning.
 
-#record #book
+ #book

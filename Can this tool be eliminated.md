@@ -1,16 +1,16 @@
 ---
 share: true
 type: "mission"
-quest: "Build the System"
 status: "completed"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
 # Summary
-#programming #completed 
+#programming  
 quest:: [Build the System](./Build%20the%20System.md)
-started:: [2023-W13](./2023-W13.md)
+started:: [2023-03-02](./2023-03-02.md)
+completed:: [2023-03-07](./2023-03-07.md)
 
 The answer is yes, we don't need the [Rollover Daily To-dos](./Rollover%20Daily%20To-dos.md) plugin.  I have successfully replaced it with [Templater](./Templater.md) and [JavaScript](JavaScript.md).
 # Tasks
@@ -47,7 +47,7 @@ The answer is yes, we don't need the [Rollover Daily To-dos](./Rollover%20Daily%
 - if DataView doesn't work, there's totally a script in here to make [Templater](./Templater.md) do it.
 - I have implemented it in templater, but there are issues
 	- does not delete the old tasks (or mark them as failed or something)
-	- Pulls the Routines stuff (which I'm pretty sure will be resolved by implementing a proper [Routines](00%20-%20Life%20Management%20System/02%20-%20Tools/Routines.md) tool)
+	- Pulls the Routines stuff (which I'm pretty sure will be resolved by implementing a proper [02 - Tools](./02%20-%20Tools.md) tool)
 	- Does not bring sublists.  made a task to fix that.
 - 2023-03-06 10:39 Building this out in templater.  Using a custom user script [rolloverDailyTodos.js](./00%20-%20Life%20Management%20System/06%20-%20Scripts/rolloverDailyTodos.js.md).  
 - 2023-03-06 10:40 also implemented the routines as a dataview.

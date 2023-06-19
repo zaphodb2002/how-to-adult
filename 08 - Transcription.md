@@ -6,7 +6,7 @@ modified: NaN
 ---
 
 # Things to Do
-
+- [ ] New Main Quest: Be a competent multi-instrumentalist #bureaucracy 🥄1 ⏫ ➕ 2023-05-17
 # Summary
 campaign:: [05 - Music](./05%20-%20Music.md)
 

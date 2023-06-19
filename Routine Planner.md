@@ -13,7 +13,7 @@ for(let page of pages)
 {
 	result += '# ' + page.file.link + '\n';
 	let headers = page.file;
-	console.log(page);
+	//console.log(page);
 }
 
 dv.paragraph(result);

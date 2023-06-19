@@ -1,18 +1,18 @@
 ---
 share: true
 type: "mission"
-status: "available"
+status: "active"
 
 created: NaN 
 modified: NaN
 ---
-#available 
+ 
 # Summary
 quest:: [Get Adderall](./Get%20Adderall.md)
-started:: 
+started:: [2023-05-17](./2023-05-17.md)
 completed::
 # Tasks
-- [ ] Create the first task for this mission 🥄1 ⏫ ➕ 2023-04-17 ⏳ 2023-04-21
+- [ ] Create the first task for this mission #bureaucracy  🥄1 ⏫ ➕ 2023-04-17
 
 # Notes
 

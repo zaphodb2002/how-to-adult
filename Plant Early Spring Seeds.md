@@ -2,30 +2,30 @@
 share: true
 type: "mission"
 
-status: "active"
+status: "completed"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#active 
+ 
 # Summary
 quest:: [Spring Gardening 2023](./Spring%20Gardening%202023.md)
 started:: [2023-03-12](./2023-03-12.md)
-completed::
+completed:: [2023-04-30](./2023-04-30.md)
 
 [Early Spring](Early%20Spring.md) - April 1 - April 30
 # Tasks
 
-- [ ] Plant [Corn](./Corn.md) and [Zucchini](./Zucchini.md) (interplant) #outside  🥄2 ➕ 2023-03-12 ⏳ 2023-04-20 📅 2023-04-30
-- [ ] Plant [Spinach](./Spinach.md) #outside 🥄2 ➕ 2023-03-12 ⏳ 2023-04-22 📅 2023-04-30
+- [x] Plant [Corn](./Corn.md) and [Zucchini](./Zucchini.md) (interplant) #outside  🥄2 ➕ 2023-03-12 ⏳ 2023-04-21 📅 2023-04-30 ✅ 2023-04-21
+- [f] Plant [Spinach](./Spinach.md) #outside 🥄2 ➕ 2023-03-12 ⏳ 2023-05-11
 - [x] Plant [Dill](./Dill.md) and [Garlic](Garlic.md) (interplant) #outside 🥄2 ➕ 2023-03-12 ⏳ 2023-04-16 📅 2023-04-30 ✅ 2023-04-16
 - [x] Plant [Sunflower](./Sunflower.md)s #outside 🥄2 ➕ 2023-03-12 ⏳ 2023-04-14 📅 2023-04-30 ✅ 2023-04-14
 - [x] Plant [Tomatillo](./Tomatillo.md) #outside 🥄2 ➕ 2023-03-24 ⏳ 2023-04-14 📅 2023-04-30 ✅ 2023-04-14
-- [ ] Plant [Daikon](./Daikon.md) #outside 🥄2 ➕ 2023-03-24 ⏳ 2023-04-22 📅 2023-04-30
+- [f] Plant [Daikon](./Daikon.md) #outside 🥄2 ➕ 2023-03-24 ⏳ 2023-05-11
 - [x] Create Records for all the plants in this mission ➕ 2023-03-31 🛫 2023-04-09 ⏳ 2023-04-10 📅 2023-04-15 ✅ 2023-04-10
 
 # Notes
-
+#spring #earlySpring
 
 # Things I've Done
 - [x] Go to [Walter Andersen's](Walter%20Andersen's.md) garden store 🥄5 #fun #DownTheHill  ➕ 2023-04-11 🛫 2023-04-12 ⏳ 2023-04-12 ✅ 2023-04-12

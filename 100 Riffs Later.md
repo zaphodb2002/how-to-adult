@@ -8,7 +8,7 @@ created: <%+ tp.file.creation_date() %>
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#active 
+ 
 # Things to Do
 
 
@@ -30,6 +30,6 @@ Not gonna get better if I don't practice.  This will get some of the crap out.
 3. [Learn about rhyming in poetry and rap](./Learn%20about%20rhyming%20in%20poetry%20and%20rap.md)
 
 # Things I've Done
-- [x] New Mission: Go through Spotify and pick some more bass riffs to transcribe ➕ 2023-03-31 ⏳ 2023-04-17 ✅ 2023-04-17
-- [x] New Mission: Transcribe bass riff from "Venus" by The Exorcist GBG ➕ 2023-03-31 ⏳ 2023-04-17 ✅ 2023-04-17
-- [x] New Mission: learn about rhyming in poetry and rap for riff writing ➕ 2023-03-02 ⏳ 2023-04-17 ✅ 2023-04-17
+- [x] New Mission: Go through Spotify and pick some more bass riffs to transcribe #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-17 ✅ 2023-04-17
+- [x] New Mission: Transcribe bass riff from "Venus" by The Exorcist GBG #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-17 ✅ 2023-04-17
+- [x] New Mission: learn about rhyming in poetry and rap for riff writing #bureaucracy 🥄+1 ➕ 2023-03-02 ⏳ 2023-04-17 ✅ 2023-04-17

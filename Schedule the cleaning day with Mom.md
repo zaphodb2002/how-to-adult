@@ -1,18 +1,21 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "completed"
 
 created: NaN 
 modified: NaN
 ---
-#active 
+ 
 # Summary
-quest: [Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
+quest:: [Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
+started:: [2023-04-04](./2023-04-04.md)
+completed:: [2023-04-22](./2023-04-22.md)
 # Tasks
-- [ ] Decide on a date for the cleaning #accountability 🥄10 ⏫ ➕ 2023-04-04 ⏳ 2023-04-22 📅 2023-04-23
-- [x] Create the first task for this mission ⏫ ➕ 2023-04-04 ⏳ 2023-04-04 ✅ 2023-04-04
+
+- [x] Decide on a date for the cleaning #accountability #askingForHelp 🥄10 ⏫ ➕ 2023-04-04 ⏳ 2023-04-22 📅 2023-04-23 ✅ 2023-04-22
+
 
 # Notes
-
+[Mom](./Tara%20Lindhardt.md)'s coming over on [2023-04-28](./2023-04-28.md) to help me with cleaning
 # Things I've Done

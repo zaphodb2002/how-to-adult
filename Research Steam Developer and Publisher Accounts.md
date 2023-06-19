@@ -7,13 +7,13 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
-- [ ] New Mission: Find out what's required to get a "publisher" account with Steam 🥄1 ⏫ ➕ 2023-03-31
+- [ ] New Mission: Find out what's required to get a "publisher" account with Steam #bureaucracy 🥄+1 ⏫ ➕ 2023-03-31
 
 # Summary
-campaign::
-aspect::
+campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
+aspect:: [00 - Game Development](./00%20-%20Game%20Development.md)
 started:: 
 completed::
 ## Complete Criteria:

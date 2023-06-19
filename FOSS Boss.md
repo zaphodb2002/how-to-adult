@@ -3,20 +3,20 @@ share: true
 type: "quest"
 sub-type: "major"
 status: "available"
-campaign: "Video Games"
-aspect: "Game Development"
+
 created: NaN 
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-03-20
 - [ ] Come up with more criteria 🥄5 ➕ 2023-03-20
 - [ ] Get Involved: https://github.com/learn-monogame/learn-monogame.github.io/discussions ⏫ ➕2023-03-18
 
 # Summary
-## Campaign: [Video Games](./03%20-%20Video%20Games.md)
+campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
+aspect:: [00 - Game Development](./00%20-%20Game%20Development.md)
 
 ## Complete Criteria: 
 1. Own a project with 100 stars

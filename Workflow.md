@@ -7,7 +7,7 @@ modified: <%+ tp.file.last_modified_date() %>
  
 # Intake
 1. Create Daily Note
-	- Uses [Daily Note Template](Daily%20Note%20Template.md#)
+	- Uses [Daily Note Template.md](Daily%20Note%20Template.md)
 2. Take notes and create tasks throughout the day in the daily note
 	- Things to Do and Things that Happened sections are provided
 3. Any tasks remaining uncompleted are rolled over from the previous day

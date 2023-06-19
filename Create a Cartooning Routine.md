@@ -1,19 +1,20 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "completed"
 
 created: NaN 
 modified: NaN
 ---
-#active 
+  #art
 # Summary
 quest:: [Competent Cartoonist](./Competent%20Cartoonist.md)
 started:: [2023-04-17](./2023-04-17.md)
-completed::
+completed:: [2023-04-19](./2023-04-19.md)
 # Tasks
-- [ ] Create the first task for this mission 🥄1 ⏫ ➕ 2023-04-17 ⏳ 2023-04-19
+- [x] Plan the routine and fill out the note #planning 🥄2 ⏫ ➕ 2023-04-19 ⏳ 2023-04-19 ✅ 2023-04-19
+- [x] Create the routine note #bureaucracy #bureaucracy  🥄1 ⏫ ➕ 2023-04-17 ⏳ 2023-04-19 ✅ 2023-04-19
 
 # Notes
-
+[Cartooning Routine](./Cartooning%20Routine.md)
 # Things I've Done

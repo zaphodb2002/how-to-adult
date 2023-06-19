@@ -7,7 +7,7 @@ created: NaN
 modified: NaN
 ---
 
-#record #recipe #japanese
+ #recipe #japanese
 source: https://www.justonecookbook.com/asparagus-with-miso-dressing/
 ## Ingredients
 - 8 oz [Asparagus](./Asparagus.md) spears (12 pieces)

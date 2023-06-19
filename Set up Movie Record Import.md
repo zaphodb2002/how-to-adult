@@ -9,10 +9,10 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
-- [ ] New Mission: Figure out how to import from MediaDB plugin like I do with books in [Literature](./06%20-%20Literature.md).🥄1 ⏫ ➕ 2023-04-04
-- [ ] New Mission: Director and Writer in MediaDB plugin 🥄1 ⏫  ➕2023-04-10
+- [ ] New Mission: Figure out how to import from MediaDB plugin like I do with books in [Literature](./06%20-%20Literature.md). #bureaucracy 🥄+1 ⏫ ➕ 2023-04-04
+- [ ] New Mission: Director and Writer in MediaDB plugin #bureaucracy 🥄+1 ⏫  ➕2023-04-10
 	- https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/89
 # Summary
 campaign:: [09 - Cinema](./09%20-%20Cinema.md)

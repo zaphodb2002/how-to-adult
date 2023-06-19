@@ -25,4 +25,4 @@ modified: NaN
 ## Description
 "The Hobbit" is the prelude to "The Lord of the Rings" series, and should be read before "The Fellowship of the Ring".
 
-#record #book
+ #book

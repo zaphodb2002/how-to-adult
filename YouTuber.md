@@ -3,18 +3,20 @@ share: true
 type: "quest"
 sub-type: "major"
 status: "available"
-campaign: "Video Games"
-aspect: "Game Development"
+
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#available 
+ 
 # Things to Do
 
 
 # Summary
-## Campaign: [Video Games](Video%20Games.md)
+campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
+aspect:: [00 - Game Development](./00%20-%20Game%20Development.md)
+
+
 
 ## Complete Criteria:
 1.  Publish 100 YouTube videos

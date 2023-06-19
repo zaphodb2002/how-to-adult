@@ -4,9 +4,9 @@ type: "knowledge"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#place 
+#place #myHouse 
 # Summary
-
+[Living Room Cleaning Routine](./Living%20Room%20Cleaning%20Routine.md)
 #### TV Area
 - TV
 - TV Stand

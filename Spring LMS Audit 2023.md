@@ -8,7 +8,7 @@ created: NaN
 modified: NaN
 ---
  
-#active #audit 
+ #audit 
 # Things to Do
 
 
@@ -31,27 +31,27 @@ I need to regularly check in on this stuff, and it gives me a place to put regul
 4. Complete [Spring Custom Tool Audit 2023](./Spring%20Custom%20Tool%20Audit%202023.md)
 
 # Things I've Done
-- [x] New Mission: Break this into several quests, it's getting unwieldy ⏫ ➕ 2023-04-10 ⏳ 2023-04-10 ✅ 2023-04-10
-- [x] New Mission: Audit Quick Links ⏫ ➕ 2023-04-06 ⏳ 2023-04-06 ✅ 2023-04-06
-- [x] New Mission: Audit Obsidian Plugins ➕ 2023-03-01 ✅ 2023-04-04
-- [x] New Mission: Audit Mission Template ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit Quest Template ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit Aspect Template ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit Campaign Template ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit Daily Template ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Break this into several quests, it's getting unwieldy #bureaucracy 🥄+1 ⏫ ➕ 2023-04-10 ⏳ 2023-04-10 ✅ 2023-04-10
+- [x] New Mission: Audit Quick Links #bureaucracy 🥄+1 ⏫ ➕ 2023-04-06 ⏳ 2023-04-06 ✅ 2023-04-06
+- [x] New Mission: Audit Obsidian Plugins #bureaucracy 🥄+1 ➕ 2023-03-01 ✅ 2023-04-04
+- [x] New Mission: Audit Mission Template #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Quest Template #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Aspect Template #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Campaign Template #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Daily Template #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
 
-- [x] New Mission: Audit Obsidian Controls Reference ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit Quick Links ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit Readme ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit Quest Tracker ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit [06 - Scripts](./06%20-%20Scripts.md) ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit [03 - Workflow](./03%20-%20Workflow.md) ⏫ ➕ 2023-03-31 ⏳ 2023-04-10 ✅ 2023-04-04
-- [x] New Mission: Audit Tool Template ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit [02 - Tools](./02%20-%20Tools.md) ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Obsidian Controls Reference #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Quick Links #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Readme #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Quest Tracker #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit [06 - Scripts](./06%20-%20Scripts.md) #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit [03 - Workflow](./03%20-%20Workflow.md) #bureaucracy 🥄+1 ⏫ ➕ 2023-03-31 ⏳ 2023-04-10 ✅ 2023-04-04
+- [x] New Mission: Audit Tool Template #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit [02 - Tools](./02%20-%20Tools.md) #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
 
-- [x] New Mission: Audit Maintenance Views ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit the Folder Structure ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Audit the Routines system ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit Maintenance Views #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit the Folder Structure #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Audit the Routines system #bureaucracy 🥄+1 ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
 - [x] Make a template for audit missions. ➕ 2023-03-31 ⏳ 2023-04-03 ✅ 2023-04-04
 	- [Audit Mission Template](Audit%20Mission%20Template.md) created
 	- Ask questions, to be answered in the audit.

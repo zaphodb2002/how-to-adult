@@ -7,11 +7,11 @@ status: "available"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#available 
+ 
 # Summary
 Basically a lot of this is just learning JavaScript, but let's get some knowledge notes to document this stuff.
 # Tasks
-- [ ] Create the first task for this mission 🥄1 ⏫ ➕ 2023-03-24
+- [ ] Create the first task for this mission #bureaucracy 🥄+1 ⏫ ➕ 2023-03-24
 
 # Notes
 - https://github.com/SilentVoid13/Templater/discussions/categories/help?discussions_q=is%3Aopen+category%3AHelp+sort%3Atop&page=3

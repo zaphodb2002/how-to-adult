@@ -7,7 +7,7 @@ status: "completed"
 created: NaN 
 modified: NaN
 ---
-#completed  
+  
 # Summary
 quest:: [Rethink Routines](./Rethink%20Routines.md)
 started:: [2023-04-13](./2023-04-13.md)

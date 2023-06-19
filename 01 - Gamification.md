@@ -40,7 +40,7 @@ campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.m
 
 ## [Game Economy](Game%20Economy.md)
 ### Resources
-- [Spoons](./Spoons.md)
+- [Spoon Counter](./Spoon%20Counter.md)
 	- represents energy or stamina available to complete tasks
 	- created by doing tasks that are "Replenishing"
 		- Play some video games

@@ -7,7 +7,7 @@ created: NaN
 modified: NaN
 ---
  
-#active  
+  
 # Things to Do
 
 # Summary
@@ -30,5 +30,5 @@ Cartooning is a simple way to express things via shorthand and of course leads i
 # Notes
 
 # Things I've Done
-- [x] New Mission: Create a Cartooning routine 🥄1 ⏫ ➕ 2023-04-15 ⏳ 2023-04-17 ✅ 2023-04-17
-- [x] New Quest: Study [Learn to Draw Cartoons](./Learn%20to%20Draw%20Cartoons%20-%20Christopher%20Hart.md)  🥄1 ⏫ ➕ 2023-04-04 ✅ 2023-04-18
+- [x] New Mission: Create a Cartooning routine #bureaucracy 🥄+1 ⏫ ➕ 2023-04-15 ⏳ 2023-04-17 ✅ 2023-04-17
+- [x] New Quest: Study [Learn to Draw Cartoons](./Learn%20to%20Draw%20Cartoons%20-%20Christopher%20Hart.md)  #bureaucracy 🥄+1 ⏫ ➕ 2023-04-04 ✅ 2023-04-18

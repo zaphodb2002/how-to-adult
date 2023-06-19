@@ -3,75 +3,54 @@ share: true
 type: "routine"
 sub-type: "cleaning"
 status: "available"
-created: <%+ tp.file.creation_date() %> 
-modified: <%+ tp.file.last_modified_date() %>
+created: NaN 
+modified: NaN
 ---
- #available #routine
-
-# Level 1: Safe and Sanitary
+  #routine
 
 # Daily
-## Morning
-## Afternoon
-## Evening
-
 # Weekly
-## Monday
-## Tuesday
-## Wednesday
-## Thursday
-## Friday
-## Saturday
-## Sunday
+- [ ] Tidy room for 15 minutes #tidying #challenge #myHouse 🥄5
+- [ ] Clean room for 15 minutes #cleaning  #challenge #myHouse 🥄5
+- [ ] Organize room for 15 minutes #organizing  #challenge #myHouse 🥄5
 # Monthly
+# Seasonally
+# Yearly
 
 
-# Quarterly
+```dataviewjs
+let spoonChar = '🥄';
+let page = dv.current();
+let tasks = dv.current().file.tasks
+	.where(task => task.text.includes(spoonChar));
 
 
-# Annually
+let spoonsGained = 0;
+let spoonsSpent = 0;
 
-# Level 2: Appeals to the Senses
+for (let task of tasks)
+{
+	let givesSpoons = false;
+	let startIdx = task.text.indexOf(spoonChar);
+	let spoonStr = task.text.substr(startIdx, 5);
+	if(spoonStr.includes('+'))
+	{
+		givesSpoons = true;
+	}
+	let spoonsValue = parseInt(spoonStr.match(/\d+/g));
+	if(givesSpoons)
+	{
+		spoonsGained += spoonsValue;
+	}		
+	else
+	{
+		spoonsSpent += spoonsValue;
+	}
+	//dv.paragraph(task.text)
+	
+}
 
-# Daily
-## Morning
-## Afternoon
-## Evening
-
-# Weekly
-## Monday
-## Tuesday
-## Wednesday
-## Thursday
-## Friday
-## Saturday
-## Sunday
-# Monthly
-
-
-# Quarterly
-
-
-# Annually
-
-# Level 3: Improves Functionality
-
-# Daily
-## Morning
-## Afternoon
-## Evening
-
-# Weekly
-## Monday
-## Tuesday
-## Wednesday
-## Thursday
-## Friday
-## Saturday
-## Sunday
-# Monthly
-
-
-# Quarterly
-
-# Annually
+dv.paragraph('+' + spoonsGained);
+dv.paragraph('-' + spoonsSpent);
+let current = spoonsGained - spoonsSpent
+dv.paragraph('spoonTotal:: ' + current);

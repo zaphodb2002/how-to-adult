@@ -7,7 +7,7 @@ status: "available"
 created: NaN 
 modified: NaN
 ---
-#available 
+ 
 # Summary
 quest:: [Spring Obsidian Audit 2023](./Spring%20Obsidian%20Audit%202023.md)
 started:: 
@@ -16,7 +16,7 @@ completed::
 - [ ] Verify all scripts are linked
 - [ ] verify all scripts are documented
 - [ ] verify all scripts have an up to date status
-- [ ] Complete the Audit Worksheet below 🥄10 ⏫ ➕ 2023-04-04
+- [ ] Complete the Audit Worksheet below #bureaucracy 🥄10 ⏫ ➕ 2023-04-04
 
 # Audit Worksheet
 ## Q: Is this working well?

@@ -11,110 +11,30 @@ modified: <%+ tp.file.last_modified_date() %>
 
 [![Pulitzer Prizes (medal).png](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pulitzer_Prizes_%28medal%29.png/200px-Pulitzer_Prizes_%28medal%29.png)](https://en.wikipedia.org/wiki/File:Pulitzer_Prizes_(medal).png)
 
-[Joseph Pulitzer](https://en.wikipedia.org/wiki/Joseph_Pulitzer "Joseph Pulitzer")
-
--   [Columbia University](https://en.wikipedia.org/wiki/Columbia_University "Columbia University")
--   [Pulitzers by year](https://en.wikipedia.org/wiki/Template:Pulitzer_Prize "Template:Pulitzer Prize")
--   [Winners](https://en.wikipedia.org/wiki/Category:Pulitzer_Prize_winners "Category:Pulitzer Prize winners")
-
-Journalism
-
-_Reporting_
-
--   [Breaking News](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Breaking_News_Reporting "Pulitzer Prize for Breaking News Reporting")
--   [Investigative](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Investigative_Reporting "Pulitzer Prize for Investigative Reporting")
--   [Explanatory](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Explanatory_Reporting "Pulitzer Prize for Explanatory Reporting")
--   [Local](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Local_Reporting "Pulitzer Prize for Local Reporting")
--   [National](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_National_Reporting "Pulitzer Prize for National Reporting")
--   [International](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_International_Reporting "Pulitzer Prize for International Reporting")
--   [Audio](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Audio_Reporting "Pulitzer Prize for Audio Reporting")
-
-_Writing_
-
--   [Feature](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Feature_Writing "Pulitzer Prize for Feature Writing")
--   [Editorial](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Editorial_Writing "Pulitzer Prize for Editorial Writing")
-
-_Photography_
-
--   [Breaking News](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Breaking_News_Photography "Pulitzer Prize for Breaking News Photography")
--   [Feature](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Feature_Photography "Pulitzer Prize for Feature Photography")
-
-_Other_
-
--   [Commentary](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Commentary "Pulitzer Prize for Commentary")
--   [Criticism](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Criticism "Pulitzer Prize for Criticism")
--   [Editorial Cartooning](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Editorial_Cartooning "Pulitzer Prize for Editorial Cartooning")
--   [Public Service](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Public_Service "Pulitzer Prize for Public Service")
-
-_Former_
-
--   [Beat Reporting](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Beat_Reporting "Pulitzer Prize for Beat Reporting")
--   [Correspondence](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Correspondence "Pulitzer Prize for Correspondence")
--   [Photography](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Photography "Pulitzer Prize for Photography")
--   [Reporting](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Reporting "Pulitzer Prize for Reporting")
-
--   Letters
--   Drama
--   Music
-
--   [Biography / Autobiography](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Biography_or_Autobiography "Pulitzer Prize for Biography or Autobiography")
--   Fiction
--   [General Nonfiction](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_General_Nonfiction "Pulitzer Prize for General Nonfiction")
--   [History](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_History "Pulitzer Prize for History")
--   [Poetry](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Poetry "Pulitzer Prize for Poetry")
--   [Drama](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Drama "Pulitzer Prize for Drama")
--   [Music](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Music "Pulitzer Prize for Music")
-
-[Special Citations and Awards](https://en.wikipedia.org/wiki/Pulitzer_Prize_Special_Citations_and_Awards "Pulitzer Prize Special Citations and Awards")
-
--   [v](https://en.wikipedia.org/wiki/Template:Pulitzer "Template:Pulitzer")
--   [t](https://en.wikipedia.org/wiki/Template_talk:Pulitzer "Template talk:Pulitzer")
--   [e](https://en.wikipedia.org/w/index.php?title=Template:Pulitzer&action=edit)
 
 The **Pulitzer Prize for Fiction** is one of the seven American [Pulitzer Prizes](https://en.wikipedia.org/wiki/Pulitzer_Prize "Pulitzer Prize") that are annually awarded for Letters, Drama, and Music. It recognizes distinguished fiction by an American author, preferably dealing with American life, published during the preceding calendar year.
 
-As the **Pulitzer Prize for the Novel** (awarded 1918–1947), it was one of the original Pulitzers; the program was [inaugurated](https://en.wikipedia.org/wiki/Inauguration "Inauguration") in 1917 with seven prizes, four of which were awarded that year [1](1.md)(https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction#cite_note-1) (no Novel prize was awarded in 1917, the first one having been granted in 1918).[2](2.md)(https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction#cite_note-prize-2)
+As the **Pulitzer Prize for the Novel** (awarded 1918–1947), it was one of the original Pulitzers; the program was inaugurated in 1917 with seven prizes, four of which were awarded that year  (no Novel prize was awarded in 1917, the first one having been granted in 1918).
 
-The name was changed to the **Pulitzer Prize for Fiction** in 1948, and eligibility was expanded to also include [short stories](https://en.wikipedia.org/wiki/Short_story "Short story"), [novellas](https://en.wikipedia.org/wiki/Novella "Novella"), [novelettes](https://en.wikipedia.org/wiki/Novella "Novella"), and poetry, as well as novels.
+The name was changed to the **Pulitzer Prize for Fiction** in 1948, and eligibility was expanded to also include short stories, novellas, novelettes, and poetry, as well as novels.
 
-Finalists have been announced since 1980, usually a total of three.[2](2.md)(https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction#cite_note-prize-2)
+Finalists have been announced since 1980, usually a total of three.
 
-## Definition[[edit](https://en.wikipedia.org/w/index.php?title=Pulitzer_Prize_for_Fiction&action=edit&section=1 "Edit section: Definition")]
+## Definition
 
-As defined in the original Plan of Award, the prize was given "Annually, for the American novel published during the year which shall best present the wholesome atmosphere of American life, and the highest standard of American manners and manhood," although there was some struggle over whether the word _wholesome_ should be used instead of _whole_, the word Pulitzer had written in his will.[3](3.md)(https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction#cite_note-Chronicle_of_the_Pulitzer_Prizes-3) In 1927, the advisory board quietly instituted Pulitzer's word choice, replacing _wholesome_ with _whole_.
+As defined in the original Plan of Award, the prize was given "Annually, for the American novel published during the year which shall best present the wholesome atmosphere of American life, and the highest standard of American manners and manhood," although there was some struggle over whether the word _wholesome_ should be used instead of _whole_, the word Pulitzer had written in his will. In 1927, the advisory board quietly instituted Pulitzer's word choice, replacing _wholesome_ with _whole_.
 
-With 1929 came the first of several much more substantive changes. The board changed the wording to "preferably one which shall best present the whole atmosphere of American life" and deleted the insistence that the novel portray "the highest standard of American manners and manhood". In 1936, emphasis was changed again, with the award going to "a distinguished novel published during the year by an American author, preferably dealing with American life". In 1948, the advisory board widened the scope of the award with the wording "For distinguished fiction published in book form during the year by an American author, preferably dealing with American life."[3](3.md)(https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction#cite_note-Chronicle_of_the_Pulitzer_Prizes-3) This change allowed the prize to go to a collection of short stories for the first time, James Michener's _Tales of the South Pacific_.
+With 1929 came the first of several much more substantive changes. The board changed the wording to "preferably one which shall best present the whole atmosphere of American life" and deleted the insistence that the novel portray "the highest standard of American manners and manhood". In 1936, emphasis was changed again, with the award going to "a distinguished novel published during the year by an American author, preferably dealing with American life". In 1948, the advisory board widened the scope of the award with the wording "For distinguished fiction published in book form during the year by an American author, preferably dealing with American life." This change allowed the prize to go to a collection of short stories for the first time, James Michener's _Tales of the South Pacific_.
 
-## Winners[[edit](https://en.wikipedia.org/w/index.php?title=Pulitzer_Prize_for_Fiction&action=edit&section=2 "Edit section: Winners")]
+## Winners
 
-In 31 years under the "Novel" name, the prize was awarded 27 times; in its first 69 years to 2016 under the "[Fiction](https://en.wikipedia.org/wiki/Fiction "Fiction")" name, 62 times. There have been 11 years during which no title received the award. It has never been shared by two authors.[2](2.md)(https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction#cite_note-prize-2) Four writers have won two prizes each in the Fiction category: [Booth Tarkington](https://en.wikipedia.org/wiki/Booth_Tarkington "Booth Tarkington"), [William Faulkner](https://en.wikipedia.org/wiki/William_Faulkner "William Faulkner"), [John Updike](https://en.wikipedia.org/wiki/John_Updike "John Updike"), and [Colson Whitehead](https://en.wikipedia.org/wiki/Colson_Whitehead "Colson Whitehead").
+In 31 years under the "Novel" name, the prize was awarded 27 times; in its first 69 years to 2016 under the "Fiction" name, 62 times. There have been 11 years during which no title received the award. It has never been shared by two authors. Four writers have won two prizes each in the Fiction category: [Booth Tarkington](https://en.wikipedia.org/wiki/Booth_Tarkington "Booth Tarkington"), [William Faulkner](https://en.wikipedia.org/wiki/William_Faulkner "William Faulkner"), [John Updike](https://en.wikipedia.org/wiki/John_Updike "John Updike"), and [Colson Whitehead](https://en.wikipedia.org/wiki/Colson_Whitehead "Colson Whitehead").
 
-### 1910s to 1970s[[edit](https://en.wikipedia.org/w/index.php?title=Pulitzer_Prize_for_Fiction&action=edit&section=3 "Edit section: 1910s to 1970s")]
+### 1910s to 1970s
 
-Year
-
-Winner
-
-Work
-
-Genre(s)
-
-Author's origin
-
-**[1918](https://en.wikipedia.org/wiki/1917_in_literature "1917 in literature")**
-
-[![Ernest Poole.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ernest_Poole.jpg/75px-Ernest_Poole.jpg)](https://en.wikipedia.org/wiki/File:Ernest_Poole.jpg)
-
-[Ernest Poole](https://en.wikipedia.org/wiki/Ernest_Poole "Ernest Poole")  
-(1880–1950)
-
-_**[His Family](https://en.wikipedia.org/wiki/His_Family "His Family")**_
-
-[Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers "Macmillan Publishers") (1917)
-
-[Novel](https://en.wikipedia.org/wiki/Novel "Novel")
-
-[Illinois](https://en.wikipedia.org/wiki/Illinois "Illinois")
+| Year | Winner | Work | Genre(s) | Author's origin |
+| --- | --- |--- | --- | --- |
+|**1918** | [![Ernest Poole.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ernest_Poole.jpg/75px-Ernest_Poole.jpg)](https://en.wikipedia.org/wiki/File:Ernest_Poole.jpg) [Ernest Poole](https://en.wikipedia.org/wiki/Ernest_Poole "Ernest Poole")  (1880–1950) |  _**[His Family](https://en.wikipedia.org/wiki/His_Family "His Family")**_ [Macmillan](https://en.wikipedia.org/wiki/Macmillan_Publishers "Macmillan Publishers") (1917) | [Novel](https://en.wikipedia.org/wiki/Novel "Novel") | [Illinois](https://en.wikipedia.org/wiki/Illinois "Illinois") |
 
 **[1919](https://en.wikipedia.org/wiki/1918_in_literature "1918 in literature")**
 

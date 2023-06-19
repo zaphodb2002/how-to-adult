@@ -5,57 +5,128 @@ type: "campaign"
 created: <%+ tp.file.creation_date() %>
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#LMS
+#bureaucracy
 # Things to Sort
 
 
 
 # Quests
 ## Main
+### Active
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Life Management System";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "main")
+    .where(page => page["status"] == "active");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["sub-type"] == "main" && page["status"] == "active" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + '\n';
+	if(page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
 }
     
 dv.el("div", result)
 ```
 
-## Active
+### Available
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Life Management System";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "main")
+    .where(page => page["status"] == "available");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["sub-type"] != "main" && page["status"] == "active" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"aspect"]('%20+%20page%22aspect%22.md)\n';
+	if(page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link  + '\n';
 }
     
 dv.el("div", result)
 ```
+## Major
+### Active
+```dataviewjs
+let result = "";
 
-## Available
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "major")
+    .where(page => page["status"] == "active");
+    
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if (page["campaign"] != undefined)
+	{
+		if(page["campaign"].path == campaign.path) 
+		 {
+			result += '- ' + page.file.link + '\n';
+		 }
+	}
+}
+	
+    
+dv.el("div", result)
+```
+### Available
+```dataviewjs
+let result = "";
+
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "major")
+    .where(page => page["status"] == "available");
+    
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if (page["campaign"] != undefined)
+	{
+		if(page["campaign"].path == campaign.path)
+		 {
+			result += '- ' + page.file.link + '\n';
+		 }
+	}
+}
+	
+    
+dv.el("div", result)
+```
+## Minor
+### Active
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Life Management System";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "minor")
+    .where(page => page["status"] == "active");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["status"] == "available" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"aspect"]('%20+%20page%22aspect%22.md)\n';
+	if(page["campaign"] != undefined && page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
 }
     
 dv.el("div", result)
 ```
-
+### Available
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "minor")
+    .where(page => page["status"] == "available");
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if(page["campaign"] != undefined && page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
+}
+    
+dv.el("div", result)
+```
 # Aspects
 [ 00 - Routines](00%20-%20Life%20Management%20System/00%20-%20Routines/00%20-%20Routines.md)
 [01 - Gamification](./01%20-%20Gamification.md)
@@ -147,6 +218,6 @@ archived.
 # Things I've Done
 - [x] New Aspect: Gamification ✅ 2023-03-22
 - [x] Removed Quest aspect, was cluttered.  May reimplement later or put elsewhere without missions ✅ 2023-03-22
-- [x] Add topic [Gamification](Gamification.md) ➕ 2023-02-28 ✅ 2023-03-03
+- [x] Add topic [01 - Gamification](./01%20-%20Gamification.md) ➕ 2023-02-28 ✅ 2023-03-03
 - [x] Add topic [Concepts](./Concepts.md) ➕ 2023-02-27 ✅ 2023-03-01
 - [x] Change wording of Topic to Aspect? ➕ 2023-03-02 ✅ 2023-03-02

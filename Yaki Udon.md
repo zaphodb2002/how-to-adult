@@ -7,6 +7,6 @@ created: NaN
 modified: NaN
 ---
 
-#record #recipe #japanese
+ #recipe #japanese
 source: https://www.justonecookbook.com/yaki-udon/
 

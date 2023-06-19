@@ -21,7 +21,7 @@ modified: <%+ tp.file.last_modified_date() %>
 	- Date stamp - Ctrl+N
 	- Time stamp - Alt+N
 	- Date & Time Stamp - Ctrl+Alt+N
-	- Link ``[]()`` - Ctrl+K
+	- Link ``[](.md)`` - Ctrl+K
 - ### Navigate
 	- Back - Ctrl+Alt+⬅
 	- Forward - Ctrl+Alt+➡

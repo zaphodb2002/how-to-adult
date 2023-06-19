@@ -7,7 +7,7 @@ status: "available"
 created: NaN 
 modified: NaN
 ---
-#available 
+ 
 # Summary
 quest:: [Create Rock Paper Scissors game](./Create%20Rock%20Paper%20Scissors%20game.md)
 started:: 
