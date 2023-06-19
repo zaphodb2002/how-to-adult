@@ -6,7 +6,7 @@ sub-type: "place"
 created: NaN 
 modified: NaN
 ---
-#record #place
+ #place
 
 # Summary
 https://en.wikipedia.org/wiki/Julian,_California
