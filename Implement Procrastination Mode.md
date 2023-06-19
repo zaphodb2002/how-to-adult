@@ -3,18 +3,18 @@ share: true
 type: "quest"
 sub-type: "major"
 status: "available"
-campaign: "Life Management System"
-aspect: "Workflow"
+
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-03-24
 
 # Summary
-## Campaign: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+aspect:: [03 - Workflow](./03%20-%20Workflow.md)
 
 ## Complete Criteria:
 1. 
