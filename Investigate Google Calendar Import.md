@@ -1,13 +1,12 @@
 ---
 share: true
 type: "mission"
-quest: "Build the System"
 status: "available"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#available 
+ 
 # Summary
 
 # Tasks
