@@ -7,7 +7,7 @@ status: "available"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#available 
+ 
 # Summary
 ## Quest: [Expand Workflow Documentation](./Expand%20Workflow%20Documentation.md)
 # Tasks
