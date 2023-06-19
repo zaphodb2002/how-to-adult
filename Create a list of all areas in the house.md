@@ -7,7 +7,7 @@ status: "completed"
 created: NaN 
 modified: NaN
 ---
-#completed  
+  
 # Summary
 ## Quest: [Mise en Place](./Mise%20en%20Place.md)
 started:: [2023-W13](./2023-W13.md)
