@@ -7,7 +7,7 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-03-31
 
