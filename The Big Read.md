@@ -9,13 +9,13 @@ modified: NaN
 
 For the United States communal reading program, see [One City One Book](https://en.wikipedia.org/wiki/One_City_One_Book "One City One Book").
 
-**The Big Read** was a survey on books carried out by the [BBC](https://en.wikipedia.org/wiki/BBC "BBC") in the [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom "United Kingdom") in 2003, where over three-quarters of a million votes were received from the British public to find the nation's best-loved novel of all time.[1](1.md)(https://en.wikipedia.org/wiki/The_Big_Read#cite_note-1)[2](2.md)(https://en.wikipedia.org/wiki/The_Big_Read#cite_note-2) The year-long survey was the biggest single test of public reading taste to date,[3](3.md)(https://en.wikipedia.org/wiki/The_Big_Read#cite_note-3) and culminated with several programmes hosted by celebrities, advocating their favourite books.[4](4.md)(https://en.wikipedia.org/wiki/The_Big_Read#cite_note-4)
+**The Big Read** was a survey on books carried out by the [BBC](https://en.wikipedia.org/wiki/BBC "BBC") in the [United Kingdom](https://en.wikipedia.org/wiki/United_Kingdom "United Kingdom") in 2003, where over three-quarters of a million votes were received from the British public to find the nation's best-loved novel of all time.[1](https://en.wikipedia.org/wiki/The_Big_Read#cite_note-1)[2](https://en.wikipedia.org/wiki/The_Big_Read#cite_note-2) The year-long survey was the biggest single test of public reading taste to date,[3](https://en.wikipedia.org/wiki/The_Big_Read#cite_note-3) and culminated with several programmes hosted by celebrities, advocating their favourite books.[4](https://en.wikipedia.org/wiki/The_Big_Read#cite_note-4)
 
-## Purpose[[edit](https://en.wikipedia.org/w/index.php?title=The_Big_Read&action=edit&section=1 "Edit section: Purpose")]
+## Purpose
 
-The BBC started the Big Read with the goal of finding the "Nation's Best-loved Novel" by way of a viewer vote via the Web, SMS, and telephone. The show attracted controversy for adopting an allegedly [sensationalist](https://en.wikipedia.org/wiki/Sensationalism "Sensationalism") approach to [literature](https://en.wikipedia.org/wiki/Literature "Literature"), but supporters praised it for raising the public awareness of reading.[5](5.md)(https://en.wikipedia.org/wiki/The_Big_Read#cite_note-RDB-5) The British public voted originally for any novel that they wished.[5](5.md)(https://en.wikipedia.org/wiki/The_Big_Read#cite_note-RDB-5) From this, a list of 200 was drawn up, with the highest 21 then put forward for further voting, on the provision that only one book per author was permitted in the top 21. As the poll was based on novels, the plays of [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare "William Shakespeare") were not part of the survey.
+The BBC started the Big Read with the goal of finding the "Nation's Best-loved Novel" by way of a viewer vote via the Web, SMS, and telephone. The show attracted controversy for adopting an allegedly [sensationalist](https://en.wikipedia.org/wiki/Sensationalism "Sensationalism") approach to [literature](https://en.wikipedia.org/wiki/Literature "Literature"), but supporters praised it for raising the public awareness of reading.[5](https://en.wikipedia.org/wiki/The_Big_Read#cite_note-RDB-5) The British public voted originally for any novel that they wished.[5](https://en.wikipedia.org/wiki/The_Big_Read#cite_note-RDB-5) From this, a list of 200 was drawn up, with the highest 21 then put forward for further voting, on the provision that only one book per author was permitted in the top 21. As the poll was based on novels, the plays of [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare "William Shakespeare") were not part of the survey.
 
-## Top 200 novels in the United Kingdom[[edit](https://en.wikipedia.org/w/index.php?title=The_Big_Read&action=edit&section=2 "Edit section: Top 200 novels in the United Kingdom")]
+## Top 200 novels in the United Kingdom
 
 1.  _[The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings "The Lord of the Rings")_ by [J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien "J. R. R. Tolkien")
 2.  _[Pride and Prejudice](https://en.wikipedia.org/wiki/Pride_and_Prejudice "Pride and Prejudice")_ by [Jane Austen](https://en.wikipedia.org/wiki/Jane_Austen "Jane Austen")
@@ -251,11 +251,11 @@ Multiple novels in the Top 200
 
 Contests similar to the Big Read were conducted in other countries:
 
--   My Favourite Book in Australia[6](6.md)(https://en.wikipedia.org/wiki/The_Big_Read#cite_note-6)
+-   My Favourite Book in Australia[6](https://en.wikipedia.org/wiki/The_Big_Read#cite_note-6)
 -   [_Das große Lesen_](https://en.wikipedia.org/wiki/Big_Read_(German) "Big Read (German)") in Germany
 -   [_A Nagy Könyv_](https://en.wikipedia.org/wiki/Big_Read_(Hungarian) "Big Read (Hungarian)") ("The Big Book") in Hungary
 -   [Голямото четене](https://en.wikipedia.org/wiki/Big_Read_(Bulgaria) "Big Read (Bulgaria)") ("The Big Read") in Bulgaria
--   _Lielā Lasīšana_ ("The Big Read") in Latvia[7](7.md)(https://en.wikipedia.org/wiki/The_Big_Read#cite_note-7)
+-   _Lielā Lasīšana_ ("The Big Read") in Latvia[7](https://en.wikipedia.org/wiki/The_Big_Read#cite_note-7)
 -   [The Great American Read](https://www.pbs.org/the-great-american-read/books/#/)
 
 Other lists:
