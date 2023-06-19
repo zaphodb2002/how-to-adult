@@ -7,7 +7,7 @@ status: "completed"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#completed 
+ 
 # Summary
 quest:: [Create Documentation for LMS](./Create%20Documentation%20for%20LMS.md)
 started:: [2023-04-10](./2023-04-10.md)
