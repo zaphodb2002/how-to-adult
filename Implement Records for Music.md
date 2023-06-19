@@ -7,12 +7,12 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
-- [x] New Mission: Create record template for riffs 🥄1 ⏫ ➕ 2023-04-11 ⏳ 2023-04-11 ✅ 2023-04-11
-- [ ] New Mission: Create record template for songs 🥄1 ⏫  ➕ 2023-04-11 
-- [ ] New Mission: Create record template for albums 🥄1 ⏫  ➕ 2023-03-01
-- [ ] New Mission: Create record template for bands 🥄1 ⏫  ➕ 2023-04-11
+- [x] New Mission: Create record template for riffs #bureaucracy 🥄+1 ⏫ ➕ 2023-04-11 ⏳ 2023-04-11 ✅ 2023-04-11
+- [ ] New Mission: Create record template for songs #bureaucracy 🥄+1 ⏫  ➕ 2023-04-11 
+- [ ] New Mission: Create record template for albums #bureaucracy 🥄+1 ⏫  ➕ 2023-03-01
+- [ ] New Mission: Create record template for bands #bureaucracy 🥄+1 ⏫  ➕ 2023-04-11
 # Summary
 campaign:: [05 - Music](./05%20-%20Music.md)
 aspect:: [01 - Records](./01%20-%20Records.md)
