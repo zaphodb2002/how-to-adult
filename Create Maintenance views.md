@@ -3,19 +3,18 @@ share: true
 type: "quest"
 sub-type: "minor"
 status: "completed"
-campaign: "Life Management System"
-aspect: "Tools"
+
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#completed 
+ 
 # Things to Do
 # Summary
 campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
 aspect:: [02 - Tools](./02%20-%20Tools.md)
-started:: [2023-W13](./2023-W13.md)
-completed:: [2023-W14](./2023-W14.md)
+started:: [2023-03-17](./2023-03-17.md)
+completed:: [2023-04-04](./2023-04-04.md)
 
 ## Complete Criteria:
 1. Allows for easy identification of notes that are not correctly formatted
@@ -35,15 +34,15 @@ This is super important to understand what's going on in the system and to maint
 # Notes
 
 # Things I've Done
-- [x] New Mission: Find Empty Pages ⏫ ➕ 2023-03-17 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: Find Orphans ⏫ ➕ 2023-03-17 ⏳ 2023-04-06 ✅ 2023-04-04
-- [x] New Mission: Find Danglers ⏫ ➕ 2023-03-17 ⏳ 2023-04-06 ✅ 2023-04-04
-- [x] New Mission: find with no metadata ⏫ ➕ 2023-03-17 ⏳ 2023-04-06 ✅ 2023-04-04
-- [x] New Mission: find with no tag ⏫ ➕ 2023-03-17 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: find with broken or incomplete metadata ⏫ ➕ 2023-03-17 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] New Mission: find active missions with an inactive quest ⏫ ➕ 2023-04-02 ⏳ 2023-04-03 ✅ 2023-04-04
-- [x] Create the first mission for this quest ➕ 2023-03-22 ✅ 2023-03-30
-- [x] Landing Page - [README](./README.md) ✅ 2023-03-17
-- [x] Create [Maintenance Views](./Maintenance%20Views.md) page ➕2023-03-17 📅 2023-03-17 ✅ 2023-03-17
+- [x] New Mission: Find Empty Pages #bureaucracy 🥄+1 ⏫ ➕ 2023-03-17 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: Find Orphans #bureaucracy 🥄+1 ⏫ ➕ 2023-03-17 ⏳ 2023-04-06 ✅ 2023-04-04
+- [x] New Mission: Find Danglers #bureaucracy 🥄+1 ⏫ ➕ 2023-03-17 ⏳ 2023-04-06 ✅ 2023-04-04
+- [x] New Mission: find with no metadata #bureaucracy 🥄+1 ⏫ ➕ 2023-03-17 ⏳ 2023-04-06 ✅ 2023-04-04
+- [x] New Mission: find with no tag #bureaucracy 🥄+1 ⏫ ➕ 2023-03-17 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: find with broken or incomplete metadata #bureaucracy 🥄+1 ⏫ ➕ 2023-03-17 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] New Mission: find active missions with an inactive quest #bureaucracy 🥄+1 ⏫ ➕ 2023-04-02 ⏳ 2023-04-03 ✅ 2023-04-04
+- [x] Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-03-22 ✅ 2023-03-30
+- [x] Landing Page - [README](./README.md) #bureaucracy  ✅ 2023-03-17
+- [x] Create [Maintenance Views](./Maintenance%20Views.md) page  ➕2023-03-17 📅 2023-03-17 ✅ 2023-03-17
 - [x] missions with no quest ➕2023-03-17 📅 2023-03-17 ✅ 2023-03-17
 - [x] Quests with No Campaign ➕2023-03-17 📅 2023-03-17 ✅ 2023-03-17
