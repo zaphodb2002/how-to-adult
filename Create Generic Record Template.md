@@ -1,18 +1,18 @@
 ---
 share: true
 type: "mission"
-status: "available"
+status: "completed"
 
 created: NaN 
 modified: NaN
 ---
-#available #bureaucracy 
+ #bureaucracy 
 # Summary
 quest:: [Build the System](./Build%20the%20System.md)
-started:: 
-completed::
+started:: [2023-05-17](./2023-05-17.md)
+completed:: [2023-05-17](./2023-05-17.md)
 # Tasks
-- [ ] Create the first task for this mission 🥄1 ⏫ ➕2023-04-19
+- [x] Do The Thing #LMS 🥄1 ⏫ ➕ 2023-04-19 ✅ 2023-05-17
 # Notes
-
+[Generic Record Template](./Generic%20Record%20Template.md)
 # Things I've Done
