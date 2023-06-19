@@ -6,7 +6,7 @@ status: "available"
 created: NaN 
 modified: NaN
 ---
-#available #audit 
+ #audit 
 # Summary
 quest:: [Spring Obsidian Audit 2023](./Spring%20Obsidian%20Audit%202023.md)
 started:: 
@@ -15,7 +15,7 @@ completed::
 # Tasks
 - [ ] make sure Metadata and tags are correct
 - [ ] Verify all existing Campaigns match the template
-- [ ] Complete the Audit Worksheet below 🥄10 ⏫ ➕ 2023-04-04
+- [ ] Complete the Audit Worksheet below #bureaucracy 🥄10 ⏫ ➕ 2023-04-04
 
 # Audit Worksheet
 ## Q: Is this working well?
