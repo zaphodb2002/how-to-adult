@@ -1,16 +1,16 @@
 ---
 share: true
 type: "mission"
-quest: "Spring Cleaning 2023"
 status: "completed"
 
 created: NaN 
 modified: NaN
 ---
-#completed
+
 # Summary
-Quest:: [Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
-completed:: [2023-W14](./2023-W14.md)
+quest:: [Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
+started:: [2023-04-04](./2023-04-04.md)
+completed:: [2023-04-07](./2023-04-07.md)
 # Tasks
 
 - [x] Create Documentation Hub for Cleaning ⏫ ➕ 2023-04-04 ⏳ 2023-04-04 ✅ 2023-04-04
