@@ -8,11 +8,11 @@ created: <%+ tp.file.creation_date() %>
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] Make goals for each campaign and topic ➕ 2023-03-01 
-- [ ] Should I add the quest tracker to the Daily Note? 🥄0 ⏫ ➕ 2023-03-30
-- [ ] Types of quests for consistency? 🥄1 ⏫ ➕ 2023-03-29
+- [ ] Should I add the quest tracker to the Daily Note? #LMS 🥄0 ⏫ ➕ 2023-03-30
+- [ ] Types of quests for consistency? #LMS 🥄1 ⏫ ➕ 2023-03-29
 	- The idea here would be that different kinds of quests would have different templates and different costs.
 	- Types:
 		- Main Quests
