@@ -9,7 +9,7 @@ created: NaN
 modified: NaN
 ---
  
-#available #audit
+ #audit
 # Things to Do
 - [ ] What's working and what's not? ➕ 2023-03-31
 - [x] Create the first mission for this quest ➕ 2023-04-10 ⏳ 2023-04-10 ✅ 2023-04-10
