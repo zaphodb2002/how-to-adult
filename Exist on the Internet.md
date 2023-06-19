@@ -3,13 +3,12 @@ share: true
 type: "quest"
 sub-type: "major"
 status: "available"
-campaign: "Financial Stability"
-aspect: "Digital Footprint"
+
 created: NaN 
 modified: NaN
 ---
 
-#available 
+ 
 # Things to Do
 - Portfolio Website
 - Github
@@ -20,11 +19,12 @@ modified: NaN
 - Twitch
 - YouTube
 - Itch.io
-- [ ] New Mission: Move things over from zaphodb2002@gmail.com to joshua.lindhardt@gmail.com 🥄1 ⏫ ➕ 2023-03-02 ⏳ 2023-04-24
+- [ ] New Mission: Move things over from zaphodb2002@gmail.com to joshua.lindhardt@gmail.com #bureaucracy 🥄+1 ⏫ ➕ 2023-03-02
 	- This is going to be a lot of stuff to change.  Probably needs a quest and mission.
 - [ ] Stackexchange and stackoverflow are good places to build up my [Digital Footprint](Digital%20Footprint.md)➕ 2023-03-03 
 # Summary
-## Campaign: [Financial Stability](Financial%20Stability.md)
+campaign:: [02 - Financial Stability](./02%20-%20Financial%20Stability.md)
+aspect:: [03 - Digital Footprint](./03%20-%20Digital%20Footprint.md)
 
 ## Complete Criteria:
 1. Portfolio website is publicly available and presentable to potential employers
