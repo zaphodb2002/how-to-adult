@@ -7,9 +7,9 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
-- [ ] New Mission: Create the first mission for this quest 🥄1 ➕ 2023-04-17
+- [ ] New Mission: Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-04-17
 # Summary
 campaign:: [06 - Literature](./06%20-%20Literature.md)
 aspect:: [03 - Reading Non-Fiction](./03%20-%20Reading%20Non-Fiction.md)
