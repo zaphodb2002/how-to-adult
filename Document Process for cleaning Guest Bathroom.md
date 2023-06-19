@@ -7,7 +7,7 @@ status: "completed"
 created: NaN 
 modified: NaN
 ---
-#completed 
+ 
 # Summary
 completed:: [2023-04-14](./2023-04-14.md)
 # Tasks
