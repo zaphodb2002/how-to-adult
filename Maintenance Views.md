@@ -58,7 +58,7 @@ dv.el("div", result)
 ### Active Quests
 ```dataviewjs
 let result = "";
-let pages = dv.pages('#active')
+let pages = dv.pages('')
     .where(page => page["type"] == "quest");
 
 for (let page of pages)
@@ -69,7 +69,6 @@ for (let page of pages)
     
 dv.el("div", result)
 ```
-
 
 ### Available Quests
 ```dataviewjs
@@ -86,6 +85,34 @@ for (let page of pages)
 dv.el("div", result)
 ```
 
+### Incomplete Quests
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "quest");
+
+for (let page of pages)
+{
+	if(page["status"] == "incomplete")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"campaign"]('%20+%20page%22campaign%22.md)\n';
+}
+    
+dv.el("div", result)
+```
+### Completed Quests
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "quest");
+
+for (let page of pages)
+{
+	if(page["status"] == "completed")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"campaign"]('%20+%20page%22campaign%22.md)\n';
+}
+    
+dv.el("div", result)
+```
 ## Quests with no missions
 NOT YET IMPLEMENTED
 ## Undocumented Quests
@@ -143,20 +170,49 @@ dv.el("div", questsWithNoAspectResult)
 ```dataviewjs
 const pages = dv.pages()
 .where(page => page["type"] == "quest")
-.where(
-	page => page["sub-type"] == undefined
-	  || page["campaign"] == undefined
-	  || page["campaign"] == ""
-	  || typeof(page["campaign"]) == 'string'
-	  );
+//.where(
+//	page => page["sub-type"] == undefined
+//	  || page["campaign"] == undefined
+//	  || page["campaign"] == ""
+//	  || typeof(page["campaign"]) == 'string'
+//	  || page[""]
+//	  );
 
 let result = "";
 for (let page of pages)
 {
-	result += page.file.link + ": \n";
-	result += "campaign: " + page["campaign"]  + '\n';
-	result += "aspect: " + page["aspect"] + "\n";
-	result += "status: " + page["status"] + '\n\n';
+	let error = "";
+	if(page["campaign"] == null)
+		error += "campaign is undefined \n";
+	if(page["campaign"] == undefined)
+		error += "campaign is undefined \n";
+	if(page["campaign"] == "")
+		error += "campaign is undefined \n";
+	if(typeof(page["campaign"]) == 'string')
+		error += "campaign is a string, should be a link \n"
+
+	if(page["aspect"] == 'null')
+		error += "aspect is undefined \n";
+	if(page["aspect"] == undefined)
+		error += "aspect is undefined \n"
+	if(page["aspect"] == "")
+		error += "aspect is undefined \n"
+	if(typeof(page["aspect"]) == 'string')
+		error += "aspect is a string, should be a link \n"
+
+	let statusValues = ['active', 'available', 'completed', 'incomplete'];
+	if(!statusValues.contains(page["status"]))
+		error += "unknown status type "+page['status']+" \n"
+
+	if(error != "")
+	{
+		result += error;
+		result += page.file.link + ": \n";
+		result += "campaign: " + page["campaign"]  + '\n';
+		result += "aspect: " + page["aspect"] + "\n";
+		result += "status: " + page["status"] + '\n\n';
+	}
+	
 	
 }
 dv.el("div", result);
@@ -164,38 +220,66 @@ dv.el("div", result);
 
 # Missions
 ## Mission Status
+### Active
 ```dataviewjs
-function write(message)
-{
-    return message + "\n";
-}
-
-function bullet(message)
-{
-    return "- " + write(message);
-}
-
-function header(message, size)
-{
-    let hashes = "";
-    for(let i = 0; i < size; i++)
-    {
-        hashes += "#";
-    }
-    return hashes + " " + write(message);
-}
-
 let result = "";
 let pages = dv.pages()
     .where(page => page["type"] == "mission");
 
 for (let page of pages)
 {
-	result += bullet(page.file.link + ": " + page["status"] + ", for [" + page"quest"](%22%20+%20page%22quest%22.md)');
+	if(page["status"] == "active")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
 }
     
 dv.el("div", result)
 ```
+
+### Available
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "mission");
+
+for (let page of pages)
+{
+	if(page["status"] == "available")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
+}
+    
+dv.el("div", result)
+```
+
+### Incomplete
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "mission");
+
+for (let page of pages)
+{
+	if(page["status"] == "incomplete")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
+}
+    
+dv.el("div", result)
+```
+
+### Completed
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "mission");
+
+for (let page of pages)
+{
+	if(page["status"] == "completed")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
+}
+    
+dv.el("div", result)
+```
+
 
 ## Missions with no Quest
 ```dataviewjs
@@ -300,8 +384,8 @@ for(let page of pages)
     let questIsActive = false;
     if(quest != undefined)
     {
-	    let questPage = dv.pages().where(page => page.file.name == quest);
-	    if(questPage["status"].values[0] != "active")
+	    let questPage = dv.page(quest);
+	    if(questPage["status"] != "active")
 		    result += page.file.link += '\n'; 
 
     }
@@ -322,6 +406,24 @@ for (let page of pages)
 dv.el("div", result);
 ```
 # Routines
+## Routines Status
+### Active
+```dataviewjs
+const pages = dv.pages()
+	.where(page => page["type"] == "routine")
+	.where(page => page["status"] == "active")
+
+dv.list(pages.file.link)
+```
+
+### Available
+```dataviewjs
+const pages = dv.pages()
+	.where(page => page["type"] == "routine")
+	.where(page => page["status"] == "available")
+
+dv.list(pages.file.link)
+```
 ## Routines with invalid Metadata
 ```dataviewjs
 const pages = dv.pages()
@@ -339,7 +441,7 @@ for (let page of pages)
 }
 dv.el("div", result);
 ```
-# Tasks
+# Tasks 
 ## Top 20 Unscheduled Tasks
 ```tasks
 limit 20
@@ -359,18 +461,24 @@ short mode
 done today
 short mode
 ```
+
+## Tasks completed yesterday
+```tasks
+done yesterday
+short mode
+```
 ## Tasks with no tags
 ```tasks
 no tag
-limit 20
+
 not done
 ```
-
+ 
 ## Tasks scheduled in the past
 ```tasks
 scheduled before today
 not done
-limit 20
+
 ```
 
 ## Tasks with invalid Metadata
