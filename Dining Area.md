@@ -4,8 +4,9 @@ type: "knowledge"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
+#place #myHouse 
 # Summary
-
+[Dining Area Cleaning](./Dining%20Area%20Cleaning.md)
 26" or 66.04 cm from corner to window
 71" or 180.34 cm wide window
 22.5" or 57.15 cm from window to entryway wall
