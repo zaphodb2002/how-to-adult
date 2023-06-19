@@ -9,47 +9,122 @@ modified:  <%+ tp.file.last_modified_date() %>
 # Things to Sort
 
 
+
+
+
 # Quests
 ## Main
+### Active
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Personal Wellness";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "main")
+    .where(page => page["status"] == "active");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["sub-type"] == "main" && page["campaign"] == campaign && page["status"] == "active")
-		result += '- ' + page.file.link + ": " + page["status"] + '\n';
+	if(page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
 }
     
 dv.el("div", result)
 ```
 
-## Active
+### Available
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Personal Wellness";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "main")
+    .where(page => page["status"] == "available");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["status"] == "active" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"aspect"]('%20+%20page%22aspect%22.md)\n';
+	if(page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link  + '\n';
 }
     
 dv.el("div", result)
 ```
+## Major
+### Active
+```dataviewjs
+let result = "";
 
-## Available
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "major")
+    .where(page => page["status"] == "active");
+    
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if (page["campaign"] != undefined)
+	{
+		if(page["campaign"].path == campaign.path) 
+		 {
+			result += '- ' + page.file.link + '\n';
+		 }
+	}
+}
+	
+    
+dv.el("div", result)
+```
+### Available
+```dataviewjs
+let result = "";
+
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "major")
+    .where(page => page["status"] == "available");
+    
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if (page["campaign"] != undefined)
+	{
+		if(page["campaign"].path == campaign.path)
+		 {
+			result += '- ' + page.file.link + '\n';
+		 }
+	}
+}
+	
+    
+dv.el("div", result)
+```
+## Minor
+### Active
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Personal Wellness";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "minor")
+    .where(page => page["status"] == "active");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["status"] == "available" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"aspect"]('%20+%20page%22aspect%22.md)\n';
+	if(page["campaign"] != undefined && page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
+}
+    
+dv.el("div", result)
+```
+### Available
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "minor")
+    .where(page => page["status"] == "available");
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if(page["campaign"] != undefined && page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
 }
     
 dv.el("div", result)
@@ -64,11 +139,13 @@ dv.el("div", result)
 [05 - People](./05%20-%20People.md)
 [06 - Fishkeeping](./06%20-%20Fishkeeping.md)
 [07 - Emotions](./07%20-%20Emotions.md)
-
+[08 - Pets](./08%20-%20Pets.md)
+[09 - Personal Aesthetic](./09%20-%20Personal%20Aesthetic.md)
 # Goals
 - Like who I am
 
 # Things I've Done
+- [x] New Aspect: Pets #bureaucracy  🥄1 ⏫ ➕ 2023-04-18 ⏳ 2023-04-19 ✅ 2023-04-19
 - [x] New Aspect: Emotions 🥄1 ⏫ ➕ 2023-04-13 ⏳ 2023-04-17 ✅ 2023-04-14
 
 - [x] New Aspect: Fishkeeping ⏫ ➕ 2023-04-05 ⏳ 2023-04-17 ✅ 2023-04-10
