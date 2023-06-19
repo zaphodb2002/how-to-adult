@@ -8,7 +8,7 @@ created: NaN
 modified: NaN
 ---
  
-#active 
+ 
 # Things to Do
 
 
@@ -197,12 +197,12 @@ I own the land, I should use it.  Supply chains have less effect on me.  Food le
 - Spinach
 - Yam
 # Things I've Done 
-- [x] New Mission: Split this up into Seasonal Quests 🥄1 ⏫ ➕ 2023-04-11 ⏳ 2023-04-17 ✅ 2023-04-17
-- [x] New Mission: Plan irrigation to garden space.  🥄1 ⏫ ➕ 2023-03-10 ⏳ 2023-04-24 ✅ 2023-04-17
+- [x] New Mission: Split this up into Seasonal Quests #bureaucracy 🥄+1 ⏫ ➕ 2023-04-11 ⏳ 2023-04-17 ✅ 2023-04-17
+- [x] New Mission: Plan irrigation to garden space.  #bureaucracy 🥄+1 ⏫ ➕ 2023-03-10 ⏳ 2023-04-24 ✅ 2023-04-17
 
 
-- [x] New Major Quest: Spring 2023 🥄1 ⏫ ➕ 2023-03-31 ⏳ 2023-04-17 ✅ 2023-04-11
+- [x] New Major Quest: Spring 2023 #bureaucracy 🥄+1 ⏫ ➕ 2023-03-31 ⏳ 2023-04-17 ✅ 2023-04-11
 	- Split this up
-- [x] New Mission: Overall Plan for Garden 2023 ⏫ ➕ 2023-03-10 ✅ 2023-03-26
+- [x] New Mission: Overall Plan for Garden 2023 #bureaucracy 🥄+1 ⏫ ➕ 2023-03-10 ✅ 2023-03-26
 - [x] implement Plant records for [02 - Gardening](./02%20-%20Gardening.md) ➕ 2023-03-16 ✅ 2023-03-26
-- [x] ⏫ New Mission: [Fence in the Garden](./Fence%20in%20the%20Garden.md) ➕ 2023-03-10 ✅ 2023-03-11
+- [x] ⏫ New Mission: [Fence in the Garden](./Fence%20in%20the%20Garden.md) #bureaucracy 🥄+1 ➕ 2023-03-10 ✅ 2023-03-11
