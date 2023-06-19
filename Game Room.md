@@ -4,8 +4,9 @@ type: "knowledge"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
+#place #myHouse 
 # Summary
- 
+ [Game Room Cleaning](./Game%20Room%20Cleaning.md)
  - Steam Deck Workstation
  - Floor under Deck Workstation
  - Racing Rig
