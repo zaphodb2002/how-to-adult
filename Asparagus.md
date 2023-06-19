@@ -6,7 +6,7 @@ sub-type: "plant"
 created: NaN 
 modified: NaN
 ---
-#record #plant
+ #plant
 # Data
 Lifecycle:: Perennial
 Sow:: Late Fall, Early Winter, Winter, Late Winter
