@@ -7,7 +7,7 @@ status: "available"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#available 
+ 
 # Summary
 Missions (and possibly Quests) should be able to repeat.  Potentially using metadata and [Templater](./Templater.md)
 # Tasks

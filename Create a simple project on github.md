@@ -7,7 +7,7 @@ status: "available"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#available 
+ 
 # Summary
 This is the first thing I'm actually including in the [Make a Portfolio Website](./Make%20a%20Portfolio%20Website.md).
 

@@ -1,23 +1,22 @@
 ---
 share: true
 type: "mission"
-quest: "Dirt Farmer"
 status: "active"
 
 created: NaN 
 modified: NaN
 ---
-#active 
+ 
 # Summary
 quest:: [Dirt Farmer](./Dirt%20Farmer.md)
 started:: [2023-W13](./2023-W13.md)
 The dogs wreck up the place and need to be kept out.  Also I think psychologically sectioning off an area will help me tackle the task.
 
 # Tasks
-- [ ] Roughly level the work area. 🥄10 ⏫ ➕ 2023-03-25 ⏳ 2023-04-24
-- [ ] Measure gate width 🥄5 ⏫ ➕ 2023-03-25 ⏳ 2023-04-24
-- [ ] dig post holes 🥄15 ⏫ ➕ 2023-03-25 ⏳ 2023-04-24
-- [ ] Install posts with gravel and concrete 🥄15 ⏫ ➕ 2023-03-25 ⏳ 2023-04-24
+- [ ] Measure gate width #garden #myHouse   🥄5 ⏫ ➕ 2023-03-25
+- [ ] Roughly level the work area. #garden #myHouse #exercise 🥄10 ⏫ ➕ 2023-03-25 
+- [ ] dig post holes #garden #myHouse #exercise  🥄15 ⏫ ➕ 2023-03-25 
+- [ ] Install posts with gravel and concrete #garden #myHouse #exercise  🥄15 ⏫ ➕ 2023-03-25 
 
 
 

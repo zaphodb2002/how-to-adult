@@ -2,19 +2,19 @@
 share: true
 type: "quest"
 sub-type: "major"
-status: "available"
-campaign: "Life Management System"
-aspect: "Gamification"
+status: "completed"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#available 
+ 
 # Things to Do
-- [ ] Create the first mission for this quest  🥄1 ➕ 2023-03-24
+
 
 # Summary
-## Campaign: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+aspect:: [01 - Gamification](./01%20-%20Gamification.md)
+completed:: [2023-06-01](./2023-06-01.md)
 
 ## Complete Criteria:
 1. Spoon counter is visible on screen
@@ -28,6 +28,8 @@ modified: <%+ tp.file.last_modified_date() %>
 The idea here is to represent the energy and willingness I have to do work.  If I run out of spoons, it is a cue to go do something from the habits, which will be things like going outside, going for a walk, playing a video game, watching a tv show, etc.
 
 # Missions
-1. [Create Spoon Tracker Tool](./Create%20Spoon%20Tracker%20Tool.md)
+1. ~~[Create Spoon Tracker Tool](./Create%20Spoon%20Tracker%20Tool.md)~~
+2. ~~[Tune the Spoon numbers](./Tune%20the%20Spoon%20numbers.md)~~
 
 # Things I've Done
+- [x] Create the first mission for this quest  🥄1 ➕ 2023-03-24 ⏳ 2023-05-11 ✅ 2023-05-11

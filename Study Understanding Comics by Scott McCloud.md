@@ -7,9 +7,9 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
-- [ ] New Mission: Create the first mission for this quest 🥄1 ➕ 2023-04-17
+- [ ] New Mission: Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-04-17
 # Summary
 campaign:: [08 - Animation](./08%20-%20Animation.md)
 aspect:: [01 - Cartooning](./01%20-%20Cartooning.md)

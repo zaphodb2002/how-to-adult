@@ -1,19 +1,18 @@
 ---
 share: true
 type: "mission"
-quest: "Be Well Read (Fiction Edition)"
 status: "active"
 
 created: NaN 
 modified: NaN
 ---
-#active  
+  
 # Summary
 quest:: [Be Well Read (Fiction Edition)](./Be%20Well%20Read%20(Fiction%20Edition).md)
 started:: [2023-04-13](./2023-04-13.md)
 completed::
 # Tasks
-- [ ] Go through [Time Magazine 100 Best Novels](./Time%20Magazine%20100%20Best%20Novels.md) and add records for every book, and change the links so they point to the record #tedious #DataEntry 🥄20 ➕ 2023-04-14 ⏳ 2023-04-24
+- [ ] Go through [Time Magazine 100 Best Novels](./Time%20Magazine%20100%20Best%20Novels.md) and add records for every book, and change the links so they point to the record #tedious #DataEntry 🥄20 ➕ 2023-04-14
 - [x] Research Books to Read lists on the internet #fun 🥄5 ⏫ ➕ 2023-04-13 ⏳ 2023-04-14 ✅ 2023-04-14
 - [x] Create the first task for this mission ⏫ ➕ 2023-04-13 ⏳ 2023-04-13 ✅ 2023-04-13
 

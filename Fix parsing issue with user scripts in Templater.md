@@ -8,7 +8,7 @@ created: NaN
 modified: NaN
 ---
  
-#available #programming
+ #programming
 # Things to Do
 - [ ] See if there's already an open issue for this ➕ 2023-04-07 
 - [x] Create the first mission for this quest ➕ 2023-04-07 ⏳ 2023-04-07 ✅ 2023-04-07

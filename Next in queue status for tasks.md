@@ -7,7 +7,7 @@ status: "available"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#available 
+ 
 # Summary
 Need to be able to flag certain tasks as "next" so that the urgency is forced to next in line.  This will allow me to not necessarily interrupt what I'm currently doing but makes sure that when I'm done I don't forget to do that thing.  Probably has some crossover with [Implement Procrastination Mode](./Implement%20Procrastination%20Mode.md) since they're both about manipulating urgency.
 

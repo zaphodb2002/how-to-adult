@@ -2,12 +2,12 @@
 share: true
 type: "quest"
 sub-type: "major"
-status: "active"
+status: "incomplete"
 created: NaN 
 modified: NaN
 ---
  
-#active  
+  
 # Things to Do
 
 # Summary
@@ -21,11 +21,11 @@ completed::
 ## Why is this important?:
 
 # Missions
-1. [Make a list of 3D Game Engines](./Make%20a%20list%20of%203D%20Game%20Engines.md)
-2. [Make a list of 3D Game Frameworks](./Make%20a%20list%20of%203D%20Game%20Frameworks.md)
-3. [Make a list of Game Engine Components](./Make%20a%20list%20of%20Game%20Engine%20Components.md)
-4. [Make a list of 3D rendering libraries](./Make%20a%20list%20of%203D%20rendering%20libraries.md)
-5. [Why shouldn't I use Godot?](./Why%20shouldn't%20I%20use%20Godot?.md)
+1. ~~[Make a list of 3D Game Engines](./Make%20a%20list%20of%203D%20Game%20Engines.md)~~
+2. ~~[Make a list of 3D Game Frameworks](./Make%20a%20list%20of%203D%20Game%20Frameworks.md)~~
+3. ~~[Make a list of Game Engine Components](./Make%20a%20list%20of%20Game%20Engine%20Components.md)~~
+4. ~~[Make a list of 3D rendering libraries](./Make%20a%20list%20of%203D%20rendering%20libraries.md)~~
+5. [Study Pikuma How to Make Your Own C++ Game Engine Blog Series](Study%20Pikuma%20How%20to%20Make%20Your%20Own%20C++%20Game%20Engine%20Blog%20Series.md)
 
 # Notes
 [Game Engine Components](./Game%20Engine%20Components.md)

@@ -2,13 +2,13 @@
 share: true
 type: "quest"
 sub-type: "minor"
-status: "active"
+status: "incomplete"
 
 created: NaN 
 modified: NaN
 ---
  
-#active  
+  
 # Things to Do
 
 # Summary
@@ -22,10 +22,10 @@ completed::
 ## Why is this important?:
 
 # Missions
-1. [Document Task Entry](./Document%20Task%20Entry.md)
+1. ~~[Document Task Entry](./Document%20Task%20Entry.md)~~
 2. [Document New LMS Setup](./Document%20New%20LMS%20Setup.md)
 
 # Notes
 
 # Things I've Done
-- [x] New Mission: Document New LMS Setup 🥄1 ➕ 2023-04-10 ⏳ 2023-04-17 ✅ 2023-04-17
+- [x] New Mission: Document New LMS Setup #bureaucracy 🥄+1 ➕ 2023-04-10 ⏳ 2023-04-17 ✅ 2023-04-17

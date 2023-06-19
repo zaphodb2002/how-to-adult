@@ -1,16 +1,16 @@
 ---
 share: true
 type: "mission"
-quest: "Create Maintenance Views"
 status: "completed"
 
 created: NaN 
 modified: NaN
 ---
-#completed 
+ 
 # Summary
 quest:: [Create Maintenance views](./Create%20Maintenance%20views.md)
-completed:: [2023-W14](./2023-W14.md)
+started:: [2023-04-05](./2023-04-05.md)
+completed:: [2023-04-05](./2023-04-05.md)
 # Tasks
 - [x] Campaigns with invalid Metadata view created ➕ 2023-04-05 ⏳ 2023-04-05 ✅ 2023-04-05
 - [x] Aspects with invalid metadata view created ➕ 2023-04-05 ⏳ 2023-04-05 ✅ 2023-04-05

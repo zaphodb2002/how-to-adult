@@ -25,4 +25,4 @@ modified: NaN
 ## Description
 Thanks to Christopher Hart's simplified process, anyone can create dynamic cartoon characters right away. He has developed the easiest-ever approach to drawing the basics like heads, bodies, and those super-important cartoon expressions. Hart helps beginners apply these fundamentals to a variety of fun types and settings including animals, under-the-sea locales, stock characters, and popular backgrounds. Each lesson is laid out in accessible steps, accompanied by Chris's personable instruction.
 
-#record #book
+ #book

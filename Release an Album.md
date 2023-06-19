@@ -1,14 +1,14 @@
 ---
 share: true
 type: "quest"
-sub-type: "main"
+sub-type: "major"
 status: "active"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#active 
+ 
 # Things to Do
 
 # Summary

@@ -7,7 +7,7 @@ status: "available"
 created: NaN 
 modified: NaN
 ---
-#available 
+ 
 # Summary
 quest:: [Spring Workflow Audit 2023](./Spring%20Workflow%20Audit%202023.md)
 started:: 
@@ -15,7 +15,7 @@ completed::
 - This is really important, it's the instruction manual
 - Make sure all workflow documents are up to date
 # Tasks
-- [ ] Complete the Audit Worksheet below 🥄10 ⏫ ➕ 2023-04-10
+- [ ] Complete the Audit Worksheet below #bureaucracy 🥄10 ⏫ ➕ 2023-04-10
 
 # Audit Worksheet
 ## Q: Is this working well?

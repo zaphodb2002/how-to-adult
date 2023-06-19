@@ -11,45 +11,116 @@ modified: <%+ tp.file.last_modified_date() %>
 
 # Quests
 ## Main
+### Active
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "undefined";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "main")
+    .where(page => page["status"] == "active");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["status"] == "main" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + '\n';
+	if(page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
 }
     
 dv.el("div", result)
 ```
 
-## Active
+### Available
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "undefined";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "main")
+    .where(page => page["status"] == "available");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["status"] == "active" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"aspect"]('%20+%20page%22aspect%22.md)\n';
+	if(page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link  + '\n';
 }
     
 dv.el("div", result)
 ```
-
-## Available
+## Major
+### Active
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "undefined";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "major")
+    .where(page => page["status"] == "active");
+    
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["status"] == "available" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"aspect"]('%20+%20page%22aspect%22.md)\n';
+	if (page["campaign"] != undefined)
+	{
+		if(page["campaign"].path == campaign.path) 
+		 {
+			result += '- ' + page.file.link + '\n';
+		 }
+	}
+}
+	
+    
+dv.el("div", result)
+```
+### Available
+```dataviewjs
+let result = "";
+
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "major")
+    .where(page => page["status"] == "available");
+    
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if (page["campaign"] != undefined)
+	{
+		if(page["campaign"].path == campaign.path)
+		 {
+			result += '- ' + page.file.link + '\n';
+		 }
+	}
+}
+	
+    
+dv.el("div", result)
+```
+## Minor
+### Active
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "minor")
+    .where(page => page["status"] == "active");
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if(page["campaign"] != undefined && page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
+}
+    
+dv.el("div", result)
+```
+### Available
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "minor")
+    .where(page => page["status"] == "available");
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if(page["campaign"] != undefined && page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
 }
     
 dv.el("div", result)

@@ -8,7 +8,6 @@ modified: <%+ tp.file.last_modified_date() %>
 limit 1
 path does not include Routines
 path does not include Shopping
-path does not include Daily
 not done
 show urgency
 hide recurrence rule

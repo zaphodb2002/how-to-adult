@@ -8,13 +8,11 @@ created: <%+ tp.file.creation_date() %>
 modified: <%+ tp.file.last_modified_date() %>
 ---
  
-#active 
+ 
 # Things to Do
 
 
-- [ ] Spotify doesn't work in the Surfing plugin 🥄1 🔽 ➕ 2023-03-01 ⏳ 2023-04-24
-- [ ] New Quest: [Build Workflow Reminder](Build%20Workflow%20Reminder.md) 🥄1 ⏫ ➕ 2023-03-13 ⏳ 2023-04-24
-    - need the workflow steps in a note on the side panels 
+
 
 
 
@@ -40,33 +38,28 @@ If it sucks to use and doesn't do what I need it to, what good is it?
 
 # Missions
 1. ~~Complete [Create Maintenance views](./Create%20Maintenance%20views.md)~~
-2. [Break this into Major Quests for Systems](./Break%20this%20into%20Major%20Quests%20for%20Systems.md)
-3. Complete [Implement a Pomodoro Timer in Obsidian](./Implement%20a%20Pomodoro%20Timer%20in%20Obsidian.md)
-4. Complete [Create Documentation for LMS](./Create%20Documentation%20for%20LMS.md)
-5. Complete [Automate Task Input with Buttons](./Automate%20Task%20Input%20with%20Buttons.md)
-6. [Research Templater Scripting](./Research%20Templater%20Scripting.md)
-7. [Refactor Folder Structure](./Refactor%20Folder%20Structure.md)
-8. Complete [Implement Spoons Economy](./Implement%20Spoons%20Economy.md)
-9. Complete [Implement Achievements](./Implement%20Achievements.md)
-10. Complete [Implement Habit Tracker](./Implement%20Habit%20Tracker.md)
-11. Complete [Implement Procrastination Mode](./Implement%20Procrastination%20Mode.md)
-12. [Document Urgency Calculations](./Document%20Urgency%20Calculations.md)
-13. [Investigate Google Calendar Import](./Investigate%20Google%20Calendar%20Import.md)
-14. [Next in queue status for tasks](./Next%20in%20queue%20status%20for%20tasks.md)
-15. [Missions should repeat](./Missions%20should%20repeat.md)
-16. [Document Task Sorting Workflow](./Document%20Task%20Sorting%20Workflow.md)
-17. [Document Using the LMS from a Mobile Device](./Document%20Using%20the%20LMS%20from%20a%20Mobile%20Device.md)
-18. [Handle Missed Days Gracefully](./Handle%20Missed%20Days%20Gracefully.md)
-19. [Add Production Status to Tools Metadata](./Add%20Production%20Status%20to%20Tools%20Metadata.md)
-20. [Investigate Auto Insert Template on New Line](./Investigate%20Auto%20Insert%20Template%20on%20New%20Line.md)
-21. Complete [Implement Progress Tracker](./Implement%20Progress%20Tracker.md)
-22. Complete [Fix parsing issue with user scripts in Templater](./Fix%20parsing%20issue%20with%20user%20scripts%20in%20Templater.md)
-23. [Implement Record Hubs](./Implement%20Record%20Hubs.md)
-24. [Add Time and Date Header inline Template for marking when I enter notes in Dailies and Missions](./Add%20Time%20and%20Date%20Header%20inline%20Template%20for%20marking%20when%20I%20enter%20notes%20in%20Dailies%20and%20Missions.md)
-25. Complete [Create a custom Obsidian Theme](./Create%20a%20custom%20Obsidian%20Theme.md)
-26. Complete [Get The Weather in the Daily Note](./Get%20The%20Weather%20in%20the%20Daily%20Note.md)
+2. ~~[Break this into Major Quests for Systems](./Break%20this%20into%20Major%20Quests%20for%20Systems.md)~~
+3. Complete [Create Documentation for LMS](./Create%20Documentation%20for%20LMS.md)
+4. [Research Templater Scripting](./Research%20Templater%20Scripting.md)
+5. [Refactor Folder Structure](./Refactor%20Folder%20Structure.md)
+6. [Document Urgency Calculations](./Document%20Urgency%20Calculations.md)
+7. [Next in queue status for tasks](./Next%20in%20queue%20status%20for%20tasks.md)
+8. [Document Task Sorting Workflow](./Document%20Task%20Sorting%20Workflow.md)
+9. Complete [Get The Weather in the Daily Note](./Get%20The%20Weather%20in%20the%20Daily%20Note.md)
+10. [Document Using the LMS from a Mobile Device](./Document%20Using%20the%20LMS%20from%20a%20Mobile%20Device.md)
+11. [Add Production Status to Tools Metadata](./Add%20Production%20Status%20to%20Tools%20Metadata.md)
+12. [Investigate Auto Insert Template on New Line](./Investigate%20Auto%20Insert%20Template%20on%20New%20Line.md)
+13. Complete [Fix parsing issue with user scripts in Templater](./Fix%20parsing%20issue%20with%20user%20scripts%20in%20Templater.md)
+14. Complete [Create a custom Obsidian Theme](./Create%20a%20custom%20Obsidian%20Theme.md)
 
 # Things I've Done
+- [-] Spotify doesn't work in the Surfing plugin 🥄1 🔽 ➕ 2023-03-01 ⏳ 2023-05-01
+	- Not important.  canceled 2023-04-27
+- [-] New Quest: [Build Workflow Reminder](Build%20Workflow%20Reminder.md) 🥄1 ⏫ ➕ 2023-03-13 ⏳ 2020-05-01
+    - need the workflow steps in a note on the side panels 
+    - I don't really think I need this now, canceled 2023-04-27.
+- [x] New Mission: Create a generic Record template #bureaucracy  🥄1 ⏫ ➕ 2023-04-18 ⏳ 2023-04-19 ✅ 2023-04-19
+- [x] New Mission: Create a Recipe Record template #bureaucracy #cooking  🥄1 ⏫ ➕ 2023-04-18 ⏳ 2023-04-21 ✅ 2023-04-19
 - [-] New Quest: Make an overview page where you can see all the stuff 🥄1 ⏫ ➕ 2023-03-18 ⏳ 2023-04-24
 	- 2023-04-17 the Readme pretty much covers this.  Cancelling.
 - [x] New Quest: Implement a Pomodoro timer that works for me #useful 🥄1 ⏫ ➕ 2023-03-01 ⏳ 2023-04-24 ✅ 2023-04-17

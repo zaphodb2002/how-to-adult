@@ -10,45 +10,116 @@ modified: <%+ tp.file.last_modified_date() %>
 
 # Quests
 ## Main
+### Active
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Video Games";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "main")
+    .where(page => page["status"] == "active");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["sub-type"] == "main" && page["campaign"] == campaign && page["status"] == "active")
-		result += '- ' + page.file.link + ": " + page["status"] + '\n';
+	if(page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
 }
     
 dv.el("div", result)
 ```
 
-## Active
+### Available
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Video Games";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "main")
+    .where(page => page["status"] == "available");
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["status"] == "active" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"aspect"]('%20+%20page%22aspect%22.md)\n';
+	if(page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link  + '\n';
 }
     
 dv.el("div", result)
 ```
-
-## Available
+## Major
+### Active
 ```dataviewjs
 let result = "";
 let pages = dv.pages()
-    .where(page => page["type"] == "quest");
-let campaign = "Video Games";
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "major")
+    .where(page => page["status"] == "active");
+    
+let campaign = dv.current().file;
 for (let page of pages)
 {
-	if(page["status"] == "available" && page["campaign"] == campaign)
-		result += '- ' + page.file.link + ": " + page["status"] + ' for [' + page"aspect"]('%20+%20page%22aspect%22.md)\n';
+	if (page["campaign"] != undefined)
+	{
+		if(page["campaign"].path == campaign.path) 
+		 {
+			result += '- ' + page.file.link + '\n';
+		 }
+	}
+}
+	
+    
+dv.el("div", result)
+```
+### Available
+```dataviewjs
+let result = "";
+
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "major")
+    .where(page => page["status"] == "available");
+    
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if (page["campaign"] != undefined)
+	{
+		if(page["campaign"].path == campaign.path)
+		 {
+			result += '- ' + page.file.link + '\n';
+		 }
+	}
+}
+	
+    
+dv.el("div", result)
+```
+## Minor
+### Active
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "minor")
+    .where(page => page["status"] == "active");
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if(page["campaign"] != undefined && page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
+}
+    
+dv.el("div", result)
+```
+### Available
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "quest")
+    .where(page => page["sub-type"] == "minor")
+    .where(page => page["status"] == "available");
+let campaign = dv.current().file;
+for (let page of pages)
+{
+	if(page["campaign"] != undefined && page["campaign"].path == campaign.path)
+		result += '- ' + page.file.link + '\n';
 }
     
 dv.el("div", result)
@@ -67,13 +138,13 @@ dv.el("div", result)
 # Contents
 [Game Development Products](./Game%20Development%20Products.md)
 # Things I've Done
-- [x] New Aspect: Game Design ⏫ ➕ 2023-03-27 ✅ 2023-03-27
-- [x] New Aspect: Untitled Multiplayer Top Down Game ⏫ ➕ 2023-03-27 ✅ 2023-03-27
-- [x] New Aspect: Hardware 🛫 2023-03-20 ✅ 2023-03-20
-- [x] ⏫ New Quest: [Living the Dream](./Living%20the%20Dream.md) ➕ 2023-03-14 ✅ 2023-03-16
-- [x] New Mission: [Beginner MonoGame Tutorial](./Beginner%20MonoGame%20Tutorial.md). ➕ 2023-03-14 ✅ 2023-03-14
-- [x] ⏫ New Aspect: [Game Analysis](Game%20Analysis.md) ➕ 2023-03-03 📅 2023-03-03 ✅ 2023-03-03
-- [x] create record template for video games ➕ 2023-03-01 📅 2023-03-03 ✅ 2023-03-03
+- [x] New Aspect: Game Design #bureaucracy 🥄+1 ⏫ ➕ 2023-03-27 ✅ 2023-03-27
+- [x] New Aspect: Untitled Multiplayer Top Down Game #bureaucracy 🥄+1 ⏫ ➕ 2023-03-27 ✅ 2023-03-27
+- [x] New Aspect: Hardware #bureaucracy 🥄+1 🛫 2023-03-20 ✅ 2023-03-20
+- [x] ⏫ New Quest: [Living the Dream](./Living%20the%20Dream.md) #bureaucracy 🥄+1 ➕ 2023-03-14 ✅ 2023-03-16
+- [x] New Mission: [Beginner MonoGame Tutorial](./Beginner%20MonoGame%20Tutorial.md). #bureaucracy 🥄+1 ➕ 2023-03-14 ✅ 2023-03-14
+- [x] ⏫ New Aspect: [Game Analysis](Game%20Analysis.md) #bureaucracy 🥄+1 ➕ 2023-03-03 📅 2023-03-03 ✅ 2023-03-03
+- [x] create record template for video games #bureaucracy 🥄+1 ➕ 2023-03-01 📅 2023-03-03 ✅ 2023-03-03
 	- metadata
 	- link to pirate
 	- review
@@ -83,4 +154,4 @@ dv.el("div", result)
 - [x] Install The Sims 4 on the Deck ➕ 2023-03-01 📅 2023-03-03 ✅ 2023-03-03
 - [x] 🔼  create a [Game Wish List](./Game%20Wish%20List.md) ➕ 2023-03-02 📅 2023-03-03 ✅ 2023-03-02
 - [x] ⏫  Create a list of [Games to Review](./Games%20to%20Review.md) ➕ 2023-03-02 📅 2023-03-03 ✅ 2023-03-02
-- [x] ⏫ New Aspect: [Game Development](Game%20Development.md) ➕ 2023-03-03 📅 2023-03-03 ✅ 2023-03-03
+- [x] ⏫ New Aspect: [Game Development](Game%20Development.md) #bureaucracy 🥄+1 ➕ 2023-03-03 📅 2023-03-03 ✅ 2023-03-03

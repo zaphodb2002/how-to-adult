@@ -7,9 +7,9 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
-- [ ] New Mission: Change "Campaign", "Aspect", and "Quest" metadata fields to dataview fields so we can use links. 🥄1 ⏫ ➕ 2023-04-11
+- [ ] New Mission: Change "Campaign", "Aspect", and "Quest" metadata fields to dataview fields so we can use links. #bureaucracy 🥄+1 ⏫ ➕ 2023-04-11
 	- later, we can use [Meta Bind](Meta%20Bind.md) to also sync the frontmatter but that's not been implemented yet
 
 # Summary

@@ -1,8 +1,7 @@
 ---
 share: true
 type: "mission"
-quest: "Get Adderall"
-status: "active"
+status: "incomplete"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
@@ -11,8 +10,8 @@ modified: <%+ tp.file.last_modified_date() %>
 quest:: [Get Adderall](./Get%20Adderall.md)
 started:: [2023-W14](./2023-W14.md)
 # Tasks
-- [ ] Call the Doc #PhoneCall #NotFun #adhd 🥄10 ⏫ 🔁 every month ➕ 2023-03-31 ⏳ 2023-04-20 📅 2023-04-01
-- [ ] Verify the pharmacy has filled the prescription #adhd #money 🥄3 ⏫ 🔁 every day 📅 2023-04-02
+- [f] Call the Doc #PhoneCall #NotFun #adhd 🥄10 ⏫ 🔁 every month ➕ 2023-03-31 ⏳ 2023-04-27 📅 2023-04-01
+- [f] Verify the pharmacy has filled the prescription #adhd #money 🥄3 ⏫ 🔁 every day 📅 2023-04-02
 # Notes
 2023-03-08 09:44 - called pharmacy, they just haven't filled it, just been sitting there for like a week.  fuckin a.  Lady says she'll fill it now and should be ready today.
 

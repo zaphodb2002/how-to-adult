@@ -4,8 +4,9 @@ type: "knowledge"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#place
+#place #myHouse 
 # Summary
+[Master Bath Cleaning Routine](./Master%20Bath%20Cleaning%20Routine.md)
 - Shower Windows
 - Shower Walls
 - Shower Door

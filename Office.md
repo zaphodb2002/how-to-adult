@@ -4,7 +4,9 @@ type: "knowledge"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
+#place #myHouse 
 # Summary
+[Office Cleaning Routine](./Office%20Cleaning%20Routine.md)
 - Rail
  - Floor at rail
  - Workbench

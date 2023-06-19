@@ -34,5 +34,5 @@ modified: NaN
 
 # Completion
 1. Checking the box in reading mode will complete the task, or you can edit and check the completed box.
-2. The [Spoons](./Spoons.md) tool should be updated to reflect the spoon cost of the task that was completed
+2. The [Spoon Counter](./Spoon%20Counter.md) tool should be updated to reflect the spoon cost of the task that was completed
 3. The task should move from its current heading to the "Things I've Done" heading on the note

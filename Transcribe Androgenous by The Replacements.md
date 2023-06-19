@@ -7,9 +7,9 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
-- [ ] New Mission: Create the first mission for this quest 🥄1 ➕ 2023-04-17
+- [ ] New Mission: Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-04-17
 # Summary
 campaign:: [05 - Music](./05%20-%20Music.md)
 aspect:: [08 - Transcription](./08%20-%20Transcription.md)

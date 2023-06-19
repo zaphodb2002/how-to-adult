@@ -7,7 +7,7 @@ status: "available"
 created: NaN 
 modified: NaN
 ---
-#available 
+ 
 # Summary
 quest:: [Mise en Place](./Mise%20en%20Place.md)
 started:: 

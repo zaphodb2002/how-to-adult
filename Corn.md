@@ -8,7 +8,7 @@ sub-type: "plant"
 created: NaN 
 modified: NaN
 ---
-#record #plant 
+ #plant 
 # Data
 Lifecycle:: Annual
 Sow:: Late Winter, Early Spring, Spring, Late Spring, Early Summer

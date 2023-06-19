@@ -25,4 +25,4 @@ modified: NaN
 ## Description
 A quixotic and funny tale about first love - from the Akutagawa Prize-winning author. A boy is obsessed with a woman who sells sandwiches. He goes to the supermarket almost every day, just so he can look at her face. She is beautiful to him, and he calls her "Ms Ice Sandwich", and endlessly draws her portrait. But the boy's friend hears about this hesitant adoration, and suddenly everything changes. His visits to Ms Ice Sandwich stop, and with them the last hopes of his childhood. A moving and surprisingly funny tale of growing up and learning how to lose, Ms Ice Sandwich is Mieko Kawakami at her very best.
 
-#record #book
+ #book

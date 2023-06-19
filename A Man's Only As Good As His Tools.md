@@ -2,13 +2,13 @@
 share: true
 type: "quest"
 sub-type: "major"
-status: "available"
+status: "active"
 
 created: NaN 
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-03-18
 
@@ -26,6 +26,6 @@ aspect:: [05 - Tools](./05%20-%20Tools.md)
 A great craftsman will produce great crafts regardless of tool *quality*, but even a great quality tool allowed to rust is useless to everyone.  Take care of your shit better, yo.
 
 # Missions
-1.
+1. [Acquire Basic Woodworking Tools](./Acquire%20Basic%20Woodworking%20Tools.md) 
 
 # Things I've Done

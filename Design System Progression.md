@@ -8,12 +8,12 @@ created: NaN
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-04-10
 # Summary
 campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
-aspect:: 
+aspect:: [01 - Gamification](./01%20-%20Gamification.md)
 started:: 
 completed::
 ## Complete Criteria:

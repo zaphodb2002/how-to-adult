@@ -3,19 +3,18 @@ share: true
 type: "quest"
 sub-type: "minor"
 status: "available"
-campaign: "Life Management System"
-aspect: "Workflow"
 created: NaN 
 modified: NaN
 ---
  
-#available 
+ 
 # Things to Do
 - [x] Create the first mission for this quest ➕ 2023-04-04 ✅ 2023-04-04
-- [ ] New Mission: Research how others are using Tags 🥄1 ⏫ ➕ 2023-04-04
+- [ ] New Mission: Research how others are using Tags #bureaucracy 🥄+1 ⏫ ➕ 2023-04-04
 
 # Summary
-## Campaign: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
+aspect:: [03 - Workflow](./03%20-%20Workflow.md)
 
 ## Complete Criteria:
 1. 
