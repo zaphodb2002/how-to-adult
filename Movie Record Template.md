@@ -3,7 +3,7 @@ share: true
 type: record
 sub-type: movie
 ---
-#record #movie
+ #movie
 `$= '![Image|360](' + dv.current().image + ')'`
 
 # [`$= '['+ dv.current().title+'](' + dv.current().url+')'`
