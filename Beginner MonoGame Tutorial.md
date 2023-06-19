@@ -7,14 +7,14 @@ status: "available"
 created: NaN 
 modified: NaN
 ---
-#available 
+ 
 # Summary
 I have not found a lot of basic resources for MonoGame, and even less with Nez.  Since this is the route we're going down for [Game Development](Game%20Development.md), at least for now, we'll start with a tutorial about how to build a simple Rock-Paper-Scissors game, and juice it up.
 
 RECORD EVERYTHING YOU DO SO YOU CAN REFERENCE LATER!
 
 # Tasks
-- [ ] New Quest: Upgrade this mission into a minor quest 🥄1 ⏫ ➕ 2023-03-31
+- [ ] New Quest: Upgrade this mission into a minor quest #bureaucracy 🥄+1 ⏫ ➕ 2023-03-31
 - [ ] Clean up the repo
 - [ ] Write out the tutorial
 - [ ] publish the tutorial on github
