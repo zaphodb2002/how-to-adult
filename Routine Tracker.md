@@ -11,7 +11,7 @@ modified: <%+ tp.file.last_modified_date() %>
 limit 1
 path includes Daily Notes
 due after yesterday
-tags include #morning
+tags include 
 not done
 short mode
 ```
@@ -20,7 +20,7 @@ short mode
 limit 1
 path includes Daily Notes
 due after yesterday
-tags include #afternoon
+tags include 
 not done
 short mode
 ```
@@ -29,7 +29,7 @@ short mode
 limit 1
 path includes Daily Notes
 due after yesterday
-tags include #evening
+tags include 
 not done
 short mode
 ```
