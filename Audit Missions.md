@@ -7,7 +7,7 @@ status: "available"
 created: NaN 
 modified: NaN
 ---
-#available #audit 
+ #audit 
 # Summary
 quest:: [Spring Workflow Audit 2023](./Spring%20Workflow%20Audit%202023.md)
 started:: 
@@ -15,7 +15,7 @@ completed::
 # Tasks
 - [ ] Verify all active mission tasks have scheduled dates ➕ 2023-03-31
 - [ ] Verify all inactive mission tasks do not have scheduled dates ➕2023-04-10
-- [ ] Complete the Audit Worksheet below 🥄10 ⏫ ➕ 2023-04-10
+- [ ] Complete the Audit Worksheet below #bureaucracy 🥄10 ⏫ ➕ 2023-04-10
 
 # Audit Worksheet
 ## Q: Is this working well?
