@@ -6,7 +6,7 @@ status: "completed"
 created: NaN 
 modified: NaN
 ---
-#completed  
+  
 # Summary
 quest:: [Study Pete McKee's Cartoon Workshop](./Study%20Pete%20McKee's%20Cartoon%20Workshop.md)
 started:: [2023-04-19](./2023-04-19.md)
