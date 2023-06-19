@@ -5,7 +5,7 @@ sub-type: "tool"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#LMS 
+#bureaucracy 
 Not in use
 Replaced with [Templater](./Templater.md)
 
