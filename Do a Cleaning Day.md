@@ -8,7 +8,7 @@ modified: NaN
 ---
   #cleaning 
 # Summary
-quest:: [Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
+quest:: [Cleaning 2023](./Cleaning%202023.md)
 started:: [2023-04-22](./2023-04-22.md)
 completed:: [2023-04-22](./2023-04-22.md)
 # Tasks
@@ -30,7 +30,7 @@ completed:: [2023-04-22](./2023-04-22.md)
 - [ ] Clean behind washer and drier ⏫  #cleaning #myHouse 
 - [ ] Clean Floor ⏫  #cleaning #myHouse 
 
-### [Dining Area](./Dining%20Area.md)
+### [Music Area](./Music%20Area.md)
 - [ ] Dust bookshelf  #cleaning #myHouse 
 - [ ] Clean Floor ⏫  #cleaning #myHouse 
 - [ ] Clean out Fireplace  #cleaning #myHouse 
