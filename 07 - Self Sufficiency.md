@@ -131,6 +131,7 @@ dv.el("div", result)
 [03 - Automotive](./03%20-%20Automotive.md)
 [04 - Construction](./04%20-%20Construction.md)
 [05 - Tools](./05%20-%20Tools.md)
+[06 - 3D Printing](./06%20-%203D%20Printing.md)
 
 # Summary
 [Julian, CA](./Julian,%20CA.md)
