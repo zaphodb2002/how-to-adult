@@ -7,7 +7,7 @@ modified: <%+ tp.file.last_modified_date() %>
 #place #myHouse 
 # Summary
 
-[Entryway Cleaning](./Entryway%20Cleaning.md)
+[Entryway Maintenance Routine](./Entryway%20Maintenance%20Routine.md)
 
 66" or 167.64 cm wide front doors
 3.75" or 9.525 cm south side wall
