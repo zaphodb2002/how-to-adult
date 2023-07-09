@@ -1,14 +1,14 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "available"
 
 created: NaN 
 modified: NaN
 ---
  
 # Summary
-quest:: [Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
+quest:: [Cleaning 2023](./Cleaning%202023.md)
 # Tasks
 - [x] Create the first task for this mission ⏫ ➕ 2023-04-04 ✅ 2023-04-04
 - [ ] add TV Area to the cleaning hub 🥄1 ➕ 2023-04-04
