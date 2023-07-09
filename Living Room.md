@@ -6,7 +6,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 #place #myHouse 
 # Summary
-[Living Room Cleaning Routine](./Living%20Room%20Cleaning%20Routine.md)
+[Living Room Maintenance Routine](./Living%20Room%20Maintenance%20Routine.md)
 #### TV Area
 - TV
 - TV Stand
