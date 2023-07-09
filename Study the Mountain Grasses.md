@@ -1,7 +1,7 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "incomplete"
 
 created: NaN 
 modified: NaN
@@ -12,7 +12,7 @@ quest:: [Study San Diego County Native Plants by James Lightner](./Study%20San%2
 started::  [2023-05-17](./2023-05-17.md)
 completed::
 # Tasks
-- [ ] Do the Thing  🥄10 ⏫ ➕ 2023-05-17 🛫 2023-05-17
+- [ ] Do the Thing  🥄10 #onHold ⏫ ➕ 2023-05-17 🛫 2023-05-17
 # Notes
 [San Diego County Native Plants](./San%20Diego%20County%20Native%20Plants%20-%20James%20Lightner.md)
 pgs 380-397
