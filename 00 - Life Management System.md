@@ -8,6 +8,7 @@ modified: <%+ tp.file.last_modified_date() %>
 #bureaucracy
 # Things to Sort
 
+- [ ] Make a dental appt #PhoneCall #NotFun #healthy #adhd #grooming #hygiene 🥄10 🛫 2023-07-07 📅 2023-09-01 
 
 
 # Quests
