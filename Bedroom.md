@@ -6,7 +6,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 #place #myHouse 
 # Summary
- [Bedroom Cleaning Routine](./Bedroom%20Cleaning%20Routine.md)
+ [Bedroom Maintenance Routine](./Bedroom%20Maintenance%20Routine.md)
 - Bed
 - Windowsill
 - Steph's Side Floor
