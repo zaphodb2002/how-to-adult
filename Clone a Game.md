@@ -21,7 +21,10 @@ completed::
 ## Why is this important?:
 
 # Missions
-1. [Make a list of potential games to clone](./Make%20a%20list%20of%20potential%20games%20to%20clone.md)
+1. ~~[Make a list of potential games to clone](./Make%20a%20list%20of%20potential%20games%20to%20clone.md)~~
+2. Complete [Clone Space Invaders in Godot](./Clone%20Space%20Invaders%20in%20Godot.md)
+3. Complete [Clone Space Invaders in MonoGame](Clone%20Space%20Invaders%20in%20MonoGame.md)
+4. Complete [Clone Space Invaders in Bevy](Clone%20Space%20Invaders%20in%20Bevy.md)
 
 # Notes
 [Games to Clone](./Games%20to%20Clone.md)
