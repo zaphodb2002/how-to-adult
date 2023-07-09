@@ -26,15 +26,15 @@ Routines are the stuff that I have to do but don't wanna.  If we can make these 
 1. ~~[Create Feature Design Document](./Create%20Feature%20Design%20Document.md)~~
 2. ~~[Create Routine Template](./Create%20Routine%20Template.md)~~
 3. ~~[Create scripts for populating Routines for Daily Note](./Create%20scripts%20for%20populating%20Routines%20for%20Daily%20Note.md)~~
-4. ~~[How do we handle time of day routines?](How%20do%20we%20handle%20time%20of%20day%20routines?.md)~~
-5. ~~[How do we handle Weekly and Monthly routines?](How%20do%20we%20handle%20Weekly%20and%20Monthly%20routines?.md)~~
+4. ~~[How do we handle time of day routines?](./How%20do%20we%20handle%20time%20of%20day%20routines?.md)~~
+5. ~~[How do we handle Weekly and Monthly routines?](./How%20do%20we%20handle%20Weekly%20and%20Monthly%20routines?.md)~~
 6. ~~[Create scripts for populating Routines for Weekly Note](./Create%20scripts%20for%20populating%20Routines%20for%20Weekly%20Note.md)~~
-7. [How do we handle Seasonal and Yearly routines?](How%20do%20we%20handle%20Seasonal%20and%20Yearly%20routines?.md)
-8. [How do we handle intermittent or every-other sorts of routines?](How%20do%20we%20handle%20intermittent%20or%20every-other%20sorts%20of%20routines?.md)
-9. [Create scripts for populating Routines for Monthly Note](./Create%20scripts%20for%20populating%20Routines%20for%20Monthly%20Note.md)
+7. [How do we handle Seasonal and Yearly routines?](./How%20do%20we%20handle%20Seasonal%20and%20Yearly%20routines?.md)
+8. [How do we handle intermittent or every-other sorts of routines?](./How%20do%20we%20handle%20intermittent%20or%20every-other%20sorts%20of%20routines?.md)
+9. ~~[Create scripts for populating Routines for Monthly Note](./Create%20scripts%20for%20populating%20Routines%20for%20Monthly%20Note.md)~~
 10. [Create scripts for populating Routines for Seasonal Note](./Create%20scripts%20for%20populating%20Routines%20for%20Seasonal%20Note.md)
 11. [Create scripts for populating Routines for Yearly Note](./Create%20scripts%20for%20populating%20Routines%20for%20Yearly%20Note.md)
-12. [How can I prompt myself to slow down or speed up?](How%20can%20I%20prompt%20myself%20to%20slow%20down%20or%20speed%20up?.md)
+12. [How can I prompt myself to slow down or speed up?](./How%20can%20I%20prompt%20myself%20to%20slow%20down%20or%20speed%20up?.md)
 13. [Consider entering optional routine items in the cancelled state 1 ](Consider%20entering%20optional%20routine%20items%20in%20the%20cancelled%20state%201.md)
 
 # Notes
