@@ -38,7 +38,7 @@ completed::
 I own the land, I should use it.  Supply chains have less effect on me.  Food legitimately tastes better.  If you can't feed yourself, how can you do anything else?
 # Missions
 1. [Split this up into Seasonal Quests](./Split%20this%20up%20into%20Seasonal%20Quests.md)
-2. Complete [Spring Gardening 2023](./Spring%20Gardening%202023.md)
+2. ~~Complete [Spring Gardening 2023](./Spring%20Gardening%202023.md)~~
 3. [Fence in the Garden](./Fence%20in%20the%20Garden.md)
 4. [Turn the Field](./Turn%20the%20Field.md)
 5. 
