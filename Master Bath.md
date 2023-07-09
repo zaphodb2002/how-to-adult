@@ -6,7 +6,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 #place #myHouse 
 # Summary
-[Master Bath Cleaning Routine](./Master%20Bath%20Cleaning%20Routine.md)
+[Master Bath Maintenance Routine](./Master%20Bath%20Maintenance%20Routine.md)
 - Shower Windows
 - Shower Walls
 - Shower Door

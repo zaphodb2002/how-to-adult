@@ -42,7 +42,7 @@ campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.m
 - [Get a PR accepted into Rollover Daily To-Dos](Get%20a%20PR%20accepted%20into%20Rollover%20Daily%20To-Dos.md)
 - [Create Maintenance views](./Create%20Maintenance%20views.md)
 - [Set Up Obsidian](./Set%20Up%20Obsidian.md)
-- [Spring LMS Audit 2023](./Spring%20LMS%20Audit%202023.md)
+- [LMS Audit 2023](./LMS%20Audit%202023.md)
 - [Create Monthly Note Template](./Create%20Monthly%20Note%20Template.md)
 - [Automate Task Input with Buttons](./Automate%20Task%20Input%20with%20Buttons.md)
 

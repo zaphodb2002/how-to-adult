@@ -9,7 +9,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
   
 # Summary
-quest::  [Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
+quest::  [Cleaning 2023](./Cleaning%202023.md)
 started:: [2023-04-04](./2023-04-04.md)
 completed:: [2023-04-10](./2023-04-10.md)
 
@@ -18,7 +18,7 @@ completed:: [2023-04-10](./2023-04-10.md)
 
 # Notes
 [Cleaning Hub](./Cleaning%20Hub.md)
-[Entryway Cleaning](./Entryway%20Cleaning.md)
+[Entryway Maintenance Routine](./Entryway%20Maintenance%20Routine.md)
 # Things I've Done
 - [x] Create the first task for this mission ⏫ ➕ 2023-04-04 ✅ 2023-04-04
 - [x] add Entryway to the cleaning hub ➕ 2023-04-04 ⏳ 2023-04-04 ✅ 2023-04-04

@@ -14,7 +14,7 @@ campaign:: [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
 # Quests
 [Mise en Place](./Mise%20en%20Place.md)
 [Decorating](./Decorating.md)
-[Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
+[Cleaning 2023](./Cleaning%202023.md)
 
 # Things I've Done
 - [x] under what campaign do the fish fall? ➕ 2023-03-03 ✅ 2023-03-31

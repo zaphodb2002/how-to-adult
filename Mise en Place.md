@@ -35,7 +35,7 @@ You need to be able to find your shit when you need it, and you need to take bet
 9. [Buy more Lost Baskets](./Buy%20more%20Lost%20Baskets.md)
 10. [Buy more Bus Bins](./Buy%20more%20Bus%20Bins.md)
 11. [A Trash Can in Every Room](./A%20Trash%20Can%20in%20Every%20Room.md)
-12. [Look into "Struggle Care" Podcast](Look%20into%20%22Struggle%20Care%22%20Podcast.md)
+12. [Look into "Struggle Care" Podcast](./Look%20into%20%22Struggle%20Care%22%20Podcast.md)
 13. [Phone Mounts and Charges EVERYWHERE](./Phone%20Mounts%20and%20Charges%20EVERYWHERE.md)
 
 # Notes
@@ -68,5 +68,5 @@ This makes sense to me and is a good framework to think about incorporating in g
 - [x] Toy basket for the dogs ⏫ ➕ 2023-03-11 ✅ 2023-03-28
 - [x] Need more laundry baskets ⏫ ➕ 2023-03-11 ✅ 2023-03-28
 - [x] Create the first mission for this quest ➕ 2023-03-20 ✅ 2023-03-24
-- [x] New Mission: [Spring Cleaning 2023](./Spring%20Cleaning%202023.md) ⏫ ➕ 2023-03-24 ✅ 2023-03-24
+- [x] New Mission: [Cleaning 2023](./Cleaning%202023.md) ⏫ ➕ 2023-03-24 ✅ 2023-03-24
 - [x] Buy more brooms and dustpans #shopping 🥄5 ⏫ ➕ 2023-04-17 ⏳ 2023-04-21 ✅ 2023-04-21

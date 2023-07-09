@@ -2,7 +2,7 @@
 share: true
 type: "quest"
 sub-type: "minor"
-status: "active"
+status: "available"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>

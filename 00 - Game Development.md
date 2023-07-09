@@ -18,6 +18,7 @@ campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
 - [Complete the An Introduction to Interactive Programming In Python Course](./Complete%20the%20An%20Introduction%20to%20Interactive%20Programming%20In%20Python%20Course.md)
 - [Create Rock Paper Scissors game](./Create%20Rock%20Paper%20Scissors%20game.md)
 - [Learn C++](./Learn%20C++.md)
+- [Build the GrapeSodaGames tool suite](./Build%20the%20GrapeSodaGames%20tool%20suite.md)
 
 # Things I've Done
 - [x] New Major Quest: WorldBuilder #bureaucracy 🥄1 ➕ 2023-05-05 ⏳ 2023-05-11 ✅ 2023-05-11

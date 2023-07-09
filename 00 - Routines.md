@@ -10,7 +10,7 @@ modified: <%+ tp.file.last_modified_date() %>
 # Summary
 campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
 
-[Process](./Process.md)
+[LMS Process](./LMS%20Process.md)
 
 # Quests
 

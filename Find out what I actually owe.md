@@ -1,7 +1,7 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "available"
 
 created: NaN 
 modified: NaN

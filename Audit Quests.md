@@ -8,11 +8,11 @@ created: NaN
 modified: NaN
 ---
  #audit 
-quest:: [Spring Workflow Audit 2023](./Spring%20Workflow%20Audit%202023.md)
+quest:: [Workflow Audit 2023](./Workflow%20Audit%202023.md)
 started:: [2023-06-19](./2023-06-19.md)
 completed::
 # Tasks
-- [ ] Verify all active quest tasks have started dates ➕ 2023-03-31 🛫 2023-06-19 
+- [ ] Verify all active quest tasks have started dates ➕ 2023-03-31
 - [ ] Verify all inactive quest tasks do not have scheduled dates ➕2023-04-10
 - [ ] Complete the Audit Worksheet below #bureaucracy 🥄10 ⏫ ➕ 2023-04-10
 

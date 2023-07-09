@@ -31,7 +31,7 @@ I like weed.  It helps.
 3. ~~[Reveg the 2x4](./Reveg%20the%202x4.md)~~
 4. ~~[Sow autos outdoors](./Sow%20autos%20outdoors.md)~~
 5. [Harvest The Revegged 2x4](./Harvest%20The%20Revegged%202x4.md)
-6. 
+6. [Create Routine for Cannabis Grows](Create%20Routine%20for%20Cannabis%20Grows.md)
 7. [Create Routine for Cleaning Paraphernalia](./Create%20Routine%20for%20Cleaning%20Paraphernalia.md)
 8. [Create Routine for making Edibles](./Create%20Routine%20for%20making%20Edibles.md)
 

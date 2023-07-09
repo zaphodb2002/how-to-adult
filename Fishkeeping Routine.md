@@ -9,23 +9,28 @@ modified: NaN
   #routine
 
 # Daily
-- [ ] Feed TV 20 Gallon Tank #fishies 🥄1
-- [ ] Feed TV 10 Gallon Tank #fishies 🥄1
-- [ ] Feed Hospital Tank #fishies 🥄1
-- [ ] Feed Upstairs 27 Gallon Tank #fishies 🥄1
+
+
+
+- [ ] Enjoy the [Upstairs 27 Gallon Aquarium](Upstairs%2027%20Gallon%20Aquarium.md) for 5 minutes #fishies #fun #relaxing 🥄+2
+
+
+- [ ] Enjoy [Steph's Upstairs 20 Gallon Long Aquarium](Steph's%20Upstairs%2020%20Gallon%20Long%20Aquarium.md) for 5 minutes #fishies #fun #relaxing 🥄+2
+
+- [ ] Enjoy the [Steph's Upstairs 10 Gallon Shrimp Aquarium](Steph's%20Upstairs%2010%20Gallon%20Shrimp%20Aquarium.md) for 5 minutes #fishies #fun #relaxing 🥄+2
+
+- [ ] Enjoy the [Bedroom Iwagumi 20 Gallon Long Aquarium](Bedroom%20Iwagumi%2020%20Gallon%20Long%20Aquarium.md) for 5 minutes #fishies #fun #relaxing 🥄+2
+
+
+- [ ] Enjoy the [Bedroom Utility 10 Gallon Aquarium](Bedroom%20Utility%2010%20Gallon%20Aquarium.md) for 5 minutes #fishies #fun #relaxing 🥄+2
+
+
 # Weekly
-- [ ] Scrub Glass on TV 20 Gallon Tank #fishies #cleaning 🥄2
-- [ ] Top Off TV 20 Gallon Tank #fishies 🥄2
-- [ ] Scrub Glass on TV 10 Gallon Tank #fishies 🥄2
-- [ ] Top Off TV 10 Gallon Tank #fishies 🥄2
-- [ ] Scrub Glass on Hospital Tank #fishies 🥄2
-- [ ] Top Off Hospital Tank #fishies 🥄2
+
 - [ ] Scrub Glass on Upstairs 27 Gallon Tank #fishies 🥄3
 - [ ] Top Off Upstairs 27 Gallon Tank #fishies 🥄2
 # Monthly
-- [ ] 30% water change on TV 20 Gallon Tank #fishies 🥄5
-- [ ] 30% water change on TV 10 Gallon Tank #fishies 🥄5
-- [ ] 30% water change on Hospital Tank #fishies 🥄5
+
 - [ ] 30% water change on Upstairs 27 Gallon Tank #fishies 🥄10
 # Seasonally
 # Yearly

@@ -1,7 +1,7 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "incomplete"
 
 created: NaN 
 modified: NaN
@@ -11,7 +11,7 @@ modified: NaN
 quest:: [Dirt Farmer](./Dirt%20Farmer.md)
 8 rows, each 1 ft wide, 3 ft apart, 20 ft long.  
 # Tasks
-
+- [ ] Do the thing ➕ 2023-06-19 🛫 2023-03-24
 
 - Fertilize
 	- [x] Row 1 ⏫ ➕2023-03-24 📅 2023-04-01 ✅ 2023-03-24

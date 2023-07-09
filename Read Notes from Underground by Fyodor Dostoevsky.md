@@ -12,6 +12,7 @@ quest:: [Be Well Read (Fiction Edition)](./Be%20Well%20Read%20(Fiction%20Edition
 started:: [2023-05-11](./2023-05-11.md)
 completed::
 # Tasks
+- [ ] Do the thing ➕ 2023-06-19 🛫 2023-05-29
 - [x] Acquire a copy of the book  🥄5 ⏫ ➕ 2023-05-11 ⏳ 2023-05-29 ✅ 2023-05-29
 - [ ] Finish the book #reading 🥄+5 ➕ 2023-05-11
 # Notes

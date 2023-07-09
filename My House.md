@@ -15,7 +15,7 @@ Interior Wall Thickness: 5" or 12.7 cm
 ### [Entryway](./Entryway.md)
 ### [Bedroom](./Bedroom.md)
 ### [Guest Bath](./Guest%20Bath.md)
-### [Dining Area](./Dining%20Area.md)
+### [Music Area](./Music%20Area.md)
 ### [Living Room](./Living%20Room.md)
 ### [Stairs](./Stairs.md)
 ## Upstairs

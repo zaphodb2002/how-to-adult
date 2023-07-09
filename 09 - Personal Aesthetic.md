@@ -10,7 +10,7 @@ modified: NaN
 # Summary
 campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.md)
 
-[Laundry Routine](./Laundry%20Routine.md)
+[Sartorial Maintenance Routine](./Sartorial%20Maintenance%20Routine.md)
 
 # Quests
 

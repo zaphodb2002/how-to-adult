@@ -7,7 +7,9 @@ modified:  <%+ tp.file.last_modified_date() %>
 ---
 #PersonalWellness 
 # Things to Sort
+- [ ] Verify CVS got my renewal ➕ 2023-07-07 ⏫ ⏳ 2023-07-10 
 
+- [ ] Attend July 20th 12:45 Ramona Palomar Health Doc Appt #healthy #doctor #adhd #meds #myBack #pain 🥄20 ➕ 2023-07-07 ⏫ ⏳ 2023-07-20 
 
 
 

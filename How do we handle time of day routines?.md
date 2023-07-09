@@ -6,14 +6,14 @@ status: "completed"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#completed  
+  
 # Summary
 quest:: [Rethink Routines](./Rethink%20Routines.md)
 started:: [2023-04-10](./2023-04-10.md)
 completed:: [2023-04-14](./2023-04-14.md)
 # Tasks
 
-- [x] Test with [Apply for Jobs](./Apply%20for%20Jobs.md) 🥄0 ➕ 2023-04-13 ⏳ 2023-04-13 ✅ 2023-04-14
+- [x] Test with Apply for Jobs 🥄0 ➕ 2023-04-13 ⏳ 2023-04-13 ✅ 2023-04-14
 
 # Notes
 

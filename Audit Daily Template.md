@@ -9,7 +9,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
  #audit 
 # Summary
-quest:: [Spring Obsidian Audit 2023](./Spring%20Obsidian%20Audit%202023.md)
+quest:: [Obsidian Audit 2023](./Obsidian%20Audit%202023.md)
 started:: 
 completed::
 

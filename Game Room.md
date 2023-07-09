@@ -6,7 +6,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 #place #myHouse 
 # Summary
- [Game Room Cleaning](./Game%20Room%20Cleaning.md)
+ [Game Room Maintenance Routine](./Game%20Room%20Maintenance%20Routine.md)
  - Steam Deck Workstation
  - Floor under Deck Workstation
  - Racing Rig

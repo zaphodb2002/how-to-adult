@@ -2,7 +2,7 @@
 share: true
 type: "quest"
 sub-type: "minor"
-status: "active"
+status: "available"
 created: NaN 
 modified: NaN
 ---

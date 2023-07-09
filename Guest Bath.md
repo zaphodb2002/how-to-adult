@@ -6,7 +6,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 #place #myHouse 
 # Summary
-[Guest Bathroom Cleaning Routine](./Guest%20Bathroom%20Cleaning%20Routine.md)
+[Guest Bathroom Maintenance Routine](./Guest%20Bathroom%20Maintenance%20Routine.md)
 - Mirror
 - Sink Counter
 - Top of Toilet

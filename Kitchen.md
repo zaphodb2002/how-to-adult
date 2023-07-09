@@ -7,7 +7,7 @@ modified: <%+ tp.file.last_modified_date() %>
 #place #myHouse 
 # Summary
 
-[Kitchen Cleaning Routine](./Kitchen%20Cleaning%20Routine.md)
+[Kitchen Maintenance Routine](./Kitchen%20Maintenance%20Routine.md)
 
 Counter Depth: 25" (2" lip) or 63.5 cm (5.08 cm lip)
 Counter Gap: 53" or 134.62 cm

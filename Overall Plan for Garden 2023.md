@@ -1,7 +1,7 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "incomplete"
 created: NaN 
 modified: NaN
 ---
@@ -12,15 +12,14 @@ started:: [2023-W13](./2023-W13.md)
 Need to flesh out a list of the things I want to accomplish in the garden this year.
 
 # Tasks
-
+- [ ] Do the thing #onHold ➕ 2023-06-19 🛫 2023-03-24
 - [ ] Measure out all the yard spaces and draw a diagram of the yard with names for the areas 🥄10 ⏫ ➕ 2023-03-24
 - [ ] Figure out what I need to buy generally #money #shopping #planning 🥄5 ⏫ ➕ 2023-03-24
 	- New Water Wand
 	- Tool Rack
 	- Garden Cart?
 	- Sun Shades
-- [x] New Routine: Spring Yard Work #planning  🥄1 ⏫ ➕ 2023-03-24 ⏳ 2023-05-29 ✅ 2023-05-30
-- [x] Create Quests or missions for planned projects #bureaucracy 🥄+5 ➕ 2023-03-24 ⏳ 2023-06-02 ✅ 2023-06-01
+- [ ] Upgrade this mission to a quest #bureaucracy #LMS ➕ 2023-06-19 
 
 # Notes
 ## Things I'd Like to Do
@@ -32,3 +31,5 @@ Need to flesh out a list of the things I want to accomplish in the garden this y
 
 # Things I've Done
 - [x] Create the first task for this mission ⏫ ➕ 2023-03-24 ✅ 2023-03-24 
+- [x] New Routine: Spring Yard Work #planning  🥄1 ⏫ ➕ 2023-03-24 ⏳ 2023-05-29 ✅ 2023-05-30
+- [x] Create Quests or missions for planned projects #bureaucracy 🥄+5 ➕ 2023-03-24 ⏳ 2023-06-02 ✅ 2023-06-01

@@ -25,7 +25,7 @@ campaign:: [00 - Life Management System](./00%20-%20Life%20Management%20System.m
 - [Expand Workflow Documentation](./Expand%20Workflow%20Documentation.md)
 - [Create Documentation for LMS](./Create%20Documentation%20for%20LMS.md)
 - [Convert All Saved Things to LMS notes](./Convert%20All%20Saved%20Things%20to%20LMS%20notes.md)
-- [Should Notes or Tasks be the atomic unit?](Should%20Notes%20or%20Tasks%20be%20the%20atomic%20unit?.md)
+- [Should Notes or Tasks be the atomic unit?](./Should%20Notes%20or%20Tasks%20be%20the%20atomic%20unit?.md)
 
 # Things I've Done
 - [x] New Quest: Consider moving away from Obsidian Tasks and making the Note, instead of the Task, the atomic unit. #bureaucracy 🥄+1 ⏫ ➕ 2023-04-04 ⏳ 2023-04-24 ✅ 2023-04-17

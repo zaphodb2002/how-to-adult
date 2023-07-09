@@ -2,19 +2,17 @@
 share: true
 type: "routine"
 sub-type: art
-status: "available"
+status: "active"
 created: NaN 
 modified: NaN
 ---
   #routine
 
 # Daily
-## Morning
-
-## Afternoon
-## Evening
+- [ ] Look at your previous drawings in your sketchbook for 5 minutes #art #littlePush #challenge 🥄+2
 # Weekly
-- [ ] Fill a sketchbook page #art #practice 🥄+5
+- [ ] Draw for 5 minutes #art #practice #habit #challenge 
+- [ ] Fill a sketchbook page #art #practice #relaxing 🥄+5
 # Monthly
 # Seasonally
 # Yearly

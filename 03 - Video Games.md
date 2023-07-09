@@ -7,7 +7,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 
 # Things to Sort
-
+- [x] Set up OBS on the new machine 🥄3 🛫 2023-07-03 ✅ 2023-07-03
 # Quests
 ## Main
 ### Active
@@ -131,6 +131,7 @@ dv.el("div", result)
 [03 - Hardware](./03%20-%20Hardware.md)
 [04 - Game Design](./04%20-%20Game%20Design.md)
 [05 - Untitled Multiplayer Top Down Game](./05%20-%20Untitled%20Multiplayer%20Top%20Down%20Game.md)
+[06 - Streaming](./06%20-%20Streaming.md)
 # Goals
 - Sell a game on Steam
 - Live off the money I make from my games

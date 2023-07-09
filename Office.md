@@ -6,7 +6,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 #place #myHouse 
 # Summary
-[Office Cleaning Routine](./Office%20Cleaning%20Routine.md)
+[Office Maintenance Routine](./Office%20Maintenance%20Routine.md)
 - Rail
  - Floor at rail
  - Workbench

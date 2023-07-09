@@ -7,8 +7,8 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 
 # Things to Sort
-
-
+- [ ] Rework my Resume #NotFun #tedious #work ⏫ ➕ 2023-07-07 
+- [ ] Set up Patreon #work #money ⏫ ➕ 2023-07-07 
 
 # Quests
 ## Main

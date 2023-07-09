@@ -1,7 +1,7 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "available"
 
 created: NaN 
 modified: NaN
@@ -9,7 +9,7 @@ modified: NaN
  
 # Summary
 quest:: [Develop WorldBuilder Tool](./Develop%20WorldBuilder%20Tool.md)
-started:: [2023-05-12](./2023-05-12.md)
+started:: 
 completed::
 # Tasks
 - [ ] Research Triplanar Texturing in Godot #programming #godot #3DRendering #research 🥄5 ➕ 2023-05-13

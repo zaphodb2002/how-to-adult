@@ -235,21 +235,6 @@ for (let page of pages)
 dv.el("div", result)
 ```
 
-### Available
-```dataviewjs
-let result = "";
-let pages = dv.pages()
-    .where(page => page["type"] == "mission");
-
-for (let page of pages)
-{
-	if(page["status"] == "available")
-		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
-}
-    
-dv.el("div", result)
-```
-
 ### Incomplete
 ```dataviewjs
 let result = "";
@@ -259,6 +244,34 @@ let pages = dv.pages()
 for (let page of pages)
 {
 	if(page["status"] == "incomplete")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
+}
+    
+dv.el("div", result)
+```
+### On Hold
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "mission");
+
+for (let page of pages)
+{
+	if(page["status"] == "on hold")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
+}
+    
+dv.el("div", result)
+```
+### Available
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "mission");
+
+for (let page of pages)
+{
+	if(page["status"] == "available")
 		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
 }
     
@@ -279,8 +292,34 @@ for (let page of pages)
     
 dv.el("div", result)
 ```
+### Failed
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "mission");
 
+for (let page of pages)
+{
+	if(page["status"] == "failed")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
+}
+    
+dv.el("div", result)
+```
+### Cancelled
+```dataviewjs
+let result = "";
+let pages = dv.pages()
+    .where(page => page["type"] == "mission");
 
+for (let page of pages)
+{
+	if(page["status"] == "cancelled")
+		result += '- ' + page.file.link + ": " + page["status"] + ' for ' + page["quest"] + '\n';
+}
+    
+dv.el("div", result)
+```
 ## Missions with no Quest
 ```dataviewjs
 
