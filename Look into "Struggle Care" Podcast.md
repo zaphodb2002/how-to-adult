@@ -6,13 +6,13 @@ status: "available"
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
 ---
-#available 
+ 
 # Summary
 quest:: [Mise en Place](./Mise%20en%20Place.md)
 started:: 
 completed::
 # Tasks
-- [ ] Create the first task for this mission 🥄1 ⏫ ➕2023-04-17 
+- [ ] Create the first task for this mission #bureaucracy 🥄+1 ⏫ ➕ 2023-04-17
 
 # Notes
 
