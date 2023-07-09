@@ -1,7 +1,7 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "available"
 
 created: NaN 
 modified: NaN
@@ -9,7 +9,7 @@ modified: NaN
  
 # Summary
 quest:: [Study Hal Leonard Bass Method by Ed Friedland](./Study%20Hal%20Leonard%20Bass%20Method%20by%20Ed%20Friedland.md)
-started:: [2023-05-17](./2023-05-17.md)
+started:: 
 completed::
 # Tasks
 - [ ] Riff 00 #music #bass #practice #riff #transcribing 🥄5 ➕ 2023-05-17
