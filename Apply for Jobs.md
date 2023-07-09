@@ -7,9 +7,15 @@ status: "active"
 # Daily
 ## Morning
 - [ ] Check email #bureaucracy #communication 🥄3
+- [ ] Apply for a job #NotFun #tedious   🥄2 
 ## Afternoon
 ## Evening
 # Weekly
+- [ ] Apply for a job #NotFun #tedious   🥄2 
+- [ ] Apply for a job #NotFun #tedious 🥄2 
+- [ ] Apply for a job #NotFun #tedious  🥄2 
+- [ ] Apply for a job #NotFun #tedious  🥄2 
+- [ ] Apply for a job #NotFun #tedious  🥄2 
 - [ ] Apply for a job #NotFun #tedious   🥄2 
 - [ ] Apply for a job #NotFun #tedious 🥄2 
 - [ ] Apply for a job #NotFun #tedious  🥄2 
