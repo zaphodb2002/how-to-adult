@@ -75,13 +75,13 @@ Active Missions: `$= dv.pages().where(page => page["type"] == "mission" && page[
 ```tagcloud
 shape: square
 source: vault
-weight: 5
+weight: 20
 shrinkToFit: false
 minCount: 0
-maxDepth: 50
+maxDepth: 100
 
-width: 800
-height: 800
+width: 900
+height: 900
 
 minFontSize: 0
 minRotation: -1.57
