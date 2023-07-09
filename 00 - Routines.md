@@ -8,7 +8,7 @@ modified: NaN
 # Things to Do
 
 # Summary
-campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
+campaign:: [04 - Psychonautics](./04%20-%20Psychonautics.md)
 # Quests
 
 # Things I've Done
