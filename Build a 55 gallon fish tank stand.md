@@ -9,7 +9,7 @@ modified: NaN
  #woodworking #makingStuff #fishies #furniture #myHouse #fun
  
 # Things to Do
-
+- [ ] Do the Thing ➕ 2023-07-07 🛫 2024-05-26 
 # Summary
 campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
 aspect:: [04 - Construction](./04%20-%20Construction.md)
