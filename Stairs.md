@@ -6,7 +6,7 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 #place #myHouse 
 # Summary
-[Stairs Cleaning Routine](./Stairs%20Cleaning%20Routine.md)
+[Stairs Maintenance Routine](./Stairs%20Maintenance%20Routine.md)
 - Landing
 - Rail
 - Carpet
