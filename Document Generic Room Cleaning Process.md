@@ -8,7 +8,7 @@ modified: NaN
 ---
 
 # Summary
-quest:: [Spring Cleaning 2023](./Spring%20Cleaning%202023.md)
+quest:: [Cleaning 2023](./Cleaning%202023.md)
 started:: [2023-04-04](./2023-04-04.md)
 completed:: [2023-04-07](./2023-04-07.md)
 # Tasks
