@@ -2,7 +2,7 @@
 share: true
 type: "quest"
 sub-type: "major"
-status: "active"
+status: "incomplete"
 created: NaN 
 modified: NaN
 ---
