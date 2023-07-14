@@ -12,7 +12,8 @@ quest:: [Be Well Read (Fiction Edition)](./Be%20Well%20Read%20(Fiction%20Edition
 started:: [2023-04-13](./2023-04-13.md)
 completed::
 # Tasks
-- [ ] Do the Thing ➕ 2023-06-19 🛫 2023-04-13
+- [ ] Do the Thing #onHold ➕ 2023-06-19 🛫 2023-04-13
+- [ ] Break this into smaller chunks #bureaucracy #refactor 🥄5 ➕ 2023-07-13 
 - [ ] Go through [Time Magazine 100 Best Novels](./Time%20Magazine%20100%20Best%20Novels.md) and add records for every book, and change the links so they point to the record #tedious #DataEntry 🥄20 ➕ 2023-04-14
 - [x] Research Books to Read lists on the internet #fun 🥄5 ⏫ ➕ 2023-04-13 ⏳ 2023-04-14 ✅ 2023-04-14
 - [x] Create the first task for this mission ⏫ ➕ 2023-04-13 ⏳ 2023-04-13 ✅ 2023-04-13
