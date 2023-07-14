@@ -10,14 +10,14 @@ modified: NaN
 
 # Daily
 
-- [ ] Slept #sleep 🥄+5 ⏫ 
-- [ ] Slept Well #sleep 🥄+5 ⏫ 
----
+- [ ] Slept #sleep 🥄+5 🔺 
+- [ ] Slept Well #sleep 🥄+5 🔺 
 
-- [ ] Take Meds #habit #meds #adhd #hbp 🥄+5 ⏫
+- [ ] Take Meds #habit #meds #adhd #hbp 🥄+5 🔺 
+- [ ] Put on Glasses #habit #healthy #brain 🥄+2 🔺 
 - [ ] Drink Water #habit #hydration 🥄+2 ⏫
-- [ ] Refill my water #hydration 🥄+2
-- [ ] Refill my water #hydration 🥄+2
+- [ ] Refill my water #hydration 🥄2 🔼  
+- [ ] Refill my water #hydration 🥄2 🔼 
 - [ ] Take 2nd Adderall (optional) #habit #meds #adhd  🥄+5 ⏫
 - [ ] Drink Water #habit #hydration 🥄+2 ⏫
 - [ ] Drink Water #habit #hydration 🥄+2 ⏫
@@ -26,9 +26,12 @@ modified: NaN
 
 # Weekly
 # Monthly
+- [ ] Call the Doc to renew meds #PhoneCall #NotFun #adhd 🥄10 🔺 
+- [ ] Verify CVS got my renewal #adhd 🥄5 🔺 
+- [ ] Pick up meds from CVS #NotFun #adhd #DownTheHill 🥄20 🔺
 # Seasonally
-- [ ] Make a doc appt #PhoneCall #NotFun #healthy #adhd #meds #hbp 🥄10
-- [ ] Make a dental appt #PhoneCall #NotFun #healthy #adhd #grooming #hygiene 🥄10
+- [ ] Make a doc appt #PhoneCall #NotFun #healthy #adhd #meds #hbp 🥄10 🔺 
+- [ ] Make a dental appt #PhoneCall #NotFun #healthy #adhd #grooming #hygiene 🥄10 🔺 
 # Yearly
 
 ```dataviewjs
