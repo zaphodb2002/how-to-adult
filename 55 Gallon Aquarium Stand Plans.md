@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=HMjsDncORvk
 13x 10"
 4x 26.5"
 
-![55galplans.png](./07 - Self Sufficiency/04 - Construction/55galplans.png)
+![55galplans.png](./02 - Self Sufficiency/06 - Construction/55galplans.png)
