@@ -12,7 +12,7 @@ modified: NaN
 
 
 # Summary
-campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
+campaign:: [03 - Games](./03%20-%20Games.md)
 aspect:: [00 - Game Development](./00%20-%20Game%20Development.md)
 started:: [2023-04-21](./2023-04-21.md)
 completed::
