@@ -20,7 +20,7 @@ modified: <%+ tp.file.last_modified_date() %>
 
 # Summary
 campaign:: [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
-aspect:: [03 - Ethics](./03%20-%20Ethics.md)
+aspect:: [06 - Reason](./06%20-%20Reason.md)
 
 ## Complete Criteria:
 1. 
