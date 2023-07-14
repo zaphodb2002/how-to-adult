@@ -21,7 +21,7 @@ completed::
 ## Why is this important?:
 
 # Missions
-1. [Create my Path to Glory Roster](./Create%20my%20Path%20to%20Glory%20Roster.md)
+1. ~~[Create my Path to Glory Roster](./Create%20my%20Path%20to%20Glory%20Roster.md)~~
 
 # Notes
 [Jon Hamilton](./Jon%20Hamilton.md)
