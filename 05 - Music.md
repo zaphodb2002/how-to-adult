@@ -146,3 +146,4 @@ dv.el("div", result)
 - [x] New Aspect: Writing ✅ 2023-03-20
 - [x] add an [Album Wish List](./Album%20Wish%20List.md) ➕ 2023-03-02 ✅ 2023-03-02
 - [x] add MF Doom's *The Mouse & The Mask* album record ➕ 2023-03-02 ✅ 2023-03-02
+- [-] Listen to an episode of [No Dogs in Space](No%20Dogs%20in%20Space.md) #podcast #fun #music #lpotl #history 🥄+2  📆2023-07-16

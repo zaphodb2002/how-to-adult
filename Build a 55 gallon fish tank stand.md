@@ -11,8 +11,8 @@ modified: NaN
 # Things to Do
 - [ ] Do the Thing ➕ 2023-07-07 🛫 2024-05-26 
 # Summary
-campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
-aspect:: [04 - Construction](./04%20-%20Construction.md)
+campaign:: [07 - Self Sufficiency](07%20-%20Self%20Sufficiency.md)
+aspect:: [06 - Construction](./06%20-%20Construction.md)
 started:: [2023-05-26](./2023-05-26.md)
 completed::
 ## Complete Criteria:

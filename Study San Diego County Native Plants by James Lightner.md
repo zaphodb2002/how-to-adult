@@ -11,8 +11,8 @@ modified: NaN
 # Things to Do
 - [ ] New Mission: Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-04-17
 # Summary
-campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
-aspect:: [02 - Gardening](./02%20-%20Gardening.md)
+campaign:: [07 - Self Sufficiency](07%20-%20Self%20Sufficiency.md)
+aspect:: [04 - Gardening](./04%20-%20Gardening.md)
 started:: [2023-05-17](./2023-05-17.md)
 completed::
 ## Complete Criteria:

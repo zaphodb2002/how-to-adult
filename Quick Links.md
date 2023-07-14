@@ -10,7 +10,7 @@ modified: <%+ tp.file.last_modified_date() %>
 🚧[Maintenance Views](./Maintenance%20Views.md)
 🔁[Routine Planner](./Routine%20Planner.md)
 🥄[Spoon Tracker](./Spoon%20Tracker.md)
-📜[ Templates](08%20-%20Templates.md)
+📜[ Templates](./05%20-%20Templates.md)
 🏡[My House](./My%20House.md)
 ✅[Habit Tracker](Habit%20Tracker.md)
 📚[Bookshelf](./Bookshelf.md)

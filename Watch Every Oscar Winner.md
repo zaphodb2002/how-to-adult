@@ -12,8 +12,8 @@ modified: NaN
 # Things to Do
 
 # Summary
-campaign:: [09 - Cinema](./09%20-%20Cinema.md)
-aspect:: [03 - Research](./03%20-%20Research.md)
+campaign:: [09 - Cinema](09%20-%20Cinema.md)
+aspect:: [03 - Research](03%20-%20Research.md)
 started:: [2023-04-11](./2023-04-11.md)
 completed::
 ## Complete Criteria:

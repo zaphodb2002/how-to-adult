@@ -13,8 +13,8 @@ modified: <%+ tp.file.last_modified_date() %>
 
 
 # Summary
-campaign:: [02 - Financial Stability](./02%20-%20Financial%20Stability.md)
-aspect:: [03 - Digital Footprint](./03%20-%20Digital%20Footprint.md)
+campaign:: [02 - Self Sufficiency](./02%20-%20Self%20Sufficiency.md)
+aspect:: [03 - Digital Footprint](03%20-%20Digital%20Footprint.md)
 
 ## Complete Criteria:
 1. Own JoshuaLindhardt.com or similar

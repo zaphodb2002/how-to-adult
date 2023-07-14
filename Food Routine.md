@@ -9,17 +9,17 @@ modified: NaN
   #routine
 
 # Daily
-- [ ] Eat Breakfast #habit #Food  🥄+2 ⏫
-- [ ] Eat Lunch #habit #habit #Food  🥄+2 ⏫
-- [ ] Eat Dinner #habit #habit #Food  🥄+2 ⏫
+- [ ] Eat Breakfast #habit #Food  🥄+2 🔼 
+- [ ] Eat Lunch #habit #habit #Food  🥄+2 🔼 
+- [ ] Eat Dinner #habit #habit #Food  🥄+2 🔼 
 - [ ] Have a snack #Food  🥄+1
 - [ ] Have a snack #Food  🥄+1
 - [ ] Drink Coffee #caffeine #adhd  🥄+2
 - [ ] Drink Coffee #caffeine #adhd  🥄+2 
-- [ ] Drink an Energy Drink #caffeine #adhd  🥄+3
+- [ ] Drink an Energy Drink #caffeine #adhd  🥄+3 🔼 
 
 # Weekly
-- [ ] Prep a meal #cooking #Food  🥄+5
+- [ ] Prep a meal #cooking #Food  🥄5
 # Monthly
 # Seasonally
 # Yearly

@@ -11,7 +11,7 @@ modified: NaN
 # Things to Do
 - [ ] New Mission: Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-04-17
 # Summary
-campaign:: [08 - Animation](./08%20-%20Animation.md)
+campaign:: [04 - Visual Arts](./04%20-%20Visual%20Arts.md)
 aspect:: [01 - Cartooning](./01%20-%20Cartooning.md)
 started:: 
 completed::

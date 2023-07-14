@@ -12,10 +12,10 @@ modified: NaN
 - [ ] Tidy away 1 thing in the kitchen #tidying #littlePush #kitchen #challenge 🥄+2
 
 # Weekly
-- [ ] Put away clean dishes from dishwasher #tidying #kitchen 🥄1
-- [ ] Fill dishwasher #tidying #kitchen  🥄5
-- [ ] Start dishwasher #cleaning #kitchen  🥄1
-- [ ] Put dirty dishes in sink #tidying #kitchen  🥄1
+- [ ] Put away clean dishes from dishwasher #habit #tidying #kitchen 🥄1
+- [ ] Fill dishwasher #tidying #kitchen #habit 🥄5
+- [ ] Start dishwasher #cleaning #kitchen #habit 🥄1
+- [ ] Put dirty dishes in sink #tidying #kitchen #habit  🥄1
 - [ ] Take out trash to curb #cleaning #challenge #myHouse #outside 🥄2
 - [ ] Tidy [Kitchen](./Kitchen.md) for 15 minutes #tidying #challenge #myHouse 🥄5
 - [ ] Clean [Kitchen](./Kitchen.md) for 15 minutes #tidying #challenge #myHouse 🥄5

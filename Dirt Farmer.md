@@ -15,10 +15,13 @@ modified: NaN
 
 
 # Summary
-campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
-aspect:: [02 - Gardening](./02%20-%20Gardening.md)
+campaign:: [07 - Self Sufficiency](07%20-%20Self%20Sufficiency.md)
+aspect:: [04 - Gardening](./04%20-%20Gardening.md)
 started::  [2023-02-27](./2023-02-27.md)
 completed::
+
+
+[My House > Gardens](./My%20House.md#Gardens)
 
 ## Complete Criteria:
 1. Buy no produce from the store for an entire year.
@@ -41,13 +44,11 @@ I own the land, I should use it.  Supply chains have less effect on me.  Food le
 2. ~~Complete [Spring Gardening 2023](./Spring%20Gardening%202023.md)~~
 3. [Fence in the Garden](./Fence%20in%20the%20Garden.md)
 4. [Turn the Field](./Turn%20the%20Field.md)
-5. 
-6. [Overall Plan for Garden 2023](./Overall%20Plan%20for%20Garden%202023.md)
-7. [Plan Irrigation System](./Plan%20Irrigation%20System.md)
-8. [Purchase Supplies for Irrigation](Purchase%20Supplies%20for%20Irrigation.md)
-9. [Install Automated Irrigation](Install%20Automated%20Irrigation.md)
-10. [Plant Spring Seeds](Plant%20Spring%20Seeds.md)
-11. [Plant Late Spring Seeds](Plant%20Late%20Spring%20Seeds.md)
+5. [Overall Plan for Garden 2023](./Overall%20Plan%20for%20Garden%202023.md)
+6. ~~[Plan Irrigation System](./Plan%20Irrigation%20System.md)~~
+7. [Purchase Supplies for Irrigation](./Purchase%20Supplies%20for%20Irrigation.md)
+8. [Install Automated Irrigation](./Install%20Automated%20Irrigation.md)
+
 
 # Notes
 ## Early Spring - April 1 - April 30
@@ -204,5 +205,5 @@ I own the land, I should use it.  Supply chains have less effect on me.  Food le
 - [x] New Major Quest: Spring 2023 #bureaucracy 🥄+1 ⏫ ➕ 2023-03-31 ⏳ 2023-04-17 ✅ 2023-04-11
 	- Split this up
 - [x] New Mission: Overall Plan for Garden 2023 #bureaucracy 🥄+1 ⏫ ➕ 2023-03-10 ✅ 2023-03-26
-- [x] implement Plant records for [02 - Gardening](./02%20-%20Gardening.md) ➕ 2023-03-16 ✅ 2023-03-26
+- [x] implement Plant records for [04 - Gardening](./04%20-%20Gardening.md) ➕ 2023-03-16 ✅ 2023-03-26
 - [x] ⏫ New Mission: [Fence in the Garden](./Fence%20in%20the%20Garden.md) #bureaucracy 🥄+1 ➕ 2023-03-10 ✅ 2023-03-11

@@ -9,7 +9,7 @@ modified: <%+ tp.file.last_modified_date() %>
 
 
 # Summary
-campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
+campaign:: [03 - Games](./03%20-%20Games.md)
 # Quests
 - [Living the Dream](./Living%20the%20Dream.md)
 - [YouTuber](./YouTuber.md)

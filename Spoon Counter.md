@@ -138,13 +138,13 @@ dv.paragraph('## 🥄Current Spoons: ' + current + "/" + dv.current()["maxSpoons
 - Grocery Shopping #Food #shopping #money 🥄10
 - Home Depot #shopping #fun 🥄5
 
-## [Video Games](./03%20-%20Video%20Games.md)
+## [Video Games](./03%20-%20Games.md)
 ---
 - Play Video Games for 30 min #fun 🥄+5
 - Play games with friends  #fun #socializing  🥄+10
 - Watch Twitch for 30 minutes #research #streaming 🥄+5
 - GameDev for 30 min 🥄+5 #fun #programming #work
-## [Psychonautics](./04%20-%20Psychonautics.md)
+## [Psychonautics](./09%20-%20Psychonautics.md)
 ---
 - Have an edible #420BlazeIt  🥄+10
 - Clean Weed Stuff #cleaning  🥄+5
@@ -160,7 +160,7 @@ dv.paragraph('## 🥄Current Spoons: ' + current + "/" + dv.current()["maxSpoons
 ---
 - Read a chapter #reading 🥄+10
 
-## [Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
+## [Self Sufficiency](07%20-%20Self%20Sufficiency.md)
 ---
 
 - Water the Garden #outside #garden #myHouse 🥄5
@@ -168,11 +168,11 @@ dv.paragraph('## 🥄Current Spoons: ' + current + "/" + dv.current()["maxSpoons
 - Weedwhack #outside #myHouse #exercise  🥄10
 - Mow the Lawn #outside #myHouse #exercise 🥄10
 
-## [Animation](./08%20-%20Animation.md)
+## [Animation](./04%20-%20Visual%20Arts.md)
 ---
 - Fill a sketchbook page #art 🥄+5
 
-## [Cinema](./09%20-%20Cinema.md)
+## [Cinema](09%20-%20Cinema.md)
 ---
 - Watch an episode of Star Trek #StarTrek #DS9 #WorfSux 🥄+10 
 - Watch a movie 🥄+25 (1x a day)

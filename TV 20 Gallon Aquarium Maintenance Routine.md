@@ -19,7 +19,7 @@ modified: NaN
 
 - [ ] Scrub Glass on [TV 20 Gallon Aquarium](TV%2020%20Gallon%20Aquarium.md) #fishies #cleaning #wet 🥄5
 - [ ] Top Off [TV 20 Gallon Aquarium](TV%2020%20Gallon%20Aquarium.md) #fishies #wet 🥄2
-- [ ] Test water in [TV 20 Gallon Aquarium](TV%2020%20Gallon%20Aquarium.md) #fishies 🥄1
+- [ ] Test water in [TV 20 Gallon Aquarium](TV%2020%20Gallon%20Aquarium.md) #fishies 🥄1 🔼 
 # Monthly
 - [ ] 30% water change on [TV 20 Gallon Aquarium](TV%2020%20Gallon%20Aquarium.md) #habit #fishies 🥄5
 - [ ] Add a Catappa leaf to [TV 20 Gallon Aquarium](TV%2020%20Gallon%20Aquarium.md) #fishies 🥄+2

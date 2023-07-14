@@ -9,15 +9,15 @@ modified: NaN
   #routine
 
 # Daily
-- [ ] Put dirty clothes in washing machine #cleaning #clothes #BePrepared  🥄5 
+- [ ] Put dirty clothes in washing machine #cleaning #clothes #BePrepared  🥄5 ⏫ 
 
 # Weekly
 - [ ] Run the washing machine #cleaning #clothes #BePrepared 🥄1
-- [ ] Move clothes to the drier #cleaning #clothes #BePrepared 🥄1
-- [ ] Put away clean clothes #tidying #clothes #BePrepared 🥄5
+- [ ] Move clothes to the drier #cleaning #clothes #BePrepared 🥄5 ⏫ 
+- [ ] Put away clean clothes #tidying #clothes #BePrepared #challenge #adhd 🥄7
 - [ ] Run the washing machine #cleaning #clothes #BePrepared 🥄1
-- [ ] Move clothes to the drier #cleaning #clothes #BePrepared 🥄1
-- [ ] Put away clean clothes #tidying #clothes #BePrepared 🥄5
+- [ ] Move clothes to the drier #cleaning #clothes #BePrepared 🥄1 ⏫ 
+- [ ] Put away clean clothes #tidying #clothes #BePrepared #challenge #adhd 🥄7
 # Monthly
 - [ ] Inventory clothes and throw away anything that's damaged or you don't like #clothes #grooming #style 🥄5
 # Seasonally

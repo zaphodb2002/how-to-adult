@@ -13,8 +13,8 @@ modified: <%+ tp.file.last_modified_date() %>
 
 
 # Summary
-campaign:: [02 - Financial Stability](./02%20-%20Financial%20Stability.md)
-aspect:: [01 - Employment](./01%20-%20Employment.md)
+campaign:: [02 - Self Sufficiency](./02%20-%20Self%20Sufficiency.md)
+aspect:: [01 - Financial Stability](./01%20-%20Financial%20Stability.md)
 
 ## Complete Criteria:
 1. Get a full time job

@@ -11,9 +11,9 @@ modified: NaN
 # Daily
 - [ ] Tidy 1 thing in the bedroom #tidying #littlePush #challenge 🥄+2
 # Weekly
-- [ ] Tidy [Bedroom](./Bedroom.md) for 5 minutes #tidying #challenge #myHouse 🥄5
-- [ ] Clean [Bedroom](./Bedroom.md)  for 5 minutes #cleaning  #challenge #myHouse 🥄5
-- [ ] Organize [Bedroom](./Bedroom.md)  for 5 minutes #organizing  #challenge #myHouse 🥄5
+- [ ] Tidy [Bedroom](./Bedroom.md) for 15 minutes #habit #tidying #challenge #myHouse 🥄5
+- [ ] Clean [Bedroom](./Bedroom.md)  for 15 minutes #habit #cleaning  #challenge #myHouse 🥄5
+- [ ] Organize [Bedroom](./Bedroom.md)  for 15 minutes #habit #organizing  #challenge #myHouse 🥄5
 # Monthly
 - [ ] Wash sheets #cleaning #sleep 🥄2
 - [ ] Put sheets on bed #tidying #sleep 🥄5

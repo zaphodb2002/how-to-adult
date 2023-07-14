@@ -12,8 +12,8 @@ modified: NaN
 
 
 # Summary
-campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
-aspect:: [02 - Gardening](./02%20-%20Gardening.md)
+campaign:: [07 - Self Sufficiency](07%20-%20Self%20Sufficiency.md)
+aspect:: [04 - Gardening](./04%20-%20Gardening.md)
 started:: [2023-04-01](./2023-04-01.md)
 completed:: [2023-07-01](./2023-07-01.md)
 ## Complete Criteria:
@@ -56,7 +56,7 @@ This was a bad season.  I was experiencing a lot #depression so watering fell by
 	- [2023-04-12](./2023-04-12.md) starting to sprout
 	- [2023-06-27](./2023-06-27.md) expected harvest (15 weeks according to Gardenate.com)
 - [2023-03-13](./2023-03-13.md) - [Watermelon](./Watermelon.md) planted at east side of garden
-	- [2023-07-11](2023-07-11.md) expected harvest (17 weeks according to Gardenate.com)
+	- [2023-07-11](./2023-07-11.md) expected harvest (17 weeks according to Gardenate.com)
 - - [2023-03-12](./2023-03-12.md) 17:08 [Nasturtium](Nasturtium.md) planted along the west and north edges of garden
 - - [2023-03-12](./2023-03-12.md) 17:07 [Potato](./Potato.md)es planted 20ft row at west end of garden, with [Alyssum](Alyssum.md) on top
 	- [2023-04-06](./2023-04-06.md) Alyssum sprouted

@@ -1,7 +1,7 @@
 ---
 share: true
 type: "mission"
-status: "active"
+status: "available"
 
 created: <%+ tp.file.creation_date() %> 
 modified: <%+ tp.file.last_modified_date() %>
@@ -9,10 +9,10 @@ modified: <%+ tp.file.last_modified_date() %>
  
 # Summary
 quest:: [Rethink Routines](./Rethink%20Routines.md)
-started:: [2023-04-10](./2023-04-10.md)
+started:: 
 completed::
 # Tasks
-- [ ] Create the first task for this mission  #bureaucracy 🥄1 ⏫ ➕ 2023-04-10
+- [ ] Do the Thing  #bureaucracy 🥄1 ⏫ ➕ 2023-04-10  
 
 # Notes
 

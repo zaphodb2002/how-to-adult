@@ -13,7 +13,7 @@ started:: [2023-05-26](./2023-05-26.md)
 completed::
 # Tasks
 - [ ] Do the thing ➕ 2023-06-19 🛫 2023-05-26
-- [ ] Buy a new charger for the Ryobi ONE batteries #shopping #tools #diy 🥄1 ➕ 2023-06-19 
+- [ ] Buy a new charger for the Ryobi ONE batteries #shopping #tools #diy 🥄1 🔼 ➕ 2023-06-19
 - [ ] Buy some 16" quick clamps #shopping #woodworking #diy 🥄1 ➕ 2023-05-26
 - [ ] Buy an orbital sander #shopping #woodworking #diy 🥄1 ➕ 2023-05-26
 - [ ] Find a place to neatly organize all this stuff and document #organizing #LMS #documentation ➕ 2023-06-19 

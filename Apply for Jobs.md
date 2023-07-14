@@ -6,22 +6,22 @@ status: "active"
 #routine  
 # Daily
 ## Morning
-- [ ] Check email #bureaucracy #communication 🥄3
-- [ ] Apply for a job #NotFun #tedious   🥄2 
+- [ ] Check email #bureaucracy #communication 🥄3 ⏫ 
+- [ ] Apply for a job #NotFun #tedious   🥄2 ⏫ 
 ## Afternoon
 ## Evening
 # Weekly
-- [ ] Apply for a job #NotFun #tedious   🥄2 
-- [ ] Apply for a job #NotFun #tedious 🥄2 
-- [ ] Apply for a job #NotFun #tedious  🥄2 
-- [ ] Apply for a job #NotFun #tedious  🥄2 
-- [ ] Apply for a job #NotFun #tedious  🥄2 
-- [ ] Apply for a job #NotFun #tedious   🥄2 
-- [ ] Apply for a job #NotFun #tedious 🥄2 
-- [ ] Apply for a job #NotFun #tedious  🥄2 
-- [ ] Apply for a job #NotFun #tedious  🥄2 
-- [ ] Apply for a job #NotFun #tedious  🥄2 
-- [ ] Certify for EDD Benefits #money #government #tedious 🥄5
+- [ ] Apply for a job #NotFun #tedious   🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious 🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious  🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious  🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious  🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious   🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious 🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious  🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious  🥄2 ⏫
+- [ ] Apply for a job #NotFun #tedious  🥄2 ⏫
+- [ ] Certify for EDD Benefits #money #government #tedious 🥄5 🔺 
 # Monthly
 
 # Seasonally

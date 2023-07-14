@@ -11,8 +11,8 @@ modified: NaN
 # Things to Do
 - [ ] New Mission: Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-04-17
 # Summary
-campaign:: [02 - Financial Stability](./02%20-%20Financial%20Stability.md)
-aspect:: [04 - Expenses](./04%20-%20Expenses.md)
+campaign:: [02 - Self Sufficiency](./02%20-%20Self%20Sufficiency.md)
+aspect:: [04 - Expenses](04%20-%20Expenses.md)
 started:: 
 completed::
 ## Complete Criteria:

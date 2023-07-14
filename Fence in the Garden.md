@@ -13,7 +13,7 @@ started:: [2023-W13](./2023-W13.md)
 The dogs wreck up the place and need to be kept out.  Also I think psychologically sectioning off an area will help me tackle the task.
 
 # Tasks
-- [ ] Do the thing ➕ 2023-06-19 🛫 2023-03-12
+- [ ] Do the thing #onHold ➕ 2023-06-19 🛫 2023-03-12
 - [ ] Measure gate width #garden #myHouse   🥄5 ⏫ ➕ 2023-03-25
 - [ ] Roughly level the work area. #garden #myHouse #exercise 🥄10 ⏫ ➕ 2023-03-25 
 - [ ] dig post holes #garden #myHouse #exercise  🥄15 ⏫ ➕ 2023-03-25 

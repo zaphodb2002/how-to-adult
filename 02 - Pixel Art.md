@@ -8,7 +8,7 @@ modified: NaN
 # Things to Do
 
 # Summary
-campaign:: [08 - Animation](./08%20-%20Animation.md)
+campaign:: [04 - Visual Arts](./04%20-%20Visual%20Arts.md)
 # Quests
 [Study Slynyrd's Blog](./Study%20Slynyrd's%20Blog.md)
 

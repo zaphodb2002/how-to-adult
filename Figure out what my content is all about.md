@@ -14,8 +14,8 @@ modified: NaN
 - [ ] Re-record video #streaming #practice  🥄5 ➕ 2023-06-19 
 
 # Summary
-campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
-aspect:: [06 - Streaming](./06%20-%20Streaming.md)
+campaign:: [03 - Games](./03%20-%20Games.md)
+aspect:: [05 - Content Generation](./05%20-%20Content%20Generation.md)
 started:: 
 completed::
 ## Complete Criteria:

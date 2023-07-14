@@ -10,9 +10,9 @@ modified: NaN
 
 # Daily
 # Weekly
-- [ ] Check ynab #capitalismSux #BePrepared #money #anxiety #NotFun  🥄5
+- [ ] Check ynab #capitalismSux #BePrepared #money #anxiety #NotFun  🥄5 🔼 
 # Monthly
-- [ ] Pay water bill #money #NotFun #anxiety  🥄3
+- [ ] Pay water bill #money #NotFun #anxiety  🥄3 ⏫ 
 - [ ] Verify the mortgage got paid #money #NotFun #anxiety 🥄+10
 - [ ] Verify the electricity bill #money #NotFun #anxiety 🥄+10
 - [ ] Verify the trash bill got paid #money #NotFun #anxiety 🥄+10

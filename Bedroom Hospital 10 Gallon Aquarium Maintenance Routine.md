@@ -19,7 +19,7 @@ modified: NaN
 
 - [ ] Scrub Glass on [Bedroom Hospital 10 Gallon Aquarium](Bedroom%20Hospital%2010%20Gallon%20Aquarium.md) #fishies #cleaning #wet 🥄5
 - [ ] Top Off [Bedroom Hospital 10 Gallon Aquarium](Bedroom%20Hospital%2010%20Gallon%20Aquarium.md) #fishies #wet 🥄2
-- [ ] Test water in [Bedroom Hospital 10 Gallon Aquarium](Bedroom%20Hospital%2010%20Gallon%20Aquarium.md) #fishies 🥄1
+- [ ] Test water in [Bedroom Hospital 10 Gallon Aquarium](Bedroom%20Hospital%2010%20Gallon%20Aquarium.md) #fishies 🥄1 🔼 
 # Monthly
 - [ ] 30% water change on [Bedroom Hospital 10 Gallon Aquarium](Bedroom%20Hospital%2010%20Gallon%20Aquarium.md) #habit #fishies 🥄5
 - [ ] Add a Catappa leaf to [Bedroom Hospital 10 Gallon Aquarium](Bedroom%20Hospital%2010%20Gallon%20Aquarium.md) #fishies 🥄+2
