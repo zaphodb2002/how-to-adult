@@ -15,8 +15,8 @@ modified: NaN
 
 
 # Summary
-campaign:: [04 - Psychonautics](./04%20-%20Psychonautics.md)
-aspect:: [02 - Cannabis](./02%20-%20Cannabis.md)
+campaign:: [09 - Psychonautics](./09%20-%20Psychonautics.md)
+aspect:: [02 - Cannabis](02%20-%20Cannabis.md)
 
 ## Complete Criteria:
 1. Grow and package at least 12 oz
