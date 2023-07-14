@@ -13,8 +13,8 @@ modified: <%+ tp.file.last_modified_date() %>
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-03-24
 
 # Summary
-campaign:: [02 - Financial Stability](./02%20-%20Financial%20Stability.md)
-aspect:: [02 - Skills](./02%20-%20Skills.md)
+campaign:: [02 - Self Sufficiency](./02%20-%20Self%20Sufficiency.md)
+aspect:: [02 - Computers](./02%20-%20Computers.md)
 
 ## Complete Criteria:
 1. [Fundamentals of Computing Specialization](./Fundamentals%20of%20Computing%20Specialization.md)
