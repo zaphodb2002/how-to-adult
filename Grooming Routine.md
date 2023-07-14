@@ -9,9 +9,10 @@ modified: NaN
   #routine
 
 # Daily
-- [ ] Brush Your Hair #habit #hygiene #grooming #hair 🥄+1 ⏫
-- [ ] Take A Shower #habit #hygiene #grooming #stinky #wet 🥄+3 ⏫ 
-- [ ] Brush Your Teeth #habit #hygiene #grooming 🥄+2 ⏫
+- [ ] Brush Your Hair #habit #hygiene #grooming #hair 🥄1 ⏫
+- [ ] Take A Shower #habit #hygiene #grooming #stinky #wet 🥄3 ⏫ 
+- [ ] Brush Your Teeth #habit #hygiene #grooming 🥄5 🔺 
+- [ ] Put on Deodorant #habit #hygiene #grooming 🥄1 ⏫ 
 # Weekly
 
 # Monthly
