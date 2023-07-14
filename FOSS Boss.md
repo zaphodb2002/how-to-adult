@@ -15,7 +15,7 @@ modified: NaN
 - [ ] Get Involved: https://github.com/learn-monogame/learn-monogame.github.io/discussions ⏫ ➕2023-03-18
 
 # Summary
-campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
+campaign:: [03 - Games](./03%20-%20Games.md)
 aspect:: [00 - Game Development](./00%20-%20Game%20Development.md)
 
 ## Complete Criteria: 
@@ -24,7 +24,7 @@ aspect:: [00 - Game Development](./00%20-%20Game%20Development.md)
 3. Contribute 10 times to the same project
 
 ## Why is this important?:
-Practice.  Also exposure.  Open source is good for the community and also good for your [Financial Stability](./02%20-%20Financial%20Stability.md) since people can see it.
+Practice.  Also exposure.  Open source is good for the community and also good for your [Financial Stability](./02%20-%20Self%20Sufficiency.md) since people can see it.
 
 # Missions
 1.
