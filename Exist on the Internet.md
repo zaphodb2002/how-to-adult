@@ -23,8 +23,8 @@ modified: NaN
 	- This is going to be a lot of stuff to change.  Probably needs a quest and mission.
 - [ ] Stackexchange and stackoverflow are good places to build up my [Digital Footprint](Digital%20Footprint.md)➕ 2023-03-03 
 # Summary
-campaign:: [02 - Financial Stability](./02%20-%20Financial%20Stability.md)
-aspect:: [03 - Digital Footprint](./03%20-%20Digital%20Footprint.md)
+campaign:: [02 - Self Sufficiency](./02%20-%20Self%20Sufficiency.md)
+aspect:: [03 - Digital Footprint](03%20-%20Digital%20Footprint.md)
 
 ## Complete Criteria:
 1. Portfolio website is publicly available and presentable to potential employers
