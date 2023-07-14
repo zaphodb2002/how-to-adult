@@ -11,8 +11,8 @@ modified: NaN
 # Things to Do
 
 # Summary
-campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
-aspect:: [02 - Gardening](./02%20-%20Gardening.md)
+campaign:: [07 - Self Sufficiency](07%20-%20Self%20Sufficiency.md)
+aspect:: [04 - Gardening](./04%20-%20Gardening.md)
 started:: 
 completed::
 ## Complete Criteria:
