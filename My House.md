@@ -30,15 +30,22 @@ Interior Wall Thickness: 5" or 12.7 cm
 ### [Back Deck](./Back%20Deck.md)
 ### [Front Porch](./Front%20Porch.md)
 
+## South Lawn
+### West Shed
+### Compost Pile
+
 ## Gardens
+[Irrigation System](./Irrigation%20System.md)
+### Flower Bed South
 ### Chaos Garden
 ### Order Garden
 ### Chimney Garden
 ### Pest Garden
-### West Shed
-### Compost Pile
+### Flower Bed North
+
 ## North Lawn
 ### North Shed
+
 ## Driveway
 - E Entrance
 - W Entrance
