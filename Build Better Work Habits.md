@@ -13,9 +13,17 @@ modified: NaN
 - [ ] Out of bed before 0800 #habit #depression 🥄+5
 - [ ] Put pants on #habit #depression 🥄+5
 - [ ] Put on shoes and socks #habit #depression 🥄+5
-- [ ] Put on watch #habit #communication #BePrepared 🥄+5
+- [ ] Put on watch #habit #communication #BePrepared 🥄+2
+- [ ] Wallet in pocket #habit #BePrepared 🥄+2
+- [ ] Keys in pocket #habit #BePrepared 🥄+2
 - [ ] Worked for a full pomodoro loop #adhd #habit 🥄+5
+- [ ] Work a pomodoro chunk #work #habit 🥄5 
+- [ ] Work a pomodoro chunk #work #habit 🥄5 
+- [ ] Work a pomodoro chunk #work #habit 🥄5 
+- [ ] Work a pomodoro chunk #work #habit 🥄5 
 # Weekly
+- [ ] Charge Watch #habit #BePrepared 🥄5
+- [ ] Charge Watch #habit #BePrepared 🥄5
 # Monthly
 # Seasonally
 # Yearly
