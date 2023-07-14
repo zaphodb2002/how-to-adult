@@ -8,7 +8,7 @@ modified: NaN
 # Things to Do
 
 # Summary
-campaign:: [08 - Animation](./08%20-%20Animation.md)
+campaign:: [04 - Visual Arts](./04%20-%20Visual%20Arts.md)
 
 # Quests
 [Competent Cartoonist](./Competent%20Cartoonist.md)
