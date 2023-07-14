@@ -12,8 +12,8 @@ modified: NaN
 
 - [ ] New Mission: Create the first mission for this quest #bureaucracy 🥄+1 ➕ 2023-04-11
 # Summary
-campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
-aspect:: [03 - Automotive](./03%20-%20Automotive.md)
+campaign:: [07 - Self Sufficiency](07%20-%20Self%20Sufficiency.md)
+aspect:: [05 - Automotive](./05%20-%20Automotive.md)
 started:: 
 completed::
 ## Complete Criteria:
