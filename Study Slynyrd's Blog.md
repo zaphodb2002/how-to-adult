@@ -11,7 +11,7 @@ modified: NaN
 # Things to Do
 - [ ] Create the first mission for this quest 🥄1 ➕ 2023-04-11
 # Summary
-campaign:: [08 - Animation](./08%20-%20Animation.md)
+campaign:: [04 - Visual Arts](./04%20-%20Visual%20Arts.md)
 aspect:: [02 - Pixel Art](./02%20-%20Pixel%20Art.md)
 started:: 
 completed::
