@@ -14,8 +14,8 @@ modified: NaN
 
 
 # Summary
-campaign:: [07 - Self Sufficiency](./07%20-%20Self%20Sufficiency.md)
-aspect:: [05 - Tools](./05%20-%20Tools.md)
+campaign:: [07 - Self Sufficiency](07%20-%20Self%20Sufficiency.md)
+aspect:: [07 - Tools](./07%20-%20Tools.md)
 
 ## Complete Criteria:
 1. Own a glorious toolbox, something you really love.  There are some cool ones out there.
