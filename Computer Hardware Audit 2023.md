@@ -13,8 +13,8 @@ modified: NaN
 - [ ] New Mission: Figure out how to stream (remote play, not Twitch) non-Steam games #bureaucracy 🥄+1 ⏫ ➕ 2023-03-18
 
 # Summary
-campaign:: [03 - Video Games](./03%20-%20Video%20Games.md)
-aspect:: [03 - Hardware](./03%20-%20Hardware.md)
+campaign:: [03 - Games](./03%20-%20Games.md)
+aspect:: [03 - Hardware](03%20-%20Hardware.md)
 started:: 
 completed::
 ## Complete Criteria:
