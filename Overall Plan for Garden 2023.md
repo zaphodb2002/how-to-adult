@@ -14,7 +14,7 @@ Need to flesh out a list of the things I want to accomplish in the garden this y
 # Tasks
 - [ ] Do the thing #onHold ➕ 2023-06-19 🛫 2023-03-24
 - [ ] Measure out all the yard spaces and draw a diagram of the yard with names for the areas 🥄10 ⏫ ➕ 2023-03-24
-- [ ] Figure out what I need to buy generally #money #shopping #planning 🥄5 ⏫ ➕ 2023-03-24
+- [ ] Figure out what I need to buy generally #money #planning 🥄5 ⏫ ➕ 2023-03-24
 	- New Water Wand
 	- Tool Rack
 	- Garden Cart?
