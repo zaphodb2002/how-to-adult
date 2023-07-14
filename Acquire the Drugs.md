@@ -2,7 +2,7 @@
 share: true
 type: "mission"
 quest: "Get Adderall"
-status: "available"
+status: "completed"
 
 created: NaN 
 modified: NaN
@@ -11,7 +11,7 @@ modified: NaN
 # Summary
 
 # Tasks
-- [ ] Pick up Meds #DownTheHill #money 🥄10 ⏫ 🔁 every day ➕ 2023-03-31
+- [-] Pick up Meds #DownTheHill #money 🥄10 ⏫ 🔁 every day ➕ 2023-03-31
 
 # Notes
 - 2023-03-05 10:30 - this has been delayed because they suck
