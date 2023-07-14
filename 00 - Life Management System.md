@@ -7,10 +7,6 @@ modified: <%+ tp.file.last_modified_date() %>
 ---
 #bureaucracy
 # Things to Sort
-
-- [ ] Make a dental appt #PhoneCall #NotFun #healthy #adhd #grooming #hygiene 🥄10 🛫 2023-07-07 📅 2023-09-01 
-
-
 # Quests
 ## Main
 ### Active
@@ -137,7 +133,7 @@ dv.el("div", result)
 05 - 
 [06 - Scripts](./06%20-%20Scripts.md)
 07 - 
-[08 - Templates](./08%20-%20Templates.md)
+[05 - Templates](./05%20-%20Templates.md)
 [09 - Daily Notes](./09%20-%20Daily%20Notes.md)
 
 
@@ -222,3 +218,4 @@ archived.
 - [x] Add topic [01 - Gamification](./01%20-%20Gamification.md) ➕ 2023-02-28 ✅ 2023-03-03
 - [x] Add topic [Concepts](./Concepts.md) ➕ 2023-02-27 ✅ 2023-03-01
 - [x] Change wording of Topic to Aspect? ➕ 2023-03-02 ✅ 2023-03-02
+
