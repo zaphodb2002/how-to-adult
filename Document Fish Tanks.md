@@ -17,7 +17,7 @@ modified: NaN
 - [ ] Do the thing #bureaucracy ➕ 2023-05-17  🛫 2024-05-17 
 # Summary
 campaign:: [01 - Personal Wellness](./01%20-%20Personal%20Wellness.md)
-aspect:: [06 - Fishkeeping](./06%20-%20Fishkeeping.md)
+aspect:: [06 - Fishkeeping](06%20-%20Fishkeeping.md)
 started:: [2023-05-17](./2023-05-17.md)
 completed::
 ## Complete Criteria:
