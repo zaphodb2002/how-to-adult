@@ -52,7 +52,7 @@ Slab City grew a LOT
 NCR rolls back protections for agriculture, increasing use of chemicals and reducing health controls.  Water prices rise.  Food quality drops and it becomes harder to get food that isn't processed.
 
 ## 2038
-Earth reaches "peak oil", meaning that the oil remaining will only last a few years and the rich and powerful begin to stockpile.
+Earth reaches "peak oil", meaning that the oil remaining will only last a few years and the rich and powerful begin to stockpile. Corn Alcohol and Hydrogen are the most common combustion fuels, but electric vehicles are the norm in cities
 
 # Today
 ## 2045
