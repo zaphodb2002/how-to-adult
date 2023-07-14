@@ -2,7 +2,7 @@
 share: true
 type: "routine"
 sub-type: art
-status: "active"
+status: "available"
 created: NaN 
 modified: NaN
 ---
