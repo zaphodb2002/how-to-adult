@@ -1,0 +1,33 @@
+---
+share: true
+type: "quest"
+sub-type: "minor"
+status: "active"
+created: NaN 
+modified: NaN
+---
+ 
+ 
+# Things to Do
+
+# Summary
+campaign:: [04 - Games](04%20-%20Games.md)
+aspect:: [00 - Game Development](00%20-%20Game%20Development.md)
+started:: [2023-05-11](../../00%20-%20Life%20Management%20System/09%20-%20Daily%20Notes/2023-05-11.md)
+completed::
+## Complete Criteria:
+1. 
+
+## Why is this important?:
+
+# Missions
+1. ~~[Make a list of potential games to clone](../../06%20-%20Participation%20%F0%9F%8C%8E/02%20-%20Game%20Development%20%F0%9F%91%BE/Make%20a%20list%20of%20potential%20games%20to%20clone.md)~~
+2. Complete [Clone Space Invaders in Godot](./Clone%20Space%20Invaders%20in%20Godot.md)
+3. Complete [Clone Space Invaders in MonoGame](Clone%20Space%20Invaders%20in%20MonoGame.md)
+4. Complete [Clone Space Invaders in Bevy](Clone%20Space%20Invaders%20in%20Bevy.md)
+
+# Notes
+[Games to Clone](../../06%20-%20Participation%20%F0%9F%8C%8E/02%20-%20Game%20Development%20%F0%9F%91%BE/Games%20to%20Clone.md)
+Actually play the games
+# Things I've Done
+- [x] New Mission: Create the first mission for this quest #research #decision #bureaucracy 🥄+1 ➕ 2023-04-17 ⏳ 2023-05-11 ✅ 2023-05-11

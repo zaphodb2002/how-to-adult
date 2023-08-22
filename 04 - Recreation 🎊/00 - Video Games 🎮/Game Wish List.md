@@ -1,0 +1,116 @@
+---
+share: true
+type: "knowledge"
+created: NaN 
+modified: NaN
+---
+# Summary
+  
+- Beneath a Steel Sky
+- The Dig
+- Grim Fandango
+- Day of the Tentacle
+- Curse of Monkey Island
+- KOTOR
+- KOTOR 2
+- Planescape: Torment
+- Baldur's Gate 2
+- Legend of Zelda: Link to the Past
+- Outer Wilds
+- Night In The Woods
+- Norco
+- Kentucky Route Zero
+- DOOM (2016)
+- The Stanley Parable
+- BioShock Series
+- What Remains of Edith Finch
+- Metro Series
+- The Witcher 3
+- Pathologic 2
+- Bastion
+- The Beginner's Guide
+- To The Moon
+- Pillars of Eternity
+- Spec Ops: The Line
+- Warcraft 3
+- Hellblade: Senua's Sacrifice
+- A Plague Tale: Innocence
+- SOMA
+- Emily is Away
+- Her Story
+- Gone Home
+- Life is Strange
+- Hades
+- Persona 5
+- Return of the Obra Dinn
+- The Red Strings Club
+- Firewatch
+- Undertale
+- Child of Light
+- Elden Ring
+- Fire Emblem
+- Kingdom Come: Deliverance
+- Infocom text games
+- Kingdoms of Amalur: Reconing
+- Enslaved Odyssey to the West
+- Sunless Skies
+- Alan Wake
+- Detroit Become Human
+- The Last of Us
+- Cultist Simulator
+- Undertale
+- Brothers: A Tale of Two Sons
+- Cyberpunk 2077
+- Penitent
+- Fahrenheit: Indigo Prophecy
+- Heavy Rain
+- Sea of Solitude
+- Spiritfarer
+- Sunless Seas
+- Sunless Skies
+- The Vanishing of Ethan Carter
+- Observer
+- Amnesia
+- Divinity Original Sin 2
+- Prey (2017)
+- Subnautica
+- Dark Souls
+- Bloodborne
+- Portal
+- Mass Effect
+- Batman Arkham
+- Marvel's Spider-Man
+- Deus Ex
+- Dishonored
+- Oxenfree
+- Hollow Knight
+- Gris
+- Singularity
+- Wolfenstein New Order
+- Half Life 2
+- Half Life: Alxy
+- Shadow of the Colossus
+- Heart of Darkness (1998)
+- La Mulana
+- Middle Earth: Shadow of Mordor
+- Frost Punk
+- Starcraft
+- They are Billions
+- Orwell
+- Stalker: Call of Pripyat
+- LA Noire
+- God of War (2018)
+- Vampire the Masquerade: Bloodlines
+- The Wolf Among Us
+- Transistor
+- Limbo
+- Inside
+- Yakuza 0
+- Nier Automata
+- The Talos Principle
+- FFX
+- VA11-HALLA
+- Coffee Talks
+- Ghosts of Tsushima
+- Horizon Zero Dawn
+- Thimbleweed Park
